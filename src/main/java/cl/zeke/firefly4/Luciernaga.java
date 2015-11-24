@@ -8,8 +8,9 @@ package cl.zeke.firefly4;
 import static cl.zeke.firefly4.Firefly.cantCostos;
 import static cl.zeke.firefly4.Firefly.cantRestricciones;
 import static cl.zeke.firefly4.Firefly.matrix;
-import static cl.zeke.firefly4.Firefly.random;
 import static cl.zeke.firefly4.Firefly.vectorCostos;
+import java.util.Comparator;
+
 
 
 
@@ -21,52 +22,56 @@ import static cl.zeke.firefly4.Firefly.vectorCostos;
  * @author Usuario
  */
 public class Luciernaga {
+    
+    
     private int[] solucion;
     private int fitness;
-
+    
     public Luciernaga() {
         this.solucion = generarSolucionAleatoria();
-        calcularFitness();
+        this.validarYReparar();
+        this.calcularFitness();
     }
     public Luciernaga(int[] solucion) {
         this.solucion = solucion;
-        calcularFitness();
+        this.calcularFitness();
     }
     
     public static int[] generarSolucionAleatoria(){
         int[] nuevaLuciernaga = new int[cantCostos];
         for (int i = 0; i < cantCostos; i++) {
-            nuevaLuciernaga[i] = random.nextInt(2);
+            nuevaLuciernaga[i] = Utils.random.nextInt(2);
         }
         return nuevaLuciernaga;
     }
     
-    public void calcularFitness(){
+    private void calcularFitness(){
         fitness=0;
         for (int i = 0; i < solucion.length; i++) {
             fitness += vectorCostos.get(i)*solucion[i];
         }
     }
     
-    public void validarYReparar(){
-        boolean factible = false;
+    private void validarYReparar(){
+        boolean factible = true;
 //        System.out.println("\nreparando:");
 //        printSolucion();
         int indiceJPrimerUno = -1;
         for (int i = 0; i < cantRestricciones; i++) { // recorriendo restricciones
+            indiceJPrimerUno = -1;
             for (int j = 0; j < cantCostos; j++) { // recorriendo componentes de restriccion
-                if( matrix[i][j] == 1) {
+                if( matrix[i][j]==1 && solucion[j]==0) {
+//                  solucion[j] = 1;
                     indiceJPrimerUno=j;
-                    if (solucion[j]==1 ){
-                        factible= true;
-                        break;
-                    }
-                }
+                    factible= false;
+                }else factible=true;
+            }
+            if(!factible && indiceJPrimerUno!=-1){
+                solucion[indiceJPrimerUno] = 1;
             }
         }
-        if(!factible && indiceJPrimerUno!=-1){
-            solucion[indiceJPrimerUno] = 1;
-        }
+        
+        this.calcularFitness();
 //        System.out.println("\nreparada:");
 //        printSolucion();
     }
@@ -94,4 +99,14 @@ public class Luciernaga {
         System.out.println("");
     }
     
+}
+
+class LuciernagaComparator implements Comparator<Luciernaga> {
+
+    @Override
+    public int compare(Luciernaga l1, Luciernaga l2) {
+        return l1.getFitness() < l2.getFitness() ? -1
+               : l1.getFitness() == l2.getFitness() ? 0 : 1;
+    }
+
 }
