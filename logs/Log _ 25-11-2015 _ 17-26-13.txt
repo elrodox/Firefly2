@@ -1,0 +1,220 @@
+----------------------------------------------------------
+---- CONFIGURACION INICIAL ---
+25-11-2015 _ 17-26-13
+
+Semilla: 1448483173369
+Cantidad de luciernagas: 25
+Numero de iteraciones: 100
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 3
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+### :DD ###
+Generacion 1: 16517
+Generacion 2: 16517
+Generacion 3: 16517
+Generacion 4: 16517
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24595
+
+### :DD ###
+Generacion 5: 17995
+Generacion 6: 17995
+Generacion 7: 17995
+Generacion 8: 17995
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 26012
+
+### :DD ###
+Generacion 9: 18139
+Generacion 10: 18139
+Generacion 11: 18139
+Generacion 12: 18139
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25744
+
+### :DD ###
+Generacion 13: 18142
+Generacion 14: 18142
+Generacion 15: 18142
+Generacion 16: 18142
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24246
+
+### :DD ###
+Generacion 17: 18183
+Generacion 18: 18183
+Generacion 19: 18183
+Generacion 20: 18183
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25484
+
+### :DD ###
+Generacion 21: 18517
+### :DD ###
+Generacion 22: 18430
+Generacion 23: 18430
+Generacion 24: 18430
+Generacion 25: 18430
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25045
+
+### :DD ###
+Generacion 26: 18481
+Generacion 27: 18481
+Generacion 28: 18481
+Generacion 29: 18481
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25306
+
+### :DD ###
+Generacion 30: 18517
+Generacion 31: 18517
+Generacion 32: 18517
+Generacion 33: 18517
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 26135
+
+### :DD ###
+Generacion 34: 17809
+Generacion 35: 17809
+Generacion 36: 17809
+Generacion 37: 17809
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25733
+
+### :DD ###
+Generacion 38: 18521
+### :DD ###
+Generacion 39: 17095
+Generacion 40: 17095
+Generacion 41: 17095
+Generacion 42: 17095
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25310
+
+### :DD ###
+Generacion 43: 18521
+### :DD ###
+Generacion 44: 17741
+Generacion 45: 17741
+Generacion 46: 17741
+Generacion 47: 17741
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24920
+
+### :DD ###
+Generacion 48: 18448
+Generacion 49: 18448
+Generacion 50: 18448
+Generacion 51: 18448
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25681
+
+### :DD ###
+Generacion 52: 18521
+Generacion 53: 18521
+Generacion 54: 18521
+Generacion 55: 18521
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 26067
+
+### :DD ###
+Generacion 56: 18521
+### :DD ###
+Generacion 57: 17879
+Generacion 58: 17879
+Generacion 59: 17879
+Generacion 60: 17879
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25728
+
+### :DD ###
+Generacion 61: 18487
+Generacion 62: 18487
+Generacion 63: 18487
+Generacion 64: 18487
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 22562
+
+### :DD ###
+Generacion 65: 18241
+Generacion 66: 18241
+Generacion 67: 18241
+Generacion 68: 18241
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24490
+
+### :DD ###
+Generacion 69: 18347
+Generacion 70: 18347
+Generacion 71: 18347
+Generacion 72: 18347
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25899
+
+### :DD ###
+Generacion 73: 18447
+### :DD ###
+Generacion 74: 17922
+Generacion 75: 17922
+Generacion 76: 17922
+Generacion 77: 17922
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24370
+
+### :DD ###
+Generacion 78: 18447
+Generacion 79: 18447
+Generacion 80: 18447
+Generacion 81: 18447
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 23446
+
+### :DD ###
+Generacion 82: 18431
+### :DD ###
+Generacion 83: 18310
+Generacion 84: 18310
+Generacion 85: 18310
+Generacion 86: 18310
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25244
+
+### :DD ###
+Generacion 87: 18431
+Generacion 88: 18431
+Generacion 89: 18431
+Generacion 90: 18431
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24563
+
+### :DD ###
+Generacion 91: 18492
+Generacion 92: 18492
+Generacion 93: 18492
+Generacion 94: 18492
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24483
+
+### :DD ###
+Generacion 95: 17930
+Generacion 96: 17930
+Generacion 97: 17930
+Generacion 98: 17930
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25749
+
+### :DD ###
+Generacion 99: 18521
+Generacion 100: 18521
+----------------------------------------------------------
+
+Mejor Solucion: 18521
+

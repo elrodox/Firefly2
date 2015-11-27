@@ -1,0 +1,4221 @@
+----------------------------------------------------------
+---- INSTANCIA 'scp41' ----
+---- CONFIGURACION INICIAL ---
+25-11-2015 _ 19-14-40
+
+Semilla: 1448489680356
+Cantidad de luciernagas: 40
+Numero de iteraciones: 100
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 3
+Logs normales: true
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Leyendo instancia: scp41
+Se ha leido una Matriz de: 200x1000
+Generando luciernagas
+Generacion 0: 23602
+
+Comenzando iteraciones...
+Movimiento 1: 23690 :DD 19100
+Movimiento 2: 23690 :DD 20071
+Movimiento 3: 23728 :DD 20068
+Movimiento 4: 23762 :DD 19673
+Movimiento 5: 23858 :DD 18081
+Movimiento 6: 23916 :DD 21080
+Movimiento 7: 23949 :DD 21007
+Movimiento 8: 24190 :DD 19176
+Movimiento 9: 24210 :DD 20395
+Movimiento 10: 24350 :DD 19195
+Movimiento 11: 24368 :DD 20882
+Movimiento 12: 24459 :DD 19047
+Movimiento 13: 24520 :DD 20053
+Movimiento 14: 24633 :DD 19278
+Movimiento 15: 24812 :DD 20813
+Movimiento 16: 24869 :DD 18823
+Movimiento 17: 24987 :DD 19234
+Movimiento 18: 25158 :DD 20866
+Movimiento 19: 25165 :DD 20445
+Movimiento 20: 25174 :DD 18707
+Movimiento 21: 25188 :DD 19258
+Movimiento 22: 25208 :DD 18414
+Movimiento 23: 25288 :DD 19825
+Movimiento 24: 25339 :DD 18456
+Movimiento 25: 25371 :DD 18890
+Movimiento 26: 25495 :DD 19351
+Movimiento 27: 25532 :DD 19355
+Movimiento 28: 25553 :DD 17738
+Movimiento 29: 25558 :DD 18659
+Movimiento 30: 25587 :DD 19096
+Movimiento 31: 25668 :DD 18772
+Movimiento 32: 25684 :DD 18874
+Movimiento 33: 25963 :DD 19824
+Movimiento 34: 26122 :DD 17753
+Movimiento 35: 26148 :DD 18160
+Movimiento 36: 26153 :DD 19082
+Movimiento 37: 26251 :DD 19412
+Movimiento 38: 26780 :DD 19318
+Movimiento 39: 26841 :DD 19128
+### :DD ###
+Generacion 1: 17738
+
+Movimiento 1: 17753 --- 21090
+Movimiento 2: 18081 --- 21704
+Movimiento 3: 18160 --- 21356
+Movimiento 4: 18414 --- 19289
+Movimiento 5: 18456 --- 21017
+Movimiento 6: 18659 --- 21199
+Movimiento 7: 18707 --- 21255
+Movimiento 8: 18772 --- 20485
+Movimiento 9: 18823 --- 20278
+Movimiento 10: 18874 --- 20929
+Movimiento 11: 18890 --- 20770
+Movimiento 12: 19047 --- 22498
+Movimiento 13: 19082 --- 21597
+Movimiento 14: 19096 --- 20910
+Movimiento 15: 19100 --- 21758
+Movimiento 16: 19128 --- 21073
+Movimiento 17: 19176 --- 20764
+Movimiento 18: 19195 --- 20447
+Movimiento 19: 19234 --- 20389
+Movimiento 20: 19258 --- 20912
+Movimiento 21: 19278 --- 20813
+Movimiento 22: 19318 --- 20263
+Movimiento 23: 19351 :DD 19088
+Movimiento 24: 19355 --- 20440
+Movimiento 25: 19412 --- 21394
+Movimiento 26: 19673 --- 22138
+Movimiento 27: 19824 --- 21157
+Movimiento 28: 19825 --- 20120
+Movimiento 29: 20053 :DD 19802
+Movimiento 30: 20068 --- 21037
+Movimiento 31: 20071 :DD 19120
+Movimiento 32: 20395 :DD 20093
+Movimiento 33: 20445 --- 20462
+Movimiento 34: 20813 :DD 20751
+Movimiento 35: 20866 --- 21322
+Movimiento 36: 20882 :DD 20648
+Movimiento 37: 21007 :DD 20380
+Movimiento 38: 21080 :DD 20463
+Movimiento 39: 23602 :DD 19150
+Generacion 2: 17738
+
+Movimiento 1: 17753 --- 20623
+Movimiento 2: 18081 --- 20615
+Movimiento 3: 18160 --- 21266
+Movimiento 4: 18414 --- 20244
+Movimiento 5: 18456 --- 21863
+Movimiento 6: 18659 --- 20126
+Movimiento 7: 18707 --- 22148
+Movimiento 8: 18772 --- 20298
+Movimiento 9: 18823 --- 21204
+Movimiento 10: 18874 --- 20605
+Movimiento 11: 18890 --- 20723
+Movimiento 12: 19047 --- 21015
+Movimiento 13: 19082 --- 21497
+Movimiento 14: 19088 --- 21008
+Movimiento 15: 19096 --- 19108
+Movimiento 16: 19100 --- 19467
+Movimiento 17: 19120 --- 19720
+Movimiento 18: 19128 --- 20003
+Movimiento 19: 19150 --- 21837
+Movimiento 20: 19176 --- 20880
+Movimiento 21: 19195 --- 20155
+Movimiento 22: 19234 --- 21015
+Movimiento 23: 19258 --- 21437
+Movimiento 24: 19278 --- 19897
+Movimiento 25: 19318 --- 22082
+Movimiento 26: 19355 --- 20891
+Movimiento 27: 19412 --- 21336
+Movimiento 28: 19673 --- 22690
+Movimiento 29: 19802 --- 21592
+Movimiento 30: 19824 --- 20346
+Movimiento 31: 19825 :DD 19810
+Movimiento 32: 20068 --- 20767
+Movimiento 33: 20093 :DD 18657
+Movimiento 34: 20380 :DD 18802
+Movimiento 35: 20445 :DD 19735
+Movimiento 36: 20463 --- 21119
+Movimiento 37: 20648 :DD 19736
+Movimiento 38: 20751 :DD 20230
+Movimiento 39: 20866 --- 21449
+Generacion 3: 17738
+
+Movimiento 1: 17753 --- 20376
+Movimiento 2: 18081 --- 20592
+Movimiento 3: 18160 --- 22820
+Movimiento 4: 18414 --- 21845
+Movimiento 5: 18456 --- 20936
+Movimiento 6: 18657 --- 20761
+Movimiento 7: 18659 --- 20993
+Movimiento 8: 18707 --- 20580
+Movimiento 9: 18772 --- 20838
+Movimiento 10: 18802 --- 21420
+Movimiento 11: 18823 --- 21027
+Movimiento 12: 18874 --- 20943
+Movimiento 13: 18890 --- 19771
+Movimiento 14: 19047 --- 21533
+Movimiento 15: 19082 --- 20470
+Movimiento 16: 19088 --- 20942
+Movimiento 17: 19096 --- 21668
+Movimiento 18: 19100 --- 19592
+Movimiento 19: 19120 --- 20448
+Movimiento 20: 19128 --- 19785
+Movimiento 21: 19150 --- 19240
+Movimiento 22: 19176 --- 21454
+Movimiento 23: 19195 --- 19687
+Movimiento 24: 19234 --- 19928
+Movimiento 25: 19258 --- 20192
+Movimiento 26: 19278 --- 21220
+Movimiento 27: 19318 --- 21204
+Movimiento 28: 19355 --- 22224
+Movimiento 29: 19412 --- 20788
+Movimiento 30: 19673 --- 20685
+Movimiento 31: 19735 --- 21599
+Movimiento 32: 19736 --- 21969
+Movimiento 33: 19802 --- 20415
+Movimiento 34: 19810 --- 21716
+Movimiento 35: 19824 --- 20398
+Movimiento 36: 20068 :DD 19569
+Movimiento 37: 20230 --- 20450
+Movimiento 38: 20463 :DD 19795
+Movimiento 39: 20866 :DD 19939
+Generacion 4: 17738
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25435
+
+Movimiento 1: 17753 --- 21277
+Movimiento 2: 18081 --- 20741
+Movimiento 3: 18160 --- 21833
+Movimiento 4: 18414 --- 19752
+Movimiento 5: 18456 --- 21580
+Movimiento 6: 18657 --- 20098
+Movimiento 7: 18659 --- 19035
+Movimiento 8: 18707 --- 21045
+Movimiento 9: 18772 --- 21087
+Movimiento 10: 18802 --- 20335
+Movimiento 11: 18823 --- 19525
+Movimiento 12: 18874 --- 19076
+Movimiento 13: 18890 --- 18894
+Movimiento 14: 19047 --- 21415
+Movimiento 15: 19082 --- 21594
+Movimiento 16: 19088 --- 21483
+Movimiento 17: 19096 --- 21010
+Movimiento 18: 19100 --- 21520
+Movimiento 19: 19120 --- 20390
+Movimiento 20: 19128 --- 22154
+Movimiento 21: 19150 --- 19772
+Movimiento 22: 19176 --- 22309
+Movimiento 23: 19195 --- 20801
+Movimiento 24: 19234 --- 22216
+Movimiento 25: 19258 :DD 19171
+Movimiento 26: 19278 --- 20254
+Movimiento 27: 19318 --- 20624
+Movimiento 28: 19355 --- 21323
+Movimiento 29: 19412 --- 19719
+Movimiento 30: 19569 --- 20588
+Movimiento 31: 19673 --- 20847
+Movimiento 32: 19735 --- 20479
+Movimiento 33: 19736 --- 20478
+Movimiento 34: 19795 --- 21288
+Movimiento 35: 19802 --- 20024
+Movimiento 36: 19810 --- 20763
+Movimiento 37: 19824 :DD 19489
+Movimiento 38: 19939 --- 22410
+Movimiento 39: 20230 --- 20734
+### :DD ###
+Generacion 5: 17753
+
+Movimiento 1: 18081 --- 20669
+Movimiento 2: 18160 --- 20421
+Movimiento 3: 18414 --- 18962
+Movimiento 4: 18456 --- 20123
+Movimiento 5: 18657 --- 22980
+Movimiento 6: 18659 --- 21217
+Movimiento 7: 18707 --- 20685
+Movimiento 8: 18772 --- 22225
+Movimiento 9: 18802 --- 20524
+Movimiento 10: 18823 --- 20000
+Movimiento 11: 18874 --- 21541
+Movimiento 12: 18890 --- 20306
+Movimiento 13: 19047 --- 20362
+Movimiento 14: 19082 --- 21302
+Movimiento 15: 19088 --- 20200
+Movimiento 16: 19096 --- 19256
+Movimiento 17: 19100 :DD 18897
+Movimiento 18: 19120 --- 20329
+Movimiento 19: 19128 --- 20153
+Movimiento 20: 19150 --- 21306
+Movimiento 21: 19171 --- 21751
+Movimiento 22: 19176 --- 20984
+Movimiento 23: 19195 --- 19820
+Movimiento 24: 19234 --- 20484
+Movimiento 25: 19278 --- 21146
+Movimiento 26: 19318 :DD 19025
+Movimiento 27: 19355 --- 20151
+Movimiento 28: 19412 --- 20728
+Movimiento 29: 19489 --- 20334
+Movimiento 30: 19569 --- 19925
+Movimiento 31: 19673 --- 20846
+Movimiento 32: 19735 --- 20530
+Movimiento 33: 19736 :DD 19363
+Movimiento 34: 19795 --- 20348
+Movimiento 35: 19802 --- 20184
+Movimiento 36: 19810 --- 21363
+Movimiento 37: 19939 --- 20168
+Movimiento 38: 20230 --- 20450
+Movimiento 39: 25435 :DD 19628
+Generacion 6: 17753
+
+Movimiento 1: 18081 --- 19910
+Movimiento 2: 18160 --- 18979
+Movimiento 3: 18414 --- 21659
+Movimiento 4: 18456 --- 21426
+Movimiento 5: 18657 --- 20531
+Movimiento 6: 18659 --- 20437
+Movimiento 7: 18707 --- 22180
+Movimiento 8: 18772 --- 20680
+Movimiento 9: 18802 --- 20068
+Movimiento 10: 18823 --- 20944
+Movimiento 11: 18874 --- 21242
+Movimiento 12: 18890 --- 21686
+Movimiento 13: 18897 --- 19570
+Movimiento 14: 19025 --- 20263
+Movimiento 15: 19047 --- 20834
+Movimiento 16: 19082 --- 21509
+Movimiento 17: 19088 --- 19150
+Movimiento 18: 19096 --- 21972
+Movimiento 19: 19120 --- 19563
+Movimiento 20: 19128 --- 20685
+Movimiento 21: 19150 --- 20257
+Movimiento 22: 19171 --- 20786
+Movimiento 23: 19176 --- 19860
+Movimiento 24: 19195 --- 20826
+Movimiento 25: 19234 --- 22041
+Movimiento 26: 19278 --- 22245
+Movimiento 27: 19355 --- 21114
+Movimiento 28: 19363 --- 20088
+Movimiento 29: 19412 --- 20372
+Movimiento 30: 19489 --- 20528
+Movimiento 31: 19569 --- 20245
+Movimiento 32: 19628 --- 20812
+Movimiento 33: 19673 --- 20401
+Movimiento 34: 19735 --- 19966
+Movimiento 35: 19795 --- 21685
+Movimiento 36: 19802 --- 19854
+Movimiento 37: 19810 --- 21815
+Movimiento 38: 19939 --- 21260
+Movimiento 39: 20230 :DD 19560
+Generacion 7: 17753
+
+Movimiento 1: 18081 --- 23422
+Movimiento 2: 18160 --- 21227
+Movimiento 3: 18414 --- 20450
+Movimiento 4: 18456 --- 19819
+Movimiento 5: 18657 --- 20530
+Movimiento 6: 18659 --- 21282
+Movimiento 7: 18707 --- 20957
+Movimiento 8: 18772 --- 20193
+Movimiento 9: 18802 --- 18877
+Movimiento 10: 18823 --- 20997
+Movimiento 11: 18874 --- 21161
+Movimiento 12: 18890 --- 21988
+Movimiento 13: 18897 --- 21042
+Movimiento 14: 19025 --- 21025
+Movimiento 15: 19047 --- 20831
+Movimiento 16: 19082 --- 21186
+Movimiento 17: 19088 --- 20128
+Movimiento 18: 19096 --- 20609
+Movimiento 19: 19120 --- 20030
+Movimiento 20: 19128 --- 20522
+Movimiento 21: 19150 --- 20451
+Movimiento 22: 19171 --- 20581
+Movimiento 23: 19176 --- 20523
+Movimiento 24: 19195 --- 20115
+Movimiento 25: 19234 --- 20544
+Movimiento 26: 19278 --- 20835
+Movimiento 27: 19355 --- 20629
+Movimiento 28: 19363 --- 20567
+Movimiento 29: 19412 --- 20920
+Movimiento 30: 19489 --- 20271
+Movimiento 31: 19560 --- 20447
+Movimiento 32: 19569 --- 20732
+Movimiento 33: 19628 :DD 19599
+Movimiento 34: 19673 --- 19849
+Movimiento 35: 19735 --- 20997
+Movimiento 36: 19795 --- 20947
+Movimiento 37: 19802 --- 20181
+Movimiento 38: 19810 --- 20273
+Movimiento 39: 19939 --- 20742
+Generacion 8: 17753
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24396
+
+Movimiento 1: 18081 --- 21295
+Movimiento 2: 18160 --- 20892
+Movimiento 3: 18414 --- 20425
+Movimiento 4: 18456 --- 21581
+Movimiento 5: 18657 --- 20093
+Movimiento 6: 18659 --- 21099
+Movimiento 7: 18707 --- 20921
+Movimiento 8: 18772 --- 20762
+Movimiento 9: 18802 --- 20580
+Movimiento 10: 18823 --- 20279
+Movimiento 11: 18874 --- 22326
+Movimiento 12: 18890 --- 22235
+Movimiento 13: 18897 --- 20778
+Movimiento 14: 19025 --- 20129
+Movimiento 15: 19047 --- 20461
+Movimiento 16: 19082 --- 20237
+Movimiento 17: 19088 --- 20777
+Movimiento 18: 19096 --- 20660
+Movimiento 19: 19120 --- 21006
+Movimiento 20: 19128 --- 21150
+Movimiento 21: 19150 --- 20781
+Movimiento 22: 19171 --- 23209
+Movimiento 23: 19176 --- 21663
+Movimiento 24: 19195 --- 20980
+Movimiento 25: 19234 --- 21987
+Movimiento 26: 19278 --- 21430
+Movimiento 27: 19355 --- 19549
+Movimiento 28: 19363 --- 22008
+Movimiento 29: 19412 --- 20224
+Movimiento 30: 19489 --- 19746
+Movimiento 31: 19560 --- 20971
+Movimiento 32: 19569 --- 20905
+Movimiento 33: 19599 --- 20655
+Movimiento 34: 19673 --- 21663
+Movimiento 35: 19735 :DD 19239
+Movimiento 36: 19795 :DD 19004
+Movimiento 37: 19802 --- 21550
+Movimiento 38: 19810 --- 21122
+Movimiento 39: 19939 :DD 18151
+### :DD ###
+Generacion 9: 18081
+
+Movimiento 1: 18151 --- 18782
+Movimiento 2: 18160 --- 21027
+Movimiento 3: 18414 --- 20465
+Movimiento 4: 18456 --- 20232
+Movimiento 5: 18657 --- 20464
+Movimiento 6: 18659 --- 21978
+Movimiento 7: 18707 --- 21728
+Movimiento 8: 18772 --- 20431
+Movimiento 9: 18802 --- 20997
+Movimiento 10: 18823 --- 20565
+Movimiento 11: 18874 --- 19760
+Movimiento 12: 18890 :DD 18887
+Movimiento 13: 18897 --- 20012
+Movimiento 14: 19004 --- 21283
+Movimiento 15: 19025 --- 21870
+Movimiento 16: 19047 :DD 18100
+Movimiento 17: 19082 --- 22683
+Movimiento 18: 19088 --- 20169
+Movimiento 19: 19096 --- 20279
+Movimiento 20: 19120 --- 22548
+Movimiento 21: 19128 --- 20476
+Movimiento 22: 19150 --- 19662
+Movimiento 23: 19171 --- 20929
+Movimiento 24: 19176 --- 20197
+Movimiento 25: 19195 --- 19676
+Movimiento 26: 19234 --- 23042
+Movimiento 27: 19239 --- 21359
+Movimiento 28: 19278 --- 21324
+Movimiento 29: 19355 --- 20852
+Movimiento 30: 19363 --- 20894
+Movimiento 31: 19412 --- 21309
+Movimiento 32: 19489 :DD 19035
+Movimiento 33: 19560 --- 22071
+Movimiento 34: 19569 --- 20436
+Movimiento 35: 19599 --- 21303
+Movimiento 36: 19673 --- 20258
+Movimiento 37: 19802 --- 20765
+Movimiento 38: 19810 --- 21344
+Movimiento 39: 24396 :DD 19498
+Generacion 10: 18081
+
+Movimiento 1: 18100 --- 21565
+Movimiento 2: 18151 --- 20598
+Movimiento 3: 18160 --- 20826
+Movimiento 4: 18414 --- 21338
+Movimiento 5: 18456 --- 20280
+Movimiento 6: 18657 --- 21797
+Movimiento 7: 18659 --- 20591
+Movimiento 8: 18707 --- 21465
+Movimiento 9: 18772 :DD 18760
+Movimiento 10: 18802 --- 19364
+Movimiento 11: 18823 --- 20614
+Movimiento 12: 18874 --- 19548
+Movimiento 13: 18887 --- 20730
+Movimiento 14: 18897 --- 20783
+Movimiento 15: 19004 --- 20129
+Movimiento 16: 19025 --- 19970
+Movimiento 17: 19035 --- 21027
+Movimiento 18: 19082 --- 21521
+Movimiento 19: 19088 --- 21415
+Movimiento 20: 19096 --- 21012
+Movimiento 21: 19120 --- 22222
+Movimiento 22: 19128 --- 20178
+Movimiento 23: 19150 --- 19579
+Movimiento 24: 19171 --- 22249
+Movimiento 25: 19176 --- 20479
+Movimiento 26: 19195 --- 22074
+Movimiento 27: 19234 --- 20205
+Movimiento 28: 19239 --- 20412
+Movimiento 29: 19278 --- 21052
+Movimiento 30: 19355 --- 19905
+Movimiento 31: 19363 --- 20064
+Movimiento 32: 19412 --- 19927
+Movimiento 33: 19498 --- 20081
+Movimiento 34: 19560 --- 20936
+Movimiento 35: 19569 --- 20675
+Movimiento 36: 19599 --- 20154
+Movimiento 37: 19673 --- 20178
+Movimiento 38: 19802 :DD 19800
+Movimiento 39: 19810 --- 21201
+Generacion 11: 18081
+
+Movimiento 1: 18100 --- 20614
+Movimiento 2: 18151 --- 18901
+Movimiento 3: 18160 --- 21158
+Movimiento 4: 18414 --- 21926
+Movimiento 5: 18456 --- 21573
+Movimiento 6: 18657 --- 19024
+Movimiento 7: 18659 --- 20997
+Movimiento 8: 18707 --- 20001
+Movimiento 9: 18760 --- 21680
+Movimiento 10: 18802 --- 20569
+Movimiento 11: 18823 --- 21160
+Movimiento 12: 18874 --- 21127
+Movimiento 13: 18887 --- 18938
+Movimiento 14: 18897 --- 21012
+Movimiento 15: 19004 --- 20369
+Movimiento 16: 19025 --- 20558
+Movimiento 17: 19035 --- 20192
+Movimiento 18: 19082 --- 20205
+Movimiento 19: 19088 --- 21390
+Movimiento 20: 19096 --- 20947
+Movimiento 21: 19120 --- 20866
+Movimiento 22: 19128 --- 20150
+Movimiento 23: 19150 --- 20655
+Movimiento 24: 19171 --- 21080
+Movimiento 25: 19176 --- 19676
+Movimiento 26: 19195 --- 21144
+Movimiento 27: 19234 --- 20335
+Movimiento 28: 19239 :DD 19220
+Movimiento 29: 19278 --- 21171
+Movimiento 30: 19355 --- 20682
+Movimiento 31: 19363 --- 21407
+Movimiento 32: 19412 --- 22144
+Movimiento 33: 19498 --- 22210
+Movimiento 34: 19560 --- 21543
+Movimiento 35: 19569 :DD 18354
+Movimiento 36: 19599 --- 20550
+Movimiento 37: 19673 :DD 19641
+Movimiento 38: 19800 --- 20137
+Movimiento 39: 19810 --- 20649
+Generacion 12: 18081
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25017
+
+Movimiento 1: 18100 --- 20427
+Movimiento 2: 18151 --- 21503
+Movimiento 3: 18160 --- 21659
+Movimiento 4: 18354 --- 21571
+Movimiento 5: 18414 --- 21416
+Movimiento 6: 18456 --- 19851
+Movimiento 7: 18657 --- 21034
+Movimiento 8: 18659 --- 22514
+Movimiento 9: 18707 --- 19830
+Movimiento 10: 18760 --- 20713
+Movimiento 11: 18802 --- 21708
+Movimiento 12: 18823 --- 21833
+Movimiento 13: 18874 --- 20306
+Movimiento 14: 18887 --- 20822
+Movimiento 15: 18897 --- 21570
+Movimiento 16: 19004 --- 19926
+Movimiento 17: 19025 --- 20226
+Movimiento 18: 19035 --- 19516
+Movimiento 19: 19082 --- 20558
+Movimiento 20: 19088 --- 21989
+Movimiento 21: 19096 --- 20459
+Movimiento 22: 19120 --- 20361
+Movimiento 23: 19128 :DD 19041
+Movimiento 24: 19150 --- 19869
+Movimiento 25: 19171 --- 20709
+Movimiento 26: 19176 --- 20252
+Movimiento 27: 19195 --- 19833
+Movimiento 28: 19220 --- 21183
+Movimiento 29: 19234 --- 20583
+Movimiento 30: 19278 --- 21081
+Movimiento 31: 19355 --- 20072
+Movimiento 32: 19363 --- 20632
+Movimiento 33: 19412 --- 19709
+Movimiento 34: 19498 --- 22183
+Movimiento 35: 19560 --- 20209
+Movimiento 36: 19599 --- 20303
+Movimiento 37: 19641 --- 20182
+Movimiento 38: 19800 --- 20760
+Movimiento 39: 19810 --- 20536
+### :DD ###
+Generacion 13: 18100
+
+Movimiento 1: 18151 --- 20816
+Movimiento 2: 18160 --- 21192
+Movimiento 3: 18354 --- 21064
+Movimiento 4: 18414 --- 20500
+Movimiento 5: 18456 --- 20495
+Movimiento 6: 18657 --- 19994
+Movimiento 7: 18659 --- 21350
+Movimiento 8: 18707 --- 21350
+Movimiento 9: 18760 --- 20171
+Movimiento 10: 18802 --- 21217
+Movimiento 11: 18823 --- 20965
+Movimiento 12: 18874 --- 20680
+Movimiento 13: 18887 --- 20811
+Movimiento 14: 18897 --- 21806
+Movimiento 15: 19004 --- 21347
+Movimiento 16: 19025 --- 20683
+Movimiento 17: 19035 --- 20466
+Movimiento 18: 19041 --- 20333
+Movimiento 19: 19082 --- 19254
+Movimiento 20: 19088 --- 19269
+Movimiento 21: 19096 --- 20753
+Movimiento 22: 19120 --- 20840
+Movimiento 23: 19150 --- 20363
+Movimiento 24: 19171 --- 20540
+Movimiento 25: 19176 --- 21648
+Movimiento 26: 19195 --- 19711
+Movimiento 27: 19220 --- 20249
+Movimiento 28: 19234 --- 20704
+Movimiento 29: 19278 --- 21295
+Movimiento 30: 19355 --- 20092
+Movimiento 31: 19363 --- 20441
+Movimiento 32: 19412 --- 21594
+Movimiento 33: 19498 :DD 19322
+Movimiento 34: 19560 --- 20997
+Movimiento 35: 19599 --- 20249
+Movimiento 36: 19641 :DD 19491
+Movimiento 37: 19800 --- 19998
+Movimiento 38: 19810 --- 21850
+Movimiento 39: 25017 :DD 20283
+Generacion 14: 18100
+
+Movimiento 1: 18151 --- 21027
+Movimiento 2: 18160 --- 21334
+Movimiento 3: 18354 --- 20371
+Movimiento 4: 18414 --- 19842
+Movimiento 5: 18456 --- 20516
+Movimiento 6: 18657 --- 21060
+Movimiento 7: 18659 --- 20633
+Movimiento 8: 18707 --- 20167
+Movimiento 9: 18760 --- 20409
+Movimiento 10: 18802 --- 21327
+Movimiento 11: 18823 --- 21051
+Movimiento 12: 18874 --- 21527
+Movimiento 13: 18887 --- 20712
+Movimiento 14: 18897 --- 21203
+Movimiento 15: 19004 --- 21049
+Movimiento 16: 19025 --- 20397
+Movimiento 17: 19035 --- 20509
+Movimiento 18: 19041 --- 21892
+Movimiento 19: 19082 --- 22366
+Movimiento 20: 19088 --- 21015
+Movimiento 21: 19096 --- 21598
+Movimiento 22: 19120 --- 20355
+Movimiento 23: 19150 --- 20136
+Movimiento 24: 19171 --- 23057
+Movimiento 25: 19176 --- 21151
+Movimiento 26: 19195 --- 20214
+Movimiento 27: 19220 --- 21756
+Movimiento 28: 19234 --- 20682
+Movimiento 29: 19278 --- 21470
+Movimiento 30: 19322 --- 22211
+Movimiento 31: 19355 --- 20761
+Movimiento 32: 19363 --- 21077
+Movimiento 33: 19412 --- 21806
+Movimiento 34: 19491 --- 20756
+Movimiento 35: 19560 --- 21158
+Movimiento 36: 19599 --- 20085
+Movimiento 37: 19800 --- 21081
+Movimiento 38: 19810 --- 21940
+Movimiento 39: 20283 --- 20995
+Generacion 15: 18100
+
+Movimiento 1: 18151 --- 21430
+Movimiento 2: 18160 --- 21375
+Movimiento 3: 18354 --- 19953
+Movimiento 4: 18414 --- 20840
+Movimiento 5: 18456 --- 21635
+Movimiento 6: 18657 --- 19895
+Movimiento 7: 18659 --- 20826
+Movimiento 8: 18707 --- 19543
+Movimiento 9: 18760 --- 21203
+Movimiento 10: 18802 --- 21771
+Movimiento 11: 18823 --- 19715
+Movimiento 12: 18874 --- 20691
+Movimiento 13: 18887 --- 20767
+Movimiento 14: 18897 --- 20101
+Movimiento 15: 19004 --- 21422
+Movimiento 16: 19025 --- 20884
+Movimiento 17: 19035 --- 21259
+Movimiento 18: 19041 --- 20805
+Movimiento 19: 19082 --- 19950
+Movimiento 20: 19088 --- 20582
+Movimiento 21: 19096 --- 20679
+Movimiento 22: 19120 --- 21500
+Movimiento 23: 19150 --- 20983
+Movimiento 24: 19171 --- 21468
+Movimiento 25: 19176 --- 21132
+Movimiento 26: 19195 --- 20132
+Movimiento 27: 19220 --- 22184
+Movimiento 28: 19234 --- 20561
+Movimiento 29: 19278 --- 20831
+Movimiento 30: 19322 --- 20936
+Movimiento 31: 19355 :DD 19145
+Movimiento 32: 19363 --- 20219
+Movimiento 33: 19412 :DD 18899
+Movimiento 34: 19491 --- 20479
+Movimiento 35: 19560 --- 20803
+Movimiento 36: 19599 --- 21018
+Movimiento 37: 19800 --- 20068
+Movimiento 38: 19810 --- 22512
+Movimiento 39: 20283 --- 20642
+Generacion 16: 18100
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24736
+
+Movimiento 1: 18151 --- 21227
+Movimiento 2: 18160 --- 21003
+Movimiento 3: 18354 --- 21125
+Movimiento 4: 18414 --- 20537
+Movimiento 5: 18456 --- 21815
+Movimiento 6: 18657 --- 21075
+Movimiento 7: 18659 --- 22358
+Movimiento 8: 18707 --- 19986
+Movimiento 9: 18760 --- 21290
+Movimiento 10: 18802 --- 21537
+Movimiento 11: 18823 --- 20391
+Movimiento 12: 18874 --- 21354
+Movimiento 13: 18887 --- 20112
+Movimiento 14: 18897 --- 20739
+Movimiento 15: 18899 --- 22189
+Movimiento 16: 19004 --- 20061
+Movimiento 17: 19025 --- 22651
+Movimiento 18: 19035 --- 21451
+Movimiento 19: 19041 --- 21118
+Movimiento 20: 19082 --- 20724
+Movimiento 21: 19088 --- 19391
+Movimiento 22: 19096 --- 21585
+Movimiento 23: 19120 --- 20381
+Movimiento 24: 19145 --- 22355
+Movimiento 25: 19150 --- 20103
+Movimiento 26: 19171 --- 20511
+Movimiento 27: 19176 --- 19603
+Movimiento 28: 19195 --- 21332
+Movimiento 29: 19220 --- 20836
+Movimiento 30: 19234 --- 20553
+Movimiento 31: 19278 --- 22151
+Movimiento 32: 19322 --- 22021
+Movimiento 33: 19363 --- 19620
+Movimiento 34: 19491 --- 20291
+Movimiento 35: 19560 --- 23005
+Movimiento 36: 19599 :DD 18759
+Movimiento 37: 19800 --- 20799
+Movimiento 38: 19810 --- 20910
+Movimiento 39: 20283 --- 20415
+### :DD ###
+Generacion 17: 18151
+
+Movimiento 1: 18160 --- 21865
+Movimiento 2: 18354 --- 21117
+Movimiento 3: 18414 --- 21127
+Movimiento 4: 18456 --- 21127
+Movimiento 5: 18657 --- 19481
+Movimiento 6: 18659 --- 21324
+Movimiento 7: 18707 --- 21962
+Movimiento 8: 18759 --- 21073
+Movimiento 9: 18760 --- 19580
+Movimiento 10: 18802 --- 21743
+Movimiento 11: 18823 --- 19806
+Movimiento 12: 18874 --- 20238
+Movimiento 13: 18887 --- 20604
+Movimiento 14: 18897 --- 20393
+Movimiento 15: 18899 --- 20756
+Movimiento 16: 19004 --- 21497
+Movimiento 17: 19025 --- 19595
+Movimiento 18: 19035 --- 21067
+Movimiento 19: 19041 --- 21334
+Movimiento 20: 19082 --- 20417
+Movimiento 21: 19088 --- 20228
+Movimiento 22: 19096 --- 19697
+Movimiento 23: 19120 --- 20063
+Movimiento 24: 19145 --- 20558
+Movimiento 25: 19150 --- 20711
+Movimiento 26: 19171 --- 20421
+Movimiento 27: 19176 --- 19441
+Movimiento 28: 19195 --- 21441
+Movimiento 29: 19220 :DD 18722
+Movimiento 30: 19234 --- 19785
+Movimiento 31: 19278 --- 20117
+Movimiento 32: 19322 --- 20868
+Movimiento 33: 19363 --- 20629
+Movimiento 34: 19491 --- 21830
+Movimiento 35: 19560 --- 20397
+Movimiento 36: 19800 :DD 17722
+Movimiento 37: 19810 --- 21354
+Movimiento 38: 20283 :DD 20157
+Movimiento 39: 24736 :DD 18759
+### :DD ###
+Generacion 18: 17722
+
+Movimiento 1: 18151 --- 20694
+Movimiento 2: 18160 --- 19993
+Movimiento 3: 18354 --- 21229
+Movimiento 4: 18414 --- 21537
+Movimiento 5: 18456 --- 21144
+Movimiento 6: 18657 --- 20309
+Movimiento 7: 18659 --- 23264
+Movimiento 8: 18707 --- 19877
+Movimiento 9: 18722 --- 21197
+Movimiento 10: 18759 --- 19984
+Movimiento 11: 18759 --- 19919
+Movimiento 12: 18760 --- 21721
+Movimiento 13: 18802 --- 19569
+Movimiento 14: 18823 --- 21960
+Movimiento 15: 18874 --- 20162
+Movimiento 16: 18887 --- 20467
+Movimiento 17: 18897 --- 20283
+Movimiento 18: 18899 --- 19927
+Movimiento 19: 19004 --- 20806
+Movimiento 20: 19025 --- 21772
+Movimiento 21: 19035 --- 19394
+Movimiento 22: 19041 --- 20300
+Movimiento 23: 19082 --- 21456
+Movimiento 24: 19088 --- 22319
+Movimiento 25: 19096 --- 19304
+Movimiento 26: 19120 --- 21581
+Movimiento 27: 19145 --- 20166
+Movimiento 28: 19150 --- 19495
+Movimiento 29: 19171 --- 21856
+Movimiento 30: 19176 --- 21229
+Movimiento 31: 19195 --- 20470
+Movimiento 32: 19234 --- 20879
+Movimiento 33: 19278 --- 21159
+Movimiento 34: 19322 --- 22374
+Movimiento 35: 19363 --- 20517
+Movimiento 36: 19491 --- 20924
+Movimiento 37: 19560 --- 20548
+Movimiento 38: 19810 --- 20219
+Movimiento 39: 20157 --- 21025
+Generacion 19: 17722
+
+Movimiento 1: 18151 --- 20533
+Movimiento 2: 18160 --- 20304
+Movimiento 3: 18354 --- 20021
+Movimiento 4: 18414 --- 19932
+Movimiento 5: 18456 --- 21781
+Movimiento 6: 18657 --- 20859
+Movimiento 7: 18659 --- 22419
+Movimiento 8: 18707 --- 20385
+Movimiento 9: 18722 --- 20944
+Movimiento 10: 18759 --- 19990
+Movimiento 11: 18759 --- 19136
+Movimiento 12: 18760 --- 19976
+Movimiento 13: 18802 --- 21355
+Movimiento 14: 18823 --- 20417
+Movimiento 15: 18874 --- 19750
+Movimiento 16: 18887 --- 20226
+Movimiento 17: 18897 --- 21409
+Movimiento 18: 18899 --- 21445
+Movimiento 19: 19004 --- 20642
+Movimiento 20: 19025 --- 20774
+Movimiento 21: 19035 --- 21479
+Movimiento 22: 19041 --- 20190
+Movimiento 23: 19082 --- 20797
+Movimiento 24: 19088 --- 20698
+Movimiento 25: 19096 --- 21203
+Movimiento 26: 19120 --- 20645
+Movimiento 27: 19145 --- 21131
+Movimiento 28: 19150 --- 20024
+Movimiento 29: 19171 --- 19689
+Movimiento 30: 19176 --- 20187
+Movimiento 31: 19195 --- 20884
+Movimiento 32: 19234 --- 20069
+Movimiento 33: 19278 --- 20252
+Movimiento 34: 19322 --- 20584
+Movimiento 35: 19363 --- 22273
+Movimiento 36: 19491 --- 20583
+Movimiento 37: 19560 --- 20355
+Movimiento 38: 19810 :DD 19016
+Movimiento 39: 20157 --- 21726
+Generacion 20: 17722
+
+Movimiento 1: 18151 --- 22233
+Movimiento 2: 18160 --- 20673
+Movimiento 3: 18354 --- 21434
+Movimiento 4: 18414 --- 20300
+Movimiento 5: 18456 --- 18887
+Movimiento 6: 18657 --- 20557
+Movimiento 7: 18659 --- 21810
+Movimiento 8: 18707 --- 21724
+Movimiento 9: 18722 --- 19976
+Movimiento 10: 18759 --- 21752
+Movimiento 11: 18759 --- 20954
+Movimiento 12: 18760 --- 21707
+Movimiento 13: 18802 --- 22073
+Movimiento 14: 18823 --- 19400
+Movimiento 15: 18874 --- 20425
+Movimiento 16: 18887 --- 21783
+Movimiento 17: 18897 --- 20390
+Movimiento 18: 18899 --- 19556
+Movimiento 19: 19004 --- 21052
+Movimiento 20: 19016 :DD 18441
+Movimiento 21: 19025 :DD 17652
+Movimiento 22: 19035 --- 22389
+Movimiento 23: 19041 --- 22358
+Movimiento 24: 19082 --- 19780
+Movimiento 25: 19088 --- 20936
+Movimiento 26: 19096 --- 20281
+Movimiento 27: 19120 --- 19201
+Movimiento 28: 19145 --- 20048
+Movimiento 29: 19150 --- 21218
+Movimiento 30: 19171 --- 20733
+Movimiento 31: 19176 --- 21480
+Movimiento 32: 19195 --- 20616
+Movimiento 33: 19234 --- 19815
+Movimiento 34: 19278 --- 20097
+Movimiento 35: 19322 --- 20281
+Movimiento 36: 19363 --- 20657
+Movimiento 37: 19491 --- 20173
+Movimiento 38: 19560 --- 20697
+Movimiento 39: 20157 :DD 18863
+### :DD ###
+Generacion 21: 17652
+
+Movimiento 1: 17722 --- 22502
+Movimiento 2: 18151 --- 21043
+Movimiento 3: 18160 --- 19819
+Movimiento 4: 18354 --- 21470
+Movimiento 5: 18414 --- 18583
+Movimiento 6: 18441 --- 21210
+Movimiento 7: 18456 --- 20874
+Movimiento 8: 18657 --- 21256
+Movimiento 9: 18659 --- 21046
+Movimiento 10: 18707 --- 20780
+Movimiento 11: 18722 --- 18846
+Movimiento 12: 18759 --- 20582
+Movimiento 13: 18759 --- 20915
+Movimiento 14: 18760 --- 21544
+Movimiento 15: 18802 --- 20692
+Movimiento 16: 18823 --- 20470
+Movimiento 17: 18863 --- 19937
+Movimiento 18: 18874 --- 22030
+Movimiento 19: 18887 --- 21908
+Movimiento 20: 18897 --- 22107
+Movimiento 21: 18899 --- 20225
+Movimiento 22: 19004 --- 21261
+Movimiento 23: 19035 --- 20512
+Movimiento 24: 19041 --- 19602
+Movimiento 25: 19082 --- 19809
+Movimiento 26: 19088 --- 19498
+Movimiento 27: 19096 --- 20004
+Movimiento 28: 19120 :DD 18168
+Movimiento 29: 19145 --- 19680
+Movimiento 30: 19150 --- 20416
+Movimiento 31: 19171 --- 20154
+Movimiento 32: 19176 --- 21318
+Movimiento 33: 19195 --- 20437
+Movimiento 34: 19234 --- 19620
+Movimiento 35: 19278 --- 21972
+Movimiento 36: 19322 --- 20859
+Movimiento 37: 19363 --- 21982
+Movimiento 38: 19491 --- 22484
+Movimiento 39: 19560 --- 20589
+Generacion 22: 17652
+
+Movimiento 1: 17722 --- 22418
+Movimiento 2: 18151 --- 20145
+Movimiento 3: 18160 --- 20234
+Movimiento 4: 18168 --- 21282
+Movimiento 5: 18354 --- 21406
+Movimiento 6: 18414 --- 20249
+Movimiento 7: 18441 --- 20869
+Movimiento 8: 18456 --- 19425
+Movimiento 9: 18657 --- 20525
+Movimiento 10: 18659 --- 20534
+Movimiento 11: 18707 --- 21418
+Movimiento 12: 18722 --- 21369
+Movimiento 13: 18759 --- 21917
+Movimiento 14: 18759 --- 20704
+Movimiento 15: 18760 --- 19734
+Movimiento 16: 18802 --- 19324
+Movimiento 17: 18823 --- 20502
+Movimiento 18: 18863 --- 20469
+Movimiento 19: 18874 --- 19853
+Movimiento 20: 18887 --- 19409
+Movimiento 21: 18897 --- 22508
+Movimiento 22: 18899 --- 21057
+Movimiento 23: 19004 --- 21052
+Movimiento 24: 19035 --- 20488
+Movimiento 25: 19041 --- 19575
+Movimiento 26: 19082 --- 20121
+Movimiento 27: 19088 --- 21409
+Movimiento 28: 19096 --- 22671
+Movimiento 29: 19145 --- 21105
+Movimiento 30: 19150 --- 21015
+Movimiento 31: 19171 --- 22662
+Movimiento 32: 19176 --- 20182
+Movimiento 33: 19195 --- 21386
+Movimiento 34: 19234 --- 20696
+Movimiento 35: 19278 --- 22674
+Movimiento 36: 19322 --- 20090
+Movimiento 37: 19363 --- 20159
+Movimiento 38: 19491 :DD 19025
+Movimiento 39: 19560 --- 19832
+Generacion 23: 17652
+
+Movimiento 1: 17722 --- 22838
+Movimiento 2: 18151 --- 19790
+Movimiento 3: 18160 --- 20209
+Movimiento 4: 18168 --- 21610
+Movimiento 5: 18354 --- 22100
+Movimiento 6: 18414 --- 20977
+Movimiento 7: 18441 --- 20344
+Movimiento 8: 18456 :DD 18232
+Movimiento 9: 18657 --- 19680
+Movimiento 10: 18659 --- 21717
+Movimiento 11: 18707 --- 20627
+Movimiento 12: 18722 --- 21048
+Movimiento 13: 18759 --- 19998
+Movimiento 14: 18759 --- 19751
+Movimiento 15: 18760 --- 20879
+Movimiento 16: 18802 --- 20181
+Movimiento 17: 18823 --- 19199
+Movimiento 18: 18863 --- 22069
+Movimiento 19: 18874 --- 20670
+Movimiento 20: 18887 --- 20553
+Movimiento 21: 18897 --- 21016
+Movimiento 22: 18899 --- 20414
+Movimiento 23: 19004 --- 19209
+Movimiento 24: 19025 --- 20583
+Movimiento 25: 19035 --- 21167
+Movimiento 26: 19041 --- 19619
+Movimiento 27: 19082 --- 20746
+Movimiento 28: 19088 --- 21367
+Movimiento 29: 19096 --- 20927
+Movimiento 30: 19145 --- 20173
+Movimiento 31: 19150 --- 20625
+Movimiento 32: 19171 --- 19538
+Movimiento 33: 19176 --- 20678
+Movimiento 34: 19195 :DD 18856
+Movimiento 35: 19234 --- 20289
+Movimiento 36: 19278 --- 21736
+Movimiento 37: 19322 --- 20131
+Movimiento 38: 19363 --- 20895
+Movimiento 39: 19560 --- 20254
+Generacion 24: 17652
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25758
+
+Movimiento 1: 17722 --- 22725
+Movimiento 2: 18151 --- 22639
+Movimiento 3: 18160 --- 23235
+Movimiento 4: 18168 --- 20799
+Movimiento 5: 18232 --- 20679
+Movimiento 6: 18354 --- 20824
+Movimiento 7: 18414 --- 21240
+Movimiento 8: 18441 --- 20866
+Movimiento 9: 18657 --- 19731
+Movimiento 10: 18659 --- 21710
+Movimiento 11: 18707 --- 21721
+Movimiento 12: 18722 --- 19820
+Movimiento 13: 18759 --- 21532
+Movimiento 14: 18759 --- 20738
+Movimiento 15: 18760 --- 21115
+Movimiento 16: 18802 --- 19401
+Movimiento 17: 18823 --- 20756
+Movimiento 18: 18856 --- 21443
+Movimiento 19: 18863 --- 21013
+Movimiento 20: 18874 --- 20628
+Movimiento 21: 18887 :DD 18660
+Movimiento 22: 18897 --- 20567
+Movimiento 23: 18899 --- 20661
+Movimiento 24: 19004 --- 19010
+Movimiento 25: 19025 --- 20538
+Movimiento 26: 19035 --- 23024
+Movimiento 27: 19041 --- 22127
+Movimiento 28: 19082 --- 20597
+Movimiento 29: 19088 --- 20911
+Movimiento 30: 19096 --- 20785
+Movimiento 31: 19145 --- 21124
+Movimiento 32: 19150 --- 20981
+Movimiento 33: 19171 --- 21325
+Movimiento 34: 19176 --- 21923
+Movimiento 35: 19234 --- 20849
+Movimiento 36: 19278 --- 19437
+Movimiento 37: 19322 --- 20264
+Movimiento 38: 19363 --- 21212
+Movimiento 39: 19560 --- 20999
+### :DD ###
+Generacion 25: 17722
+
+Movimiento 1: 18151 --- 20600
+Movimiento 2: 18160 --- 19277
+Movimiento 3: 18168 --- 21325
+Movimiento 4: 18232 --- 21783
+Movimiento 5: 18354 --- 21603
+Movimiento 6: 18414 --- 19955
+Movimiento 7: 18441 --- 21163
+Movimiento 8: 18657 --- 20565
+Movimiento 9: 18659 --- 19486
+Movimiento 10: 18660 --- 20797
+Movimiento 11: 18707 --- 19984
+Movimiento 12: 18722 --- 21695
+Movimiento 13: 18759 --- 19639
+Movimiento 14: 18759 --- 22627
+Movimiento 15: 18760 --- 20400
+Movimiento 16: 18802 --- 19999
+Movimiento 17: 18823 --- 19154
+Movimiento 18: 18856 --- 19530
+Movimiento 19: 18863 --- 20730
+Movimiento 20: 18874 --- 21304
+Movimiento 21: 18897 --- 20376
+Movimiento 22: 18899 --- 21662
+Movimiento 23: 19004 --- 21107
+Movimiento 24: 19025 --- 20823
+Movimiento 25: 19035 --- 21448
+Movimiento 26: 19041 --- 20300
+Movimiento 27: 19082 --- 21199
+Movimiento 28: 19088 --- 20944
+Movimiento 29: 19096 --- 20473
+Movimiento 30: 19145 --- 20748
+Movimiento 31: 19150 --- 19804
+Movimiento 32: 19171 --- 20240
+Movimiento 33: 19176 :DD 19091
+Movimiento 34: 19234 --- 20502
+Movimiento 35: 19278 --- 19859
+Movimiento 36: 19322 --- 22320
+Movimiento 37: 19363 --- 19400
+Movimiento 38: 19560 --- 20073
+Movimiento 39: 25758 :DD 19189
+Generacion 26: 17722
+
+Movimiento 1: 18151 --- 21008
+Movimiento 2: 18160 --- 20480
+Movimiento 3: 18168 --- 21406
+Movimiento 4: 18232 --- 20634
+Movimiento 5: 18354 --- 22130
+Movimiento 6: 18414 :DD 17989
+Movimiento 7: 18441 --- 20766
+Movimiento 8: 18657 --- 20250
+Movimiento 9: 18659 --- 21152
+Movimiento 10: 18660 --- 21602
+Movimiento 11: 18707 --- 21132
+Movimiento 12: 18722 --- 20747
+Movimiento 13: 18759 --- 20092
+Movimiento 14: 18759 --- 21689
+Movimiento 15: 18760 --- 20443
+Movimiento 16: 18802 --- 20437
+Movimiento 17: 18823 --- 20399
+Movimiento 18: 18856 --- 21720
+Movimiento 19: 18863 --- 20199
+Movimiento 20: 18874 --- 20445
+Movimiento 21: 18897 --- 21318
+Movimiento 22: 18899 --- 20228
+Movimiento 23: 19004 --- 20595
+Movimiento 24: 19025 --- 21052
+Movimiento 25: 19035 --- 20370
+Movimiento 26: 19041 --- 20633
+Movimiento 27: 19082 --- 21466
+Movimiento 28: 19088 :DD 18996
+Movimiento 29: 19091 --- 21527
+Movimiento 30: 19096 --- 21066
+Movimiento 31: 19145 --- 22232
+Movimiento 32: 19150 --- 21256
+Movimiento 33: 19171 --- 20292
+Movimiento 34: 19189 --- 21611
+Movimiento 35: 19234 --- 20174
+Movimiento 36: 19278 --- 21496
+Movimiento 37: 19322 --- 21374
+Movimiento 38: 19363 --- 20779
+Movimiento 39: 19560 --- 20799
+Generacion 27: 17722
+
+Movimiento 1: 17989 --- 19809
+Movimiento 2: 18151 --- 21243
+Movimiento 3: 18160 --- 21062
+Movimiento 4: 18168 --- 20460
+Movimiento 5: 18232 --- 20787
+Movimiento 6: 18354 --- 19255
+Movimiento 7: 18441 --- 18675
+Movimiento 8: 18657 --- 20573
+Movimiento 9: 18659 --- 22573
+Movimiento 10: 18660 --- 20694
+Movimiento 11: 18707 --- 22013
+Movimiento 12: 18722 --- 21163
+Movimiento 13: 18759 --- 19694
+Movimiento 14: 18759 --- 19541
+Movimiento 15: 18760 --- 20616
+Movimiento 16: 18802 --- 20720
+Movimiento 17: 18823 --- 21277
+Movimiento 18: 18856 --- 19889
+Movimiento 19: 18863 --- 21736
+Movimiento 20: 18874 --- 20527
+Movimiento 21: 18897 --- 20771
+Movimiento 22: 18899 --- 20978
+Movimiento 23: 18996 --- 22393
+Movimiento 24: 19004 --- 20483
+Movimiento 25: 19025 --- 20874
+Movimiento 26: 19035 --- 20483
+Movimiento 27: 19041 --- 20398
+Movimiento 28: 19082 --- 21199
+Movimiento 29: 19091 --- 20338
+Movimiento 30: 19096 --- 21028
+Movimiento 31: 19145 --- 21569
+Movimiento 32: 19150 --- 21472
+Movimiento 33: 19171 --- 20521
+Movimiento 34: 19189 --- 19398
+Movimiento 35: 19234 --- 19825
+Movimiento 36: 19278 --- 20979
+Movimiento 37: 19322 --- 19648
+Movimiento 38: 19363 --- 21574
+Movimiento 39: 19560 --- 22558
+Generacion 28: 17722
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25559
+
+Movimiento 1: 17989 --- 22432
+Movimiento 2: 18151 --- 22155
+Movimiento 3: 18160 --- 20853
+Movimiento 4: 18168 --- 19969
+Movimiento 5: 18232 --- 21601
+Movimiento 6: 18354 --- 20144
+Movimiento 7: 18441 --- 20474
+Movimiento 8: 18657 --- 21675
+Movimiento 9: 18659 --- 19566
+Movimiento 10: 18660 --- 22645
+Movimiento 11: 18707 --- 20867
+Movimiento 12: 18722 --- 21388
+Movimiento 13: 18759 --- 20122
+Movimiento 14: 18759 --- 21503
+Movimiento 15: 18760 --- 21429
+Movimiento 16: 18802 --- 22041
+Movimiento 17: 18823 --- 20364
+Movimiento 18: 18856 --- 19961
+Movimiento 19: 18863 --- 19497
+Movimiento 20: 18874 --- 18991
+Movimiento 21: 18897 --- 19647
+Movimiento 22: 18899 --- 20358
+Movimiento 23: 18996 --- 21559
+Movimiento 24: 19004 --- 21001
+Movimiento 25: 19025 --- 21513
+Movimiento 26: 19035 --- 19299
+Movimiento 27: 19041 --- 20499
+Movimiento 28: 19082 --- 20781
+Movimiento 29: 19091 --- 19546
+Movimiento 30: 19096 --- 20922
+Movimiento 31: 19145 --- 20542
+Movimiento 32: 19150 --- 19818
+Movimiento 33: 19171 --- 20872
+Movimiento 34: 19189 --- 21355
+Movimiento 35: 19234 --- 21209
+Movimiento 36: 19278 --- 19846
+Movimiento 37: 19322 --- 20846
+Movimiento 38: 19363 --- 22088
+Movimiento 39: 19560 --- 21640
+### :DD ###
+Generacion 29: 17989
+
+Movimiento 1: 18151 --- 20586
+Movimiento 2: 18160 --- 22489
+Movimiento 3: 18168 --- 20473
+Movimiento 4: 18232 --- 20178
+Movimiento 5: 18354 --- 21207
+Movimiento 6: 18441 --- 20725
+Movimiento 7: 18657 --- 19798
+Movimiento 8: 18659 --- 21195
+Movimiento 9: 18660 --- 21671
+Movimiento 10: 18707 --- 21020
+Movimiento 11: 18722 --- 20267
+Movimiento 12: 18759 --- 20508
+Movimiento 13: 18759 --- 21130
+Movimiento 14: 18760 --- 21109
+Movimiento 15: 18802 --- 20855
+Movimiento 16: 18823 --- 21695
+Movimiento 17: 18856 --- 21468
+Movimiento 18: 18863 --- 20648
+Movimiento 19: 18874 --- 19686
+Movimiento 20: 18897 --- 20699
+Movimiento 21: 18899 --- 20227
+Movimiento 22: 18996 --- 21799
+Movimiento 23: 19004 --- 20883
+Movimiento 24: 19025 --- 21366
+Movimiento 25: 19035 --- 20934
+Movimiento 26: 19041 --- 19810
+Movimiento 27: 19082 :DD 18844
+Movimiento 28: 19091 --- 22539
+Movimiento 29: 19096 --- 20088
+Movimiento 30: 19145 --- 22005
+Movimiento 31: 19150 --- 20688
+Movimiento 32: 19171 :DD 18538
+Movimiento 33: 19189 --- 21183
+Movimiento 34: 19234 --- 21532
+Movimiento 35: 19278 --- 21406
+Movimiento 36: 19322 --- 19982
+Movimiento 37: 19363 --- 19771
+Movimiento 38: 19560 --- 20375
+Movimiento 39: 25559 :DD 20175
+Generacion 30: 17989
+
+Movimiento 1: 18151 --- 20378
+Movimiento 2: 18160 --- 23068
+Movimiento 3: 18168 --- 21109
+Movimiento 4: 18232 --- 21981
+Movimiento 5: 18354 --- 21830
+Movimiento 6: 18441 --- 20776
+Movimiento 7: 18538 --- 20915
+Movimiento 8: 18657 --- 22079
+Movimiento 9: 18659 --- 19931
+Movimiento 10: 18660 --- 20709
+Movimiento 11: 18707 --- 20547
+Movimiento 12: 18722 --- 21411
+Movimiento 13: 18759 --- 20978
+Movimiento 14: 18759 --- 21850
+Movimiento 15: 18760 --- 20800
+Movimiento 16: 18802 --- 21596
+Movimiento 17: 18823 --- 20657
+Movimiento 18: 18844 --- 19598
+Movimiento 19: 18856 --- 18881
+Movimiento 20: 18863 --- 21241
+Movimiento 21: 18874 --- 19674
+Movimiento 22: 18897 --- 21295
+Movimiento 23: 18899 --- 20828
+Movimiento 24: 18996 --- 20285
+Movimiento 25: 19004 --- 20236
+Movimiento 26: 19025 --- 19233
+Movimiento 27: 19035 --- 22515
+Movimiento 28: 19041 --- 20387
+Movimiento 29: 19091 --- 22656
+Movimiento 30: 19096 --- 21039
+Movimiento 31: 19145 --- 21510
+Movimiento 32: 19150 --- 20736
+Movimiento 33: 19189 --- 22113
+Movimiento 34: 19234 --- 21829
+Movimiento 35: 19278 --- 19912
+Movimiento 36: 19322 --- 21972
+Movimiento 37: 19363 :DD 19101
+Movimiento 38: 19560 --- 20864
+Movimiento 39: 20175 --- 20507
+Generacion 31: 17989
+
+Movimiento 1: 18151 --- 20031
+Movimiento 2: 18160 --- 20823
+Movimiento 3: 18168 --- 20543
+Movimiento 4: 18232 --- 21660
+Movimiento 5: 18354 --- 20050
+Movimiento 6: 18441 --- 18604
+Movimiento 7: 18538 --- 20569
+Movimiento 8: 18657 --- 22037
+Movimiento 9: 18659 --- 20837
+Movimiento 10: 18660 --- 20896
+Movimiento 11: 18707 --- 20233
+Movimiento 12: 18722 --- 21094
+Movimiento 13: 18759 --- 21364
+Movimiento 14: 18759 --- 20517
+Movimiento 15: 18760 --- 19772
+Movimiento 16: 18802 --- 21617
+Movimiento 17: 18823 --- 21131
+Movimiento 18: 18844 --- 20876
+Movimiento 19: 18856 --- 20947
+Movimiento 20: 18863 --- 21580
+Movimiento 21: 18874 --- 20685
+Movimiento 22: 18897 --- 22117
+Movimiento 23: 18899 --- 20800
+Movimiento 24: 18996 --- 21234
+Movimiento 25: 19004 --- 20180
+Movimiento 26: 19025 --- 21825
+Movimiento 27: 19035 --- 22774
+Movimiento 28: 19041 --- 20725
+Movimiento 29: 19091 --- 20833
+Movimiento 30: 19096 --- 21359
+Movimiento 31: 19101 --- 21037
+Movimiento 32: 19145 --- 19238
+Movimiento 33: 19150 --- 21113
+Movimiento 34: 19189 --- 19800
+Movimiento 35: 19234 --- 20760
+Movimiento 36: 19278 --- 19805
+Movimiento 37: 19322 --- 20297
+Movimiento 38: 19560 --- 20410
+Movimiento 39: 20175 --- 20503
+Generacion 32: 17989
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25567
+
+Movimiento 1: 18151 --- 21168
+Movimiento 2: 18160 --- 20450
+Movimiento 3: 18168 --- 20071
+Movimiento 4: 18232 --- 19604
+Movimiento 5: 18354 --- 21550
+Movimiento 6: 18441 --- 22249
+Movimiento 7: 18538 --- 20507
+Movimiento 8: 18657 --- 21588
+Movimiento 9: 18659 --- 21112
+Movimiento 10: 18660 --- 19693
+Movimiento 11: 18707 --- 21279
+Movimiento 12: 18722 --- 21324
+Movimiento 13: 18759 --- 19167
+Movimiento 14: 18759 --- 19511
+Movimiento 15: 18760 --- 21138
+Movimiento 16: 18802 --- 21237
+Movimiento 17: 18823 --- 21525
+Movimiento 18: 18844 --- 20399
+Movimiento 19: 18856 --- 20681
+Movimiento 20: 18863 --- 21404
+Movimiento 21: 18874 --- 20942
+Movimiento 22: 18897 --- 20554
+Movimiento 23: 18899 --- 20132
+Movimiento 24: 18996 --- 20127
+Movimiento 25: 19004 --- 21012
+Movimiento 26: 19025 --- 21871
+Movimiento 27: 19035 --- 19608
+Movimiento 28: 19041 --- 21949
+Movimiento 29: 19091 --- 20341
+Movimiento 30: 19096 --- 19410
+Movimiento 31: 19101 --- 20787
+Movimiento 32: 19145 --- 21056
+Movimiento 33: 19150 :DD 18257
+Movimiento 34: 19189 --- 20070
+Movimiento 35: 19234 --- 21172
+Movimiento 36: 19278 --- 20471
+Movimiento 37: 19322 --- 22110
+Movimiento 38: 19560 --- 21142
+Movimiento 39: 20175 --- 20843
+### :DD ###
+Generacion 33: 18151
+
+Movimiento 1: 18160 --- 21842
+Movimiento 2: 18168 --- 21939
+Movimiento 3: 18232 --- 19956
+Movimiento 4: 18257 --- 20891
+Movimiento 5: 18354 --- 21824
+Movimiento 6: 18441 --- 21091
+Movimiento 7: 18538 --- 20331
+Movimiento 8: 18657 --- 20909
+Movimiento 9: 18659 --- 21893
+Movimiento 10: 18660 --- 20790
+Movimiento 11: 18707 --- 21635
+Movimiento 12: 18722 --- 21306
+Movimiento 13: 18759 --- 21731
+Movimiento 14: 18759 --- 21144
+Movimiento 15: 18760 --- 20411
+Movimiento 16: 18802 --- 21952
+Movimiento 17: 18823 --- 19703
+Movimiento 18: 18844 --- 20430
+Movimiento 19: 18856 --- 21329
+Movimiento 20: 18863 --- 20155
+Movimiento 21: 18874 --- 20807
+Movimiento 22: 18897 --- 19891
+Movimiento 23: 18899 --- 20288
+Movimiento 24: 18996 :DD 18522
+Movimiento 25: 19004 --- 20386
+Movimiento 26: 19025 --- 20058
+Movimiento 27: 19035 --- 21441
+Movimiento 28: 19041 --- 21237
+Movimiento 29: 19091 --- 20805
+Movimiento 30: 19096 --- 20641
+Movimiento 31: 19101 --- 22149
+Movimiento 32: 19145 --- 20414
+Movimiento 33: 19189 --- 22189
+Movimiento 34: 19234 --- 19745
+Movimiento 35: 19278 --- 20419
+Movimiento 36: 19322 --- 22015
+Movimiento 37: 19560 --- 20616
+Movimiento 38: 20175 --- 20768
+Movimiento 39: 25567 :DD 18609
+Generacion 34: 18151
+
+Movimiento 1: 18160 --- 21611
+Movimiento 2: 18168 --- 21863
+Movimiento 3: 18232 --- 20708
+Movimiento 4: 18257 --- 20460
+Movimiento 5: 18354 --- 20201
+Movimiento 6: 18441 --- 20119
+Movimiento 7: 18522 --- 20866
+Movimiento 8: 18538 --- 21003
+Movimiento 9: 18609 --- 21892
+Movimiento 10: 18657 --- 20113
+Movimiento 11: 18659 --- 21610
+Movimiento 12: 18660 --- 21077
+Movimiento 13: 18707 --- 20559
+Movimiento 14: 18722 --- 20367
+Movimiento 15: 18759 --- 20548
+Movimiento 16: 18759 --- 20709
+Movimiento 17: 18760 --- 19797
+Movimiento 18: 18802 --- 21338
+Movimiento 19: 18823 --- 21673
+Movimiento 20: 18844 --- 21167
+Movimiento 21: 18856 --- 20288
+Movimiento 22: 18863 --- 19985
+Movimiento 23: 18874 --- 21799
+Movimiento 24: 18897 --- 20760
+Movimiento 25: 18899 --- 20367
+Movimiento 26: 19004 --- 19941
+Movimiento 27: 19025 --- 20524
+Movimiento 28: 19035 --- 20702
+Movimiento 29: 19041 --- 21221
+Movimiento 30: 19091 --- 21864
+Movimiento 31: 19096 --- 21958
+Movimiento 32: 19101 --- 22398
+Movimiento 33: 19145 --- 21151
+Movimiento 34: 19189 --- 21261
+Movimiento 35: 19234 --- 20497
+Movimiento 36: 19278 --- 21241
+Movimiento 37: 19322 --- 21071
+Movimiento 38: 19560 --- 20505
+Movimiento 39: 20175 --- 20834
+Generacion 35: 18151
+
+Movimiento 1: 18160 --- 21888
+Movimiento 2: 18168 --- 20049
+Movimiento 3: 18232 --- 21411
+Movimiento 4: 18257 --- 20442
+Movimiento 5: 18354 --- 20036
+Movimiento 6: 18441 --- 20858
+Movimiento 7: 18522 --- 20975
+Movimiento 8: 18538 --- 21293
+Movimiento 9: 18609 --- 20162
+Movimiento 10: 18657 --- 20593
+Movimiento 11: 18659 --- 21300
+Movimiento 12: 18660 --- 20150
+Movimiento 13: 18707 --- 21036
+Movimiento 14: 18722 :DD 18595
+Movimiento 15: 18759 --- 20746
+Movimiento 16: 18759 --- 20463
+Movimiento 17: 18760 --- 20666
+Movimiento 18: 18802 --- 19702
+Movimiento 19: 18823 --- 20128
+Movimiento 20: 18844 --- 21031
+Movimiento 21: 18856 --- 19478
+Movimiento 22: 18863 --- 20238
+Movimiento 23: 18874 --- 22083
+Movimiento 24: 18897 --- 21404
+Movimiento 25: 18899 --- 21241
+Movimiento 26: 19004 --- 21643
+Movimiento 27: 19025 --- 20693
+Movimiento 28: 19035 --- 20127
+Movimiento 29: 19041 --- 20268
+Movimiento 30: 19091 --- 19882
+Movimiento 31: 19096 --- 20739
+Movimiento 32: 19101 --- 23048
+Movimiento 33: 19145 --- 22475
+Movimiento 34: 19189 --- 21378
+Movimiento 35: 19234 --- 20983
+Movimiento 36: 19278 --- 22187
+Movimiento 37: 19322 --- 21165
+Movimiento 38: 19560 --- 20600
+Movimiento 39: 20175 --- 21281
+Generacion 36: 18151
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25589
+
+Movimiento 1: 18160 --- 21157
+Movimiento 2: 18168 --- 21661
+Movimiento 3: 18232 --- 21415
+Movimiento 4: 18257 --- 20999
+Movimiento 5: 18354 --- 20950
+Movimiento 6: 18441 --- 20737
+Movimiento 7: 18522 --- 20932
+Movimiento 8: 18538 --- 20626
+Movimiento 9: 18595 --- 20546
+Movimiento 10: 18609 --- 19240
+Movimiento 11: 18657 --- 20346
+Movimiento 12: 18659 --- 20618
+Movimiento 13: 18660 --- 21466
+Movimiento 14: 18707 --- 20426
+Movimiento 15: 18759 --- 20429
+Movimiento 16: 18759 --- 21858
+Movimiento 17: 18760 --- 22645
+Movimiento 18: 18802 --- 22342
+Movimiento 19: 18823 --- 21806
+Movimiento 20: 18844 --- 19647
+Movimiento 21: 18856 --- 21508
+Movimiento 22: 18863 --- 22223
+Movimiento 23: 18874 --- 20484
+Movimiento 24: 18897 --- 19547
+Movimiento 25: 18899 --- 22713
+Movimiento 26: 19004 --- 19112
+Movimiento 27: 19025 --- 19778
+Movimiento 28: 19035 --- 19569
+Movimiento 29: 19041 --- 21620
+Movimiento 30: 19091 --- 19511
+Movimiento 31: 19096 --- 20882
+Movimiento 32: 19101 --- 20091
+Movimiento 33: 19145 --- 20132
+Movimiento 34: 19189 --- 19569
+Movimiento 35: 19234 --- 21808
+Movimiento 36: 19278 --- 21466
+Movimiento 37: 19322 --- 21069
+Movimiento 38: 19560 --- 19589
+Movimiento 39: 20175 --- 22448
+### :DD ###
+Generacion 37: 18160
+
+Movimiento 1: 18168 --- 20186
+Movimiento 2: 18232 --- 20654
+Movimiento 3: 18257 --- 20916
+Movimiento 4: 18354 --- 20899
+Movimiento 5: 18441 --- 21321
+Movimiento 6: 18522 --- 21894
+Movimiento 7: 18538 --- 20479
+Movimiento 8: 18595 --- 21889
+Movimiento 9: 18609 --- 20144
+Movimiento 10: 18657 --- 21583
+Movimiento 11: 18659 --- 20779
+Movimiento 12: 18660 --- 20740
+Movimiento 13: 18707 --- 20268
+Movimiento 14: 18759 --- 20930
+Movimiento 15: 18759 --- 20002
+Movimiento 16: 18760 --- 21365
+Movimiento 17: 18802 --- 20712
+Movimiento 18: 18823 --- 21883
+Movimiento 19: 18844 --- 21951
+Movimiento 20: 18856 --- 20677
+Movimiento 21: 18863 --- 20788
+Movimiento 22: 18874 --- 21987
+Movimiento 23: 18897 --- 20215
+Movimiento 24: 18899 --- 22492
+Movimiento 25: 19004 --- 21289
+Movimiento 26: 19025 --- 20007
+Movimiento 27: 19035 --- 20328
+Movimiento 28: 19041 --- 21247
+Movimiento 29: 19091 --- 19789
+Movimiento 30: 19096 --- 20993
+Movimiento 31: 19101 --- 21273
+Movimiento 32: 19145 --- 20469
+Movimiento 33: 19189 --- 20383
+Movimiento 34: 19234 --- 21609
+Movimiento 35: 19278 --- 19993
+Movimiento 36: 19322 --- 20479
+Movimiento 37: 19560 --- 21756
+Movimiento 38: 20175 --- 20575
+Movimiento 39: 25589 :DD 19561
+Generacion 38: 18160
+
+Movimiento 1: 18168 --- 21417
+Movimiento 2: 18232 --- 20775
+Movimiento 3: 18257 --- 20831
+Movimiento 4: 18354 --- 21099
+Movimiento 5: 18441 --- 20616
+Movimiento 6: 18522 --- 19870
+Movimiento 7: 18538 --- 19163
+Movimiento 8: 18595 --- 22170
+Movimiento 9: 18609 --- 20962
+Movimiento 10: 18657 --- 21810
+Movimiento 11: 18659 --- 21456
+Movimiento 12: 18660 --- 20723
+Movimiento 13: 18707 --- 22058
+Movimiento 14: 18759 --- 19776
+Movimiento 15: 18759 --- 19520
+Movimiento 16: 18760 --- 20208
+Movimiento 17: 18802 --- 20290
+Movimiento 18: 18823 --- 20142
+Movimiento 19: 18844 --- 20301
+Movimiento 20: 18856 --- 19940
+Movimiento 21: 18863 --- 20667
+Movimiento 22: 18874 --- 21171
+Movimiento 23: 18897 --- 20878
+Movimiento 24: 18899 --- 19680
+Movimiento 25: 19004 --- 21588
+Movimiento 26: 19025 --- 19568
+Movimiento 27: 19035 --- 20743
+Movimiento 28: 19041 --- 20890
+Movimiento 29: 19091 --- 22689
+Movimiento 30: 19096 --- 21021
+Movimiento 31: 19101 --- 21074
+Movimiento 32: 19145 --- 20160
+Movimiento 33: 19189 --- 20928
+Movimiento 34: 19234 --- 20688
+Movimiento 35: 19278 --- 20530
+Movimiento 36: 19322 --- 21386
+Movimiento 37: 19560 --- 22085
+Movimiento 38: 19561 --- 21395
+Movimiento 39: 20175 --- 20567
+Generacion 39: 18160
+
+Movimiento 1: 18168 --- 21386
+Movimiento 2: 18232 --- 21063
+Movimiento 3: 18257 --- 21376
+Movimiento 4: 18354 --- 21816
+Movimiento 5: 18441 --- 20332
+Movimiento 6: 18522 --- 22195
+Movimiento 7: 18538 --- 20647
+Movimiento 8: 18595 --- 19490
+Movimiento 9: 18609 --- 20821
+Movimiento 10: 18657 --- 20955
+Movimiento 11: 18659 --- 19975
+Movimiento 12: 18660 --- 19722
+Movimiento 13: 18707 --- 19827
+Movimiento 14: 18759 --- 20262
+Movimiento 15: 18759 --- 21990
+Movimiento 16: 18760 --- 20996
+Movimiento 17: 18802 --- 20708
+Movimiento 18: 18823 --- 19308
+Movimiento 19: 18844 --- 20922
+Movimiento 20: 18856 --- 21461
+Movimiento 21: 18863 --- 19202
+Movimiento 22: 18874 --- 20042
+Movimiento 23: 18897 --- 21501
+Movimiento 24: 18899 --- 22778
+Movimiento 25: 19004 --- 21068
+Movimiento 26: 19025 --- 21144
+Movimiento 27: 19035 --- 21645
+Movimiento 28: 19041 --- 23100
+Movimiento 29: 19091 --- 21890
+Movimiento 30: 19096 --- 20787
+Movimiento 31: 19101 --- 21029
+Movimiento 32: 19145 --- 20792
+Movimiento 33: 19189 --- 21438
+Movimiento 34: 19234 --- 20465
+Movimiento 35: 19278 --- 21083
+Movimiento 36: 19322 --- 21440
+Movimiento 37: 19560 :DD 19182
+Movimiento 38: 19561 --- 21480
+Movimiento 39: 20175 --- 21777
+Generacion 40: 18160
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24723
+
+Movimiento 1: 18168 --- 22077
+Movimiento 2: 18232 --- 21111
+Movimiento 3: 18257 --- 20746
+Movimiento 4: 18354 --- 19894
+Movimiento 5: 18441 --- 20941
+Movimiento 6: 18522 --- 21938
+Movimiento 7: 18538 --- 21813
+Movimiento 8: 18595 --- 22045
+Movimiento 9: 18609 --- 19993
+Movimiento 10: 18657 --- 21194
+Movimiento 11: 18659 --- 21428
+Movimiento 12: 18660 --- 20302
+Movimiento 13: 18707 --- 19871
+Movimiento 14: 18759 --- 20405
+Movimiento 15: 18759 --- 20594
+Movimiento 16: 18760 --- 22040
+Movimiento 17: 18802 --- 20175
+Movimiento 18: 18823 --- 21395
+Movimiento 19: 18844 --- 22558
+Movimiento 20: 18856 --- 20835
+Movimiento 21: 18863 --- 21072
+Movimiento 22: 18874 --- 21826
+Movimiento 23: 18897 --- 21505
+Movimiento 24: 18899 --- 20928
+Movimiento 25: 19004 --- 19533
+Movimiento 26: 19025 --- 21238
+Movimiento 27: 19035 --- 19839
+Movimiento 28: 19041 --- 21704
+Movimiento 29: 19091 --- 22272
+Movimiento 30: 19096 --- 20266
+Movimiento 31: 19101 --- 21510
+Movimiento 32: 19145 --- 21355
+Movimiento 33: 19182 --- 21233
+Movimiento 34: 19189 --- 21790
+Movimiento 35: 19234 :DD 18725
+Movimiento 36: 19278 --- 21324
+Movimiento 37: 19322 --- 19401
+Movimiento 38: 19561 --- 20170
+Movimiento 39: 20175 --- 22043
+### :DD ###
+Generacion 41: 18168
+
+Movimiento 1: 18232 --- 21704
+Movimiento 2: 18257 --- 22638
+Movimiento 3: 18354 --- 20240
+Movimiento 4: 18441 --- 22770
+Movimiento 5: 18522 --- 21099
+Movimiento 6: 18538 --- 21765
+Movimiento 7: 18595 --- 21878
+Movimiento 8: 18609 --- 21577
+Movimiento 9: 18657 --- 20337
+Movimiento 10: 18659 --- 21002
+Movimiento 11: 18660 --- 21456
+Movimiento 12: 18707 --- 20439
+Movimiento 13: 18725 --- 20416
+Movimiento 14: 18759 --- 19727
+Movimiento 15: 18759 --- 22148
+Movimiento 16: 18760 --- 21320
+Movimiento 17: 18802 --- 21879
+Movimiento 18: 18823 --- 21016
+Movimiento 19: 18844 --- 22021
+Movimiento 20: 18856 --- 20431
+Movimiento 21: 18863 --- 20545
+Movimiento 22: 18874 --- 19640
+Movimiento 23: 18897 --- 21108
+Movimiento 24: 18899 --- 20642
+Movimiento 25: 19004 --- 22185
+Movimiento 26: 19025 --- 19037
+Movimiento 27: 19035 --- 21164
+Movimiento 28: 19041 --- 20473
+Movimiento 29: 19091 --- 21505
+Movimiento 30: 19096 --- 22859
+Movimiento 31: 19101 --- 20072
+Movimiento 32: 19145 --- 20765
+Movimiento 33: 19182 --- 20561
+Movimiento 34: 19189 --- 19536
+Movimiento 35: 19278 --- 21278
+Movimiento 36: 19322 --- 20905
+Movimiento 37: 19561 --- 20907
+Movimiento 38: 20175 --- 20799
+Movimiento 39: 24723 :DD 21897
+Generacion 42: 18168
+
+Movimiento 1: 18232 --- 21244
+Movimiento 2: 18257 --- 21723
+Movimiento 3: 18354 --- 21708
+Movimiento 4: 18441 --- 19589
+Movimiento 5: 18522 --- 22729
+Movimiento 6: 18538 --- 20961
+Movimiento 7: 18595 --- 19799
+Movimiento 8: 18609 --- 20675
+Movimiento 9: 18657 --- 22306
+Movimiento 10: 18659 --- 20053
+Movimiento 11: 18660 --- 20303
+Movimiento 12: 18707 --- 20910
+Movimiento 13: 18725 --- 20556
+Movimiento 14: 18759 --- 19447
+Movimiento 15: 18759 --- 19943
+Movimiento 16: 18760 --- 20633
+Movimiento 17: 18802 --- 21148
+Movimiento 18: 18823 --- 20501
+Movimiento 19: 18844 --- 21405
+Movimiento 20: 18856 --- 20334
+Movimiento 21: 18863 --- 20474
+Movimiento 22: 18874 --- 19424
+Movimiento 23: 18897 :DD 18824
+Movimiento 24: 18899 --- 20698
+Movimiento 25: 19004 --- 20900
+Movimiento 26: 19025 --- 20483
+Movimiento 27: 19035 --- 19780
+Movimiento 28: 19041 --- 21355
+Movimiento 29: 19091 --- 19870
+Movimiento 30: 19096 --- 22395
+Movimiento 31: 19101 --- 21508
+Movimiento 32: 19145 --- 19398
+Movimiento 33: 19182 --- 20943
+Movimiento 34: 19189 --- 21796
+Movimiento 35: 19278 --- 19658
+Movimiento 36: 19322 --- 21847
+Movimiento 37: 19561 --- 21481
+Movimiento 38: 20175 --- 20854
+Movimiento 39: 21897 :DD 20971
+Generacion 43: 18168
+
+Movimiento 1: 18232 --- 22140
+Movimiento 2: 18257 --- 21635
+Movimiento 3: 18354 --- 22438
+Movimiento 4: 18441 --- 19944
+Movimiento 5: 18522 --- 21979
+Movimiento 6: 18538 --- 21343
+Movimiento 7: 18595 --- 21075
+Movimiento 8: 18609 --- 21195
+Movimiento 9: 18657 --- 20852
+Movimiento 10: 18659 --- 22112
+Movimiento 11: 18660 --- 19749
+Movimiento 12: 18707 --- 20708
+Movimiento 13: 18725 --- 20167
+Movimiento 14: 18759 --- 20448
+Movimiento 15: 18759 --- 18989
+Movimiento 16: 18760 --- 21055
+Movimiento 17: 18802 --- 19685
+Movimiento 18: 18823 --- 20916
+Movimiento 19: 18824 --- 20903
+Movimiento 20: 18844 --- 21070
+Movimiento 21: 18856 --- 21947
+Movimiento 22: 18863 --- 20215
+Movimiento 23: 18874 --- 20758
+Movimiento 24: 18899 --- 20831
+Movimiento 25: 19004 :DD 18166
+Movimiento 26: 19025 --- 20664
+Movimiento 27: 19035 --- 20791
+Movimiento 28: 19041 --- 20613
+Movimiento 29: 19091 --- 22538
+Movimiento 30: 19096 --- 20411
+Movimiento 31: 19101 --- 20818
+Movimiento 32: 19145 --- 19770
+Movimiento 33: 19182 --- 19630
+Movimiento 34: 19189 --- 21130
+Movimiento 35: 19278 --- 21721
+Movimiento 36: 19322 --- 19673
+Movimiento 37: 19561 --- 20970
+Movimiento 38: 20175 --- 20667
+Movimiento 39: 20971 :DD 19622
+### :DD ###
+Generacion 44: 18166
+
+Movimiento 1: 18168 --- 21475
+Movimiento 2: 18232 --- 19440
+Movimiento 3: 18257 --- 21093
+Movimiento 4: 18354 --- 19463
+Movimiento 5: 18441 --- 21229
+Movimiento 6: 18522 --- 22537
+Movimiento 7: 18538 --- 21560
+Movimiento 8: 18595 --- 21570
+Movimiento 9: 18609 --- 21698
+Movimiento 10: 18657 --- 19925
+Movimiento 11: 18659 --- 19996
+Movimiento 12: 18660 --- 19217
+Movimiento 13: 18707 --- 20757
+Movimiento 14: 18725 --- 22589
+Movimiento 15: 18759 --- 19971
+Movimiento 16: 18759 --- 20732
+Movimiento 17: 18760 --- 21176
+Movimiento 18: 18802 :DD 18757
+Movimiento 19: 18823 --- 20029
+Movimiento 20: 18824 --- 20233
+Movimiento 21: 18844 --- 19298
+Movimiento 22: 18856 --- 19025
+Movimiento 23: 18863 --- 19884
+Movimiento 24: 18874 --- 21008
+Movimiento 25: 18899 --- 22080
+Movimiento 26: 19025 --- 20774
+Movimiento 27: 19035 --- 20569
+Movimiento 28: 19041 --- 20435
+Movimiento 29: 19091 --- 21927
+Movimiento 30: 19096 --- 20636
+Movimiento 31: 19101 --- 21299
+Movimiento 32: 19145 --- 21511
+Movimiento 33: 19182 --- 21319
+Movimiento 34: 19189 --- 20045
+Movimiento 35: 19278 --- 20073
+Movimiento 36: 19322 --- 21886
+Movimiento 37: 19561 :DD 19006
+Movimiento 38: 19622 --- 21229
+Movimiento 39: 20175 --- 20194
+Generacion 45: 18166
+
+Movimiento 1: 18168 --- 20313
+Movimiento 2: 18232 --- 19807
+Movimiento 3: 18257 --- 20922
+Movimiento 4: 18354 --- 20698
+Movimiento 5: 18441 --- 21803
+Movimiento 6: 18522 --- 20261
+Movimiento 7: 18538 --- 21699
+Movimiento 8: 18595 --- 21396
+Movimiento 9: 18609 --- 22311
+Movimiento 10: 18657 --- 19931
+Movimiento 11: 18659 --- 20274
+Movimiento 12: 18660 --- 20399
+Movimiento 13: 18707 --- 20526
+Movimiento 14: 18725 --- 21550
+Movimiento 15: 18757 --- 21593
+Movimiento 16: 18759 --- 20249
+Movimiento 17: 18759 --- 22140
+Movimiento 18: 18760 --- 20384
+Movimiento 19: 18823 --- 19787
+Movimiento 20: 18824 --- 19354
+Movimiento 21: 18844 --- 21048
+Movimiento 22: 18856 --- 20645
+Movimiento 23: 18863 --- 20498
+Movimiento 24: 18874 --- 19541
+Movimiento 25: 18899 --- 19893
+Movimiento 26: 19006 --- 19941
+Movimiento 27: 19025 --- 22369
+Movimiento 28: 19035 --- 21831
+Movimiento 29: 19041 --- 20386
+Movimiento 30: 19091 --- 21569
+Movimiento 31: 19096 --- 20688
+Movimiento 32: 19101 --- 22082
+Movimiento 33: 19145 --- 21263
+Movimiento 34: 19182 --- 20047
+Movimiento 35: 19189 --- 21155
+Movimiento 36: 19278 --- 21054
+Movimiento 37: 19322 --- 20227
+Movimiento 38: 19622 --- 20122
+Movimiento 39: 20175 --- 22086
+Generacion 46: 18166
+
+Movimiento 1: 18168 --- 19619
+Movimiento 2: 18232 --- 20664
+Movimiento 3: 18257 --- 20992
+Movimiento 4: 18354 --- 21122
+Movimiento 5: 18441 --- 19666
+Movimiento 6: 18522 --- 20519
+Movimiento 7: 18538 --- 22032
+Movimiento 8: 18595 --- 20043
+Movimiento 9: 18609 --- 20265
+Movimiento 10: 18657 --- 20124
+Movimiento 11: 18659 --- 21517
+Movimiento 12: 18660 --- 21508
+Movimiento 13: 18707 --- 19878
+Movimiento 14: 18725 --- 20832
+Movimiento 15: 18757 --- 21642
+Movimiento 16: 18759 --- 21663
+Movimiento 17: 18759 --- 19883
+Movimiento 18: 18760 --- 20886
+Movimiento 19: 18823 --- 19954
+Movimiento 20: 18824 --- 20349
+Movimiento 21: 18844 --- 20678
+Movimiento 22: 18856 --- 21154
+Movimiento 23: 18863 --- 20991
+Movimiento 24: 18874 --- 19260
+Movimiento 25: 18899 --- 20963
+Movimiento 26: 19006 --- 20054
+Movimiento 27: 19025 --- 20702
+Movimiento 28: 19035 --- 22346
+Movimiento 29: 19041 --- 20518
+Movimiento 30: 19091 --- 21318
+Movimiento 31: 19096 --- 20046
+Movimiento 32: 19101 --- 21087
+Movimiento 33: 19145 --- 22287
+Movimiento 34: 19182 --- 20420
+Movimiento 35: 19189 --- 21471
+Movimiento 36: 19278 --- 20664
+Movimiento 37: 19322 :DD 19274
+Movimiento 38: 19622 :DD 18740
+Movimiento 39: 20175 --- 20457
+Generacion 47: 18166
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25738
+
+Movimiento 1: 18168 --- 21100
+Movimiento 2: 18232 --- 22330
+Movimiento 3: 18257 --- 20263
+Movimiento 4: 18354 --- 20951
+Movimiento 5: 18441 --- 21227
+Movimiento 6: 18522 --- 19409
+Movimiento 7: 18538 --- 20660
+Movimiento 8: 18595 --- 22220
+Movimiento 9: 18609 --- 20150
+Movimiento 10: 18657 --- 20721
+Movimiento 11: 18659 :DD 18330
+Movimiento 12: 18660 --- 21352
+Movimiento 13: 18707 --- 21638
+Movimiento 14: 18725 --- 20459
+Movimiento 15: 18740 --- 20306
+Movimiento 16: 18757 --- 22343
+Movimiento 17: 18759 --- 21301
+Movimiento 18: 18759 --- 20600
+Movimiento 19: 18760 --- 22296
+Movimiento 20: 18823 --- 21714
+Movimiento 21: 18824 --- 21010
+Movimiento 22: 18844 --- 19524
+Movimiento 23: 18856 --- 22041
+Movimiento 24: 18863 --- 20395
+Movimiento 25: 18874 --- 21752
+Movimiento 26: 18899 --- 20985
+Movimiento 27: 19006 --- 21074
+Movimiento 28: 19025 --- 21088
+Movimiento 29: 19035 --- 19533
+Movimiento 30: 19041 --- 20613
+Movimiento 31: 19091 --- 20827
+Movimiento 32: 19096 --- 19265
+Movimiento 33: 19101 --- 19893
+Movimiento 34: 19145 --- 21522
+Movimiento 35: 19182 --- 21165
+Movimiento 36: 19189 --- 21476
+Movimiento 37: 19274 --- 20074
+Movimiento 38: 19278 --- 20380
+Movimiento 39: 20175 :DD 20153
+### :DD ###
+Generacion 48: 18168
+
+Movimiento 1: 18232 --- 21663
+Movimiento 2: 18257 --- 20490
+Movimiento 3: 18330 --- 19843
+Movimiento 4: 18354 --- 20430
+Movimiento 5: 18441 --- 21168
+Movimiento 6: 18522 --- 21482
+Movimiento 7: 18538 --- 20319
+Movimiento 8: 18595 --- 22279
+Movimiento 9: 18609 --- 19039
+Movimiento 10: 18657 --- 19973
+Movimiento 11: 18660 --- 20802
+Movimiento 12: 18707 --- 20609
+Movimiento 13: 18725 --- 20824
+Movimiento 14: 18740 --- 22001
+Movimiento 15: 18757 --- 20456
+Movimiento 16: 18759 --- 21937
+Movimiento 17: 18759 --- 21973
+Movimiento 18: 18760 --- 19841
+Movimiento 19: 18823 --- 20020
+Movimiento 20: 18824 --- 20252
+Movimiento 21: 18844 --- 20780
+Movimiento 22: 18856 --- 20581
+Movimiento 23: 18863 --- 20766
+Movimiento 24: 18874 --- 21008
+Movimiento 25: 18899 --- 20304
+Movimiento 26: 19006 --- 19896
+Movimiento 27: 19025 --- 21027
+Movimiento 28: 19035 --- 20927
+Movimiento 29: 19041 --- 20832
+Movimiento 30: 19091 --- 19995
+Movimiento 31: 19096 --- 19939
+Movimiento 32: 19101 --- 20452
+Movimiento 33: 19145 --- 20222
+Movimiento 34: 19182 --- 19914
+Movimiento 35: 19189 :DD 17850
+Movimiento 36: 19274 --- 19657
+Movimiento 37: 19278 --- 22197
+Movimiento 38: 20153 :DD 20025
+Movimiento 39: 25738 :DD 19091
+### :DD ###
+Generacion 49: 17850
+
+Movimiento 1: 18168 --- 21552
+Movimiento 2: 18232 --- 19767
+Movimiento 3: 18257 --- 20615
+Movimiento 4: 18330 --- 21340
+Movimiento 5: 18354 --- 18911
+Movimiento 6: 18441 --- 20604
+Movimiento 7: 18522 --- 19435
+Movimiento 8: 18538 --- 20318
+Movimiento 9: 18595 --- 20389
+Movimiento 10: 18609 --- 19285
+Movimiento 11: 18657 --- 22017
+Movimiento 12: 18660 --- 20739
+Movimiento 13: 18707 --- 20712
+Movimiento 14: 18725 --- 20650
+Movimiento 15: 18740 --- 21036
+Movimiento 16: 18757 --- 20734
+Movimiento 17: 18759 --- 19028
+Movimiento 18: 18759 --- 21178
+Movimiento 19: 18760 --- 21584
+Movimiento 20: 18823 --- 19180
+Movimiento 21: 18824 --- 18983
+Movimiento 22: 18844 --- 19891
+Movimiento 23: 18856 --- 20680
+Movimiento 24: 18863 --- 21522
+Movimiento 25: 18874 --- 19497
+Movimiento 26: 18899 --- 22675
+Movimiento 27: 19006 --- 20652
+Movimiento 28: 19025 --- 20999
+Movimiento 29: 19035 --- 19759
+Movimiento 30: 19041 --- 20277
+Movimiento 31: 19091 --- 21458
+Movimiento 32: 19091 --- 20789
+Movimiento 33: 19096 --- 20651
+Movimiento 34: 19101 --- 19746
+Movimiento 35: 19145 --- 20736
+Movimiento 36: 19182 --- 19304
+Movimiento 37: 19274 --- 21313
+Movimiento 38: 19278 --- 20478
+Movimiento 39: 20025 :DD 19612
+Generacion 50: 17850
+
+Movimiento 1: 18168 --- 21807
+Movimiento 2: 18232 --- 20228
+Movimiento 3: 18257 --- 22765
+Movimiento 4: 18330 --- 21348
+Movimiento 5: 18354 --- 20987
+Movimiento 6: 18441 --- 21596
+Movimiento 7: 18522 --- 21383
+Movimiento 8: 18538 --- 20894
+Movimiento 9: 18595 --- 21443
+Movimiento 10: 18609 --- 19918
+Movimiento 11: 18657 --- 20841
+Movimiento 12: 18660 --- 21729
+Movimiento 13: 18707 --- 20022
+Movimiento 14: 18725 --- 21613
+Movimiento 15: 18740 --- 20708
+Movimiento 16: 18757 --- 21377
+Movimiento 17: 18759 --- 20863
+Movimiento 18: 18759 --- 21223
+Movimiento 19: 18760 --- 21193
+Movimiento 20: 18823 --- 20114
+Movimiento 21: 18824 --- 19686
+Movimiento 22: 18844 --- 20839
+Movimiento 23: 18856 --- 19192
+Movimiento 24: 18863 --- 21328
+Movimiento 25: 18874 --- 21220
+Movimiento 26: 18899 --- 21488
+Movimiento 27: 19006 --- 20689
+Movimiento 28: 19025 --- 19316
+Movimiento 29: 19035 --- 20485
+Movimiento 30: 19041 --- 20165
+Movimiento 31: 19091 --- 20164
+Movimiento 32: 19091 --- 19996
+Movimiento 33: 19096 --- 20589
+Movimiento 34: 19101 --- 21388
+Movimiento 35: 19145 --- 21782
+Movimiento 36: 19182 --- 21537
+Movimiento 37: 19274 --- 19499
+Movimiento 38: 19278 :DD 19239
+Movimiento 39: 19612 --- 21063
+Generacion 51: 17850
+
+Movimiento 1: 18168 --- 19097
+Movimiento 2: 18232 --- 22125
+Movimiento 3: 18257 --- 21508
+Movimiento 4: 18330 --- 19866
+Movimiento 5: 18354 --- 20705
+Movimiento 6: 18441 --- 21331
+Movimiento 7: 18522 --- 20966
+Movimiento 8: 18538 --- 20594
+Movimiento 9: 18595 --- 21120
+Movimiento 10: 18609 --- 21544
+Movimiento 11: 18657 --- 21495
+Movimiento 12: 18660 --- 20267
+Movimiento 13: 18707 --- 18993
+Movimiento 14: 18725 --- 20535
+Movimiento 15: 18740 --- 21179
+Movimiento 16: 18757 --- 20158
+Movimiento 17: 18759 --- 20338
+Movimiento 18: 18759 --- 21439
+Movimiento 19: 18760 --- 20680
+Movimiento 20: 18823 --- 21020
+Movimiento 21: 18824 --- 20896
+Movimiento 22: 18844 --- 19642
+Movimiento 23: 18856 --- 19933
+Movimiento 24: 18863 --- 20683
+Movimiento 25: 18874 --- 20019
+Movimiento 26: 18899 --- 20984
+Movimiento 27: 19006 :DD 18848
+Movimiento 28: 19025 --- 19238
+Movimiento 29: 19035 --- 21451
+Movimiento 30: 19041 --- 19929
+Movimiento 31: 19091 --- 21152
+Movimiento 32: 19091 --- 19816
+Movimiento 33: 19096 --- 20637
+Movimiento 34: 19101 --- 22220
+Movimiento 35: 19145 --- 21621
+Movimiento 36: 19182 --- 21265
+Movimiento 37: 19239 --- 20566
+Movimiento 38: 19274 --- 20658
+Movimiento 39: 19612 --- 21428
+Generacion 52: 17850
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25357
+
+Movimiento 1: 18168 --- 19480
+Movimiento 2: 18232 --- 19455
+Movimiento 3: 18257 --- 20338
+Movimiento 4: 18330 --- 21052
+Movimiento 5: 18354 --- 20278
+Movimiento 6: 18441 --- 22350
+Movimiento 7: 18522 --- 20408
+Movimiento 8: 18538 --- 21095
+Movimiento 9: 18595 --- 19728
+Movimiento 10: 18609 --- 22022
+Movimiento 11: 18657 --- 20935
+Movimiento 12: 18660 --- 20861
+Movimiento 13: 18707 --- 21350
+Movimiento 14: 18725 --- 22475
+Movimiento 15: 18740 --- 20630
+Movimiento 16: 18757 --- 20177
+Movimiento 17: 18759 --- 21441
+Movimiento 18: 18759 --- 21460
+Movimiento 19: 18760 --- 20376
+Movimiento 20: 18823 --- 19988
+Movimiento 21: 18824 --- 20504
+Movimiento 22: 18844 --- 20357
+Movimiento 23: 18848 --- 20622
+Movimiento 24: 18856 --- 21773
+Movimiento 25: 18863 --- 20880
+Movimiento 26: 18874 --- 21657
+Movimiento 27: 18899 --- 21954
+Movimiento 28: 19025 --- 20211
+Movimiento 29: 19035 --- 20441
+Movimiento 30: 19041 --- 21323
+Movimiento 31: 19091 --- 20402
+Movimiento 32: 19091 --- 20812
+Movimiento 33: 19096 --- 21471
+Movimiento 34: 19101 --- 19458
+Movimiento 35: 19145 --- 21108
+Movimiento 36: 19182 --- 20084
+Movimiento 37: 19239 --- 20294
+Movimiento 38: 19274 --- 20017
+Movimiento 39: 19612 --- 20207
+### :DD ###
+Generacion 53: 18168
+
+Movimiento 1: 18232 --- 21156
+Movimiento 2: 18257 --- 20493
+Movimiento 3: 18330 --- 19380
+Movimiento 4: 18354 --- 21429
+Movimiento 5: 18441 --- 20383
+Movimiento 6: 18522 --- 19517
+Movimiento 7: 18538 --- 20946
+Movimiento 8: 18595 --- 21004
+Movimiento 9: 18609 --- 19714
+Movimiento 10: 18657 --- 22138
+Movimiento 11: 18660 --- 20280
+Movimiento 12: 18707 --- 21616
+Movimiento 13: 18725 --- 21075
+Movimiento 14: 18740 --- 20970
+Movimiento 15: 18757 --- 21843
+Movimiento 16: 18759 --- 20432
+Movimiento 17: 18759 --- 21355
+Movimiento 18: 18760 --- 20397
+Movimiento 19: 18823 --- 20751
+Movimiento 20: 18824 --- 20073
+Movimiento 21: 18844 --- 20604
+Movimiento 22: 18848 --- 20479
+Movimiento 23: 18856 --- 21324
+Movimiento 24: 18863 --- 19831
+Movimiento 25: 18874 --- 19716
+Movimiento 26: 18899 --- 20627
+Movimiento 27: 19025 --- 19826
+Movimiento 28: 19035 --- 21767
+Movimiento 29: 19041 --- 21390
+Movimiento 30: 19091 --- 20394
+Movimiento 31: 19091 --- 20107
+Movimiento 32: 19096 --- 20967
+Movimiento 33: 19101 --- 20615
+Movimiento 34: 19145 --- 20391
+Movimiento 35: 19182 --- 20787
+Movimiento 36: 19239 --- 19905
+Movimiento 37: 19274 --- 20869
+Movimiento 38: 19612 --- 20370
+Movimiento 39: 25357 :DD 18565
+Generacion 54: 18168
+
+Movimiento 1: 18232 --- 20818
+Movimiento 2: 18257 --- 20374
+Movimiento 3: 18330 --- 20671
+Movimiento 4: 18354 --- 22131
+Movimiento 5: 18441 --- 22703
+Movimiento 6: 18522 --- 19203
+Movimiento 7: 18538 --- 21095
+Movimiento 8: 18565 --- 21601
+Movimiento 9: 18595 --- 19507
+Movimiento 10: 18609 --- 20388
+Movimiento 11: 18657 --- 20332
+Movimiento 12: 18660 --- 19995
+Movimiento 13: 18707 --- 21566
+Movimiento 14: 18725 --- 21353
+Movimiento 15: 18740 --- 20525
+Movimiento 16: 18757 --- 20824
+Movimiento 17: 18759 --- 20600
+Movimiento 18: 18759 --- 21611
+Movimiento 19: 18760 --- 21379
+Movimiento 20: 18823 --- 20731
+Movimiento 21: 18824 --- 21353
+Movimiento 22: 18844 --- 20539
+Movimiento 23: 18848 --- 20911
+Movimiento 24: 18856 --- 22321
+Movimiento 25: 18863 --- 21537
+Movimiento 26: 18874 --- 20306
+Movimiento 27: 18899 --- 21658
+Movimiento 28: 19025 --- 22733
+Movimiento 29: 19035 --- 20366
+Movimiento 30: 19041 --- 20586
+Movimiento 31: 19091 --- 19982
+Movimiento 32: 19091 --- 21521
+Movimiento 33: 19096 --- 19494
+Movimiento 34: 19101 --- 21615
+Movimiento 35: 19145 --- 20626
+Movimiento 36: 19182 --- 21327
+Movimiento 37: 19239 --- 22237
+Movimiento 38: 19274 --- 20555
+Movimiento 39: 19612 --- 20618
+Generacion 55: 18168
+
+Movimiento 1: 18232 --- 20947
+Movimiento 2: 18257 --- 21085
+Movimiento 3: 18330 --- 20385
+Movimiento 4: 18354 --- 19424
+Movimiento 5: 18441 --- 20753
+Movimiento 6: 18522 --- 21603
+Movimiento 7: 18538 --- 21305
+Movimiento 8: 18565 --- 21427
+Movimiento 9: 18595 --- 21146
+Movimiento 10: 18609 --- 20009
+Movimiento 11: 18657 --- 20839
+Movimiento 12: 18660 --- 19540
+Movimiento 13: 18707 --- 20430
+Movimiento 14: 18725 --- 20418
+Movimiento 15: 18740 --- 22209
+Movimiento 16: 18757 --- 21406
+Movimiento 17: 18759 --- 20021
+Movimiento 18: 18759 --- 20349
+Movimiento 19: 18760 --- 20902
+Movimiento 20: 18823 --- 20143
+Movimiento 21: 18824 --- 21239
+Movimiento 22: 18844 --- 20805
+Movimiento 23: 18848 --- 22083
+Movimiento 24: 18856 --- 20183
+Movimiento 25: 18863 --- 20707
+Movimiento 26: 18874 --- 21498
+Movimiento 27: 18899 --- 20464
+Movimiento 28: 19025 --- 19556
+Movimiento 29: 19035 --- 20461
+Movimiento 30: 19041 --- 19854
+Movimiento 31: 19091 --- 20990
+Movimiento 32: 19091 --- 20540
+Movimiento 33: 19096 --- 21303
+Movimiento 34: 19101 --- 19842
+Movimiento 35: 19145 --- 20470
+Movimiento 36: 19182 --- 19537
+Movimiento 37: 19239 --- 21466
+Movimiento 38: 19274 --- 22184
+Movimiento 39: 19612 --- 22263
+Generacion 56: 18168
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24521
+
+Movimiento 1: 18232 --- 19551
+Movimiento 2: 18257 --- 20873
+Movimiento 3: 18330 --- 20318
+Movimiento 4: 18354 --- 21064
+Movimiento 5: 18441 --- 20205
+Movimiento 6: 18522 --- 20771
+Movimiento 7: 18538 --- 20674
+Movimiento 8: 18565 --- 20866
+Movimiento 9: 18595 --- 21570
+Movimiento 10: 18609 --- 21177
+Movimiento 11: 18657 --- 21924
+Movimiento 12: 18660 --- 21934
+Movimiento 13: 18707 --- 22089
+Movimiento 14: 18725 --- 21566
+Movimiento 15: 18740 --- 21200
+Movimiento 16: 18757 --- 22053
+Movimiento 17: 18759 --- 19258
+Movimiento 18: 18759 --- 20521
+Movimiento 19: 18760 --- 19561
+Movimiento 20: 18823 --- 20605
+Movimiento 21: 18824 --- 22296
+Movimiento 22: 18844 --- 20077
+Movimiento 23: 18848 --- 20385
+Movimiento 24: 18856 --- 20269
+Movimiento 25: 18863 --- 21547
+Movimiento 26: 18874 --- 19701
+Movimiento 27: 18899 --- 19430
+Movimiento 28: 19025 --- 19476
+Movimiento 29: 19035 --- 20303
+Movimiento 30: 19041 --- 20488
+Movimiento 31: 19091 --- 19812
+Movimiento 32: 19091 --- 20513
+Movimiento 33: 19096 --- 21819
+Movimiento 34: 19101 --- 20472
+Movimiento 35: 19145 --- 19169
+Movimiento 36: 19182 --- 20003
+Movimiento 37: 19239 --- 20139
+Movimiento 38: 19274 --- 19865
+Movimiento 39: 19612 --- 20524
+### :DD ###
+Generacion 57: 18232
+
+Movimiento 1: 18257 --- 19721
+Movimiento 2: 18330 --- 20961
+Movimiento 3: 18354 --- 22529
+Movimiento 4: 18441 --- 21049
+Movimiento 5: 18522 --- 20523
+Movimiento 6: 18538 --- 20648
+Movimiento 7: 18565 --- 21674
+Movimiento 8: 18595 --- 21004
+Movimiento 9: 18609 --- 19993
+Movimiento 10: 18657 --- 20853
+Movimiento 11: 18660 --- 21484
+Movimiento 12: 18707 --- 21460
+Movimiento 13: 18725 --- 20352
+Movimiento 14: 18740 --- 21248
+Movimiento 15: 18757 --- 20851
+Movimiento 16: 18759 --- 20382
+Movimiento 17: 18759 --- 19804
+Movimiento 18: 18760 --- 21619
+Movimiento 19: 18823 --- 21399
+Movimiento 20: 18824 --- 19519
+Movimiento 21: 18844 --- 20364
+Movimiento 22: 18848 --- 20577
+Movimiento 23: 18856 --- 19903
+Movimiento 24: 18863 --- 22007
+Movimiento 25: 18874 --- 21593
+Movimiento 26: 18899 --- 20320
+Movimiento 27: 19025 --- 19595
+Movimiento 28: 19035 --- 21295
+Movimiento 29: 19041 --- 20416
+Movimiento 30: 19091 --- 20402
+Movimiento 31: 19091 --- 21938
+Movimiento 32: 19096 --- 20357
+Movimiento 33: 19101 --- 20738
+Movimiento 34: 19145 :DD 19039
+Movimiento 35: 19182 --- 20698
+Movimiento 36: 19239 --- 21271
+Movimiento 37: 19274 --- 20822
+Movimiento 38: 19612 --- 22676
+Movimiento 39: 24521 :DD 20127
+Generacion 58: 18232
+
+Movimiento 1: 18257 --- 20800
+Movimiento 2: 18330 --- 22636
+Movimiento 3: 18354 --- 19947
+Movimiento 4: 18441 --- 20374
+Movimiento 5: 18522 --- 21346
+Movimiento 6: 18538 --- 21613
+Movimiento 7: 18565 --- 20395
+Movimiento 8: 18595 --- 21594
+Movimiento 9: 18609 --- 20883
+Movimiento 10: 18657 --- 20271
+Movimiento 11: 18660 --- 22778
+Movimiento 12: 18707 --- 20478
+Movimiento 13: 18725 --- 20596
+Movimiento 14: 18740 --- 20430
+Movimiento 15: 18757 --- 20343
+Movimiento 16: 18759 --- 19895
+Movimiento 17: 18759 --- 20525
+Movimiento 18: 18760 --- 21972
+Movimiento 19: 18823 :DD 18745
+Movimiento 20: 18824 --- 21349
+Movimiento 21: 18844 --- 20716
+Movimiento 22: 18848 --- 21144
+Movimiento 23: 18856 --- 20714
+Movimiento 24: 18863 --- 20068
+Movimiento 25: 18874 --- 21026
+Movimiento 26: 18899 --- 21560
+Movimiento 27: 19025 --- 19465
+Movimiento 28: 19035 --- 20794
+Movimiento 29: 19039 --- 21912
+Movimiento 30: 19041 --- 21017
+Movimiento 31: 19091 --- 20257
+Movimiento 32: 19091 --- 21116
+Movimiento 33: 19096 --- 20637
+Movimiento 34: 19101 --- 20145
+Movimiento 35: 19182 --- 19894
+Movimiento 36: 19239 --- 20042
+Movimiento 37: 19274 --- 20653
+Movimiento 38: 19612 --- 21609
+Movimiento 39: 20127 --- 21828
+Generacion 59: 18232
+
+Movimiento 1: 18257 --- 20105
+Movimiento 2: 18330 --- 20510
+Movimiento 3: 18354 --- 21359
+Movimiento 4: 18441 --- 21183
+Movimiento 5: 18522 --- 20721
+Movimiento 6: 18538 --- 20956
+Movimiento 7: 18565 --- 21985
+Movimiento 8: 18595 --- 21120
+Movimiento 9: 18609 --- 19528
+Movimiento 10: 18657 --- 20481
+Movimiento 11: 18660 --- 20184
+Movimiento 12: 18707 --- 21855
+Movimiento 13: 18725 --- 21446
+Movimiento 14: 18740 --- 20486
+Movimiento 15: 18745 --- 19729
+Movimiento 16: 18757 --- 20178
+Movimiento 17: 18759 --- 22142
+Movimiento 18: 18759 --- 20806
+Movimiento 19: 18760 --- 21507
+Movimiento 20: 18824 --- 21042
+Movimiento 21: 18844 --- 20483
+Movimiento 22: 18848 --- 19706
+Movimiento 23: 18856 --- 21631
+Movimiento 24: 18863 --- 20858
+Movimiento 25: 18874 --- 19890
+Movimiento 26: 18899 --- 22117
+Movimiento 27: 19025 --- 22231
+Movimiento 28: 19035 --- 19683
+Movimiento 29: 19039 --- 21647
+Movimiento 30: 19041 --- 21145
+Movimiento 31: 19091 --- 20446
+Movimiento 32: 19091 --- 19781
+Movimiento 33: 19096 --- 21047
+Movimiento 34: 19101 --- 21894
+Movimiento 35: 19182 --- 22218
+Movimiento 36: 19239 --- 22847
+Movimiento 37: 19274 --- 20559
+Movimiento 38: 19612 --- 19886
+Movimiento 39: 20127 :DD 20051
+Generacion 60: 18232
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25468
+
+Movimiento 1: 18257 --- 20337
+Movimiento 2: 18330 --- 22207
+Movimiento 3: 18354 --- 20978
+Movimiento 4: 18441 --- 19610
+Movimiento 5: 18522 --- 18952
+Movimiento 6: 18538 --- 19941
+Movimiento 7: 18565 --- 19816
+Movimiento 8: 18595 --- 21036
+Movimiento 9: 18609 --- 20914
+Movimiento 10: 18657 --- 22075
+Movimiento 11: 18660 --- 20217
+Movimiento 12: 18707 --- 22450
+Movimiento 13: 18725 --- 20548
+Movimiento 14: 18740 --- 20322
+Movimiento 15: 18745 --- 21538
+Movimiento 16: 18757 --- 19699
+Movimiento 17: 18759 --- 20121
+Movimiento 18: 18759 --- 20604
+Movimiento 19: 18760 --- 21699
+Movimiento 20: 18824 --- 20531
+Movimiento 21: 18844 --- 21078
+Movimiento 22: 18848 --- 20756
+Movimiento 23: 18856 --- 20760
+Movimiento 24: 18863 --- 21603
+Movimiento 25: 18874 --- 22076
+Movimiento 26: 18899 --- 20938
+Movimiento 27: 19025 --- 19724
+Movimiento 28: 19035 --- 19862
+Movimiento 29: 19039 --- 20559
+Movimiento 30: 19041 --- 21290
+Movimiento 31: 19091 --- 20492
+Movimiento 32: 19091 --- 22125
+Movimiento 33: 19096 --- 21739
+Movimiento 34: 19101 --- 20191
+Movimiento 35: 19182 --- 21172
+Movimiento 36: 19239 --- 22215
+Movimiento 37: 19274 --- 21503
+Movimiento 38: 19612 --- 19639
+Movimiento 39: 20051 --- 20436
+### :DD ###
+Generacion 61: 18257
+
+Movimiento 1: 18330 --- 20079
+Movimiento 2: 18354 --- 20412
+Movimiento 3: 18441 --- 20903
+Movimiento 4: 18522 --- 21962
+Movimiento 5: 18538 --- 21627
+Movimiento 6: 18565 --- 19369
+Movimiento 7: 18595 --- 19356
+Movimiento 8: 18609 --- 20462
+Movimiento 9: 18657 --- 21799
+Movimiento 10: 18660 --- 21023
+Movimiento 11: 18707 --- 20054
+Movimiento 12: 18725 --- 19728
+Movimiento 13: 18740 --- 21102
+Movimiento 14: 18745 --- 20456
+Movimiento 15: 18757 --- 20488
+Movimiento 16: 18759 --- 21682
+Movimiento 17: 18759 --- 20489
+Movimiento 18: 18760 --- 20192
+Movimiento 19: 18824 --- 20524
+Movimiento 20: 18844 --- 21787
+Movimiento 21: 18848 --- 19609
+Movimiento 22: 18856 --- 20455
+Movimiento 23: 18863 --- 20968
+Movimiento 24: 18874 --- 20085
+Movimiento 25: 18899 --- 22514
+Movimiento 26: 19025 --- 20194
+Movimiento 27: 19035 --- 20566
+Movimiento 28: 19039 --- 20995
+Movimiento 29: 19041 --- 20941
+Movimiento 30: 19091 --- 20959
+Movimiento 31: 19091 --- 21185
+Movimiento 32: 19096 --- 20246
+Movimiento 33: 19101 --- 20019
+Movimiento 34: 19182 --- 19462
+Movimiento 35: 19239 --- 21094
+Movimiento 36: 19274 --- 20582
+Movimiento 37: 19612 :DD 19046
+Movimiento 38: 20051 --- 20935
+Movimiento 39: 25468 :DD 20430
+Generacion 62: 18257
+
+Movimiento 1: 18330 --- 19930
+Movimiento 2: 18354 --- 20938
+Movimiento 3: 18441 --- 22177
+Movimiento 4: 18522 --- 20797
+Movimiento 5: 18538 --- 21442
+Movimiento 6: 18565 --- 21569
+Movimiento 7: 18595 --- 21028
+Movimiento 8: 18609 --- 21413
+Movimiento 9: 18657 --- 19948
+Movimiento 10: 18660 --- 21157
+Movimiento 11: 18707 --- 19163
+Movimiento 12: 18725 --- 20731
+Movimiento 13: 18740 --- 21671
+Movimiento 14: 18745 --- 20107
+Movimiento 15: 18757 --- 19494
+Movimiento 16: 18759 --- 21776
+Movimiento 17: 18759 --- 21356
+Movimiento 18: 18760 --- 19786
+Movimiento 19: 18824 --- 20690
+Movimiento 20: 18844 --- 20659
+Movimiento 21: 18848 --- 21466
+Movimiento 22: 18856 --- 22045
+Movimiento 23: 18863 --- 19286
+Movimiento 24: 18874 --- 19903
+Movimiento 25: 18899 --- 20003
+Movimiento 26: 19025 --- 19637
+Movimiento 27: 19035 --- 21927
+Movimiento 28: 19039 --- 20713
+Movimiento 29: 19041 --- 20696
+Movimiento 30: 19046 --- 20686
+Movimiento 31: 19091 --- 21692
+Movimiento 32: 19091 --- 19841
+Movimiento 33: 19096 --- 19965
+Movimiento 34: 19101 --- 20553
+Movimiento 35: 19182 --- 20837
+Movimiento 36: 19239 --- 21803
+Movimiento 37: 19274 --- 21386
+Movimiento 38: 20051 --- 20447
+Movimiento 39: 20430 :DD 19406
+Generacion 63: 18257
+
+Movimiento 1: 18330 --- 20031
+Movimiento 2: 18354 --- 20274
+Movimiento 3: 18441 --- 19077
+Movimiento 4: 18522 --- 20707
+Movimiento 5: 18538 --- 21758
+Movimiento 6: 18565 --- 20016
+Movimiento 7: 18595 --- 20566
+Movimiento 8: 18609 --- 19927
+Movimiento 9: 18657 --- 19968
+Movimiento 10: 18660 --- 21190
+Movimiento 11: 18707 --- 23949
+Movimiento 12: 18725 --- 20165
+Movimiento 13: 18740 --- 20086
+Movimiento 14: 18745 --- 20768
+Movimiento 15: 18757 --- 20114
+Movimiento 16: 18759 --- 20716
+Movimiento 17: 18759 --- 21295
+Movimiento 18: 18760 --- 21391
+Movimiento 19: 18824 --- 20679
+Movimiento 20: 18844 --- 21503
+Movimiento 21: 18848 --- 21168
+Movimiento 22: 18856 --- 20261
+Movimiento 23: 18863 --- 21323
+Movimiento 24: 18874 --- 19094
+Movimiento 25: 18899 --- 20062
+Movimiento 26: 19025 --- 20697
+Movimiento 27: 19035 --- 22008
+Movimiento 28: 19039 --- 19880
+Movimiento 29: 19041 --- 19862
+Movimiento 30: 19046 --- 21098
+Movimiento 31: 19091 --- 20780
+Movimiento 32: 19091 :DD 19048
+Movimiento 33: 19096 --- 20578
+Movimiento 34: 19101 --- 20133
+Movimiento 35: 19182 --- 21562
+Movimiento 36: 19239 --- 21066
+Movimiento 37: 19274 --- 19440
+Movimiento 38: 19406 --- 21525
+Movimiento 39: 20051 --- 20810
+Generacion 64: 18257
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24970
+
+Movimiento 1: 18330 --- 21378
+Movimiento 2: 18354 --- 21872
+Movimiento 3: 18441 --- 20045
+Movimiento 4: 18522 --- 19581
+Movimiento 5: 18538 --- 20820
+Movimiento 6: 18565 --- 21705
+Movimiento 7: 18595 --- 20626
+Movimiento 8: 18609 --- 20738
+Movimiento 9: 18657 --- 21100
+Movimiento 10: 18660 --- 20458
+Movimiento 11: 18707 --- 20493
+Movimiento 12: 18725 --- 20837
+Movimiento 13: 18740 --- 20376
+Movimiento 14: 18745 --- 19498
+Movimiento 15: 18757 --- 20020
+Movimiento 16: 18759 --- 20958
+Movimiento 17: 18759 --- 21051
+Movimiento 18: 18760 --- 20503
+Movimiento 19: 18824 --- 19862
+Movimiento 20: 18844 --- 21813
+Movimiento 21: 18848 --- 20223
+Movimiento 22: 18856 --- 20417
+Movimiento 23: 18863 --- 20817
+Movimiento 24: 18874 --- 20892
+Movimiento 25: 18899 --- 21708
+Movimiento 26: 19025 --- 21644
+Movimiento 27: 19035 --- 20363
+Movimiento 28: 19039 --- 21876
+Movimiento 29: 19041 :DD 18035
+Movimiento 30: 19046 --- 21580
+Movimiento 31: 19048 :DD 18993
+Movimiento 32: 19091 --- 20604
+Movimiento 33: 19096 --- 20034
+Movimiento 34: 19101 --- 20302
+Movimiento 35: 19182 --- 20478
+Movimiento 36: 19239 --- 19286
+Movimiento 37: 19274 --- 19683
+Movimiento 38: 19406 --- 21005
+Movimiento 39: 20051 --- 20204
+### :DD ###
+Generacion 65: 18035
+
+Movimiento 1: 18330 --- 21825
+Movimiento 2: 18354 --- 22468
+Movimiento 3: 18441 --- 20239
+Movimiento 4: 18522 --- 20892
+Movimiento 5: 18538 --- 20231
+Movimiento 6: 18565 --- 19660
+Movimiento 7: 18595 --- 21514
+Movimiento 8: 18609 --- 21078
+Movimiento 9: 18657 --- 20855
+Movimiento 10: 18660 --- 20441
+Movimiento 11: 18707 --- 20481
+Movimiento 12: 18725 --- 20330
+Movimiento 13: 18740 --- 20619
+Movimiento 14: 18745 --- 22115
+Movimiento 15: 18757 --- 19841
+Movimiento 16: 18759 --- 20460
+Movimiento 17: 18759 --- 21503
+Movimiento 18: 18760 --- 20600
+Movimiento 19: 18824 --- 20844
+Movimiento 20: 18844 --- 19616
+Movimiento 21: 18848 --- 20227
+Movimiento 22: 18856 --- 20759
+Movimiento 23: 18863 --- 22358
+Movimiento 24: 18874 --- 19348
+Movimiento 25: 18899 --- 21570
+Movimiento 26: 18993 --- 20351
+Movimiento 27: 19025 --- 20793
+Movimiento 28: 19035 --- 20656
+Movimiento 29: 19039 --- 22547
+Movimiento 30: 19046 --- 20143
+Movimiento 31: 19091 --- 19715
+Movimiento 32: 19096 --- 21818
+Movimiento 33: 19101 --- 20734
+Movimiento 34: 19182 --- 20558
+Movimiento 35: 19239 --- 21197
+Movimiento 36: 19274 --- 19783
+Movimiento 37: 19406 --- 19631
+Movimiento 38: 20051 --- 20744
+Movimiento 39: 24970 :DD 19424
+Generacion 66: 18035
+
+Movimiento 1: 18330 --- 20616
+Movimiento 2: 18354 --- 20943
+Movimiento 3: 18441 --- 20809
+Movimiento 4: 18522 --- 21863
+Movimiento 5: 18538 --- 18780
+Movimiento 6: 18565 --- 20724
+Movimiento 7: 18595 --- 20550
+Movimiento 8: 18609 --- 19740
+Movimiento 9: 18657 --- 21151
+Movimiento 10: 18660 --- 20768
+Movimiento 11: 18707 --- 21458
+Movimiento 12: 18725 --- 20386
+Movimiento 13: 18740 --- 20663
+Movimiento 14: 18745 --- 21650
+Movimiento 15: 18757 --- 22165
+Movimiento 16: 18759 --- 20190
+Movimiento 17: 18759 --- 21264
+Movimiento 18: 18760 --- 21634
+Movimiento 19: 18824 --- 20672
+Movimiento 20: 18844 --- 20724
+Movimiento 21: 18848 --- 20123
+Movimiento 22: 18856 --- 20409
+Movimiento 23: 18863 --- 20162
+Movimiento 24: 18874 --- 20807
+Movimiento 25: 18899 --- 20039
+Movimiento 26: 18993 --- 22014
+Movimiento 27: 19025 --- 21386
+Movimiento 28: 19035 --- 21539
+Movimiento 29: 19039 --- 21801
+Movimiento 30: 19046 --- 21556
+Movimiento 31: 19091 --- 21511
+Movimiento 32: 19096 --- 21486
+Movimiento 33: 19101 --- 20231
+Movimiento 34: 19182 --- 19641
+Movimiento 35: 19239 --- 19800
+Movimiento 36: 19274 --- 20373
+Movimiento 37: 19406 --- 21018
+Movimiento 38: 19424 --- 22135
+Movimiento 39: 20051 --- 21686
+Generacion 67: 18035
+
+Movimiento 1: 18330 --- 21754
+Movimiento 2: 18354 --- 20729
+Movimiento 3: 18441 --- 21779
+Movimiento 4: 18522 --- 19938
+Movimiento 5: 18538 --- 21058
+Movimiento 6: 18565 --- 20127
+Movimiento 7: 18595 --- 22085
+Movimiento 8: 18609 --- 21820
+Movimiento 9: 18657 --- 20430
+Movimiento 10: 18660 --- 20538
+Movimiento 11: 18707 --- 19451
+Movimiento 12: 18725 --- 20568
+Movimiento 13: 18740 --- 21153
+Movimiento 14: 18745 --- 20685
+Movimiento 15: 18757 --- 20347
+Movimiento 16: 18759 --- 19808
+Movimiento 17: 18759 --- 20846
+Movimiento 18: 18760 --- 21570
+Movimiento 19: 18824 --- 19167
+Movimiento 20: 18844 --- 21520
+Movimiento 21: 18848 --- 20801
+Movimiento 22: 18856 --- 20160
+Movimiento 23: 18863 --- 20962
+Movimiento 24: 18874 --- 21247
+Movimiento 25: 18899 --- 21233
+Movimiento 26: 18993 --- 21606
+Movimiento 27: 19025 --- 19992
+Movimiento 28: 19035 --- 21822
+Movimiento 29: 19039 --- 20385
+Movimiento 30: 19046 --- 20759
+Movimiento 31: 19091 --- 22313
+Movimiento 32: 19096 --- 20552
+Movimiento 33: 19101 --- 21275
+Movimiento 34: 19182 --- 21410
+Movimiento 35: 19239 --- 20331
+Movimiento 36: 19274 --- 20712
+Movimiento 37: 19406 --- 21817
+Movimiento 38: 19424 --- 21897
+Movimiento 39: 20051 --- 20530
+Generacion 68: 18035
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 23669
+
+Movimiento 1: 18330 --- 19623
+Movimiento 2: 18354 --- 23233
+Movimiento 3: 18441 --- 20558
+Movimiento 4: 18522 --- 19843
+Movimiento 5: 18538 --- 21424
+Movimiento 6: 18565 --- 21648
+Movimiento 7: 18595 --- 20932
+Movimiento 8: 18609 --- 22314
+Movimiento 9: 18657 --- 20900
+Movimiento 10: 18660 --- 21918
+Movimiento 11: 18707 --- 22243
+Movimiento 12: 18725 --- 20641
+Movimiento 13: 18740 --- 22066
+Movimiento 14: 18745 --- 21480
+Movimiento 15: 18757 --- 22478
+Movimiento 16: 18759 --- 20853
+Movimiento 17: 18759 --- 21308
+Movimiento 18: 18760 --- 20282
+Movimiento 19: 18824 --- 20044
+Movimiento 20: 18844 --- 20307
+Movimiento 21: 18848 --- 20358
+Movimiento 22: 18856 --- 19935
+Movimiento 23: 18863 --- 22084
+Movimiento 24: 18874 --- 21171
+Movimiento 25: 18899 --- 19791
+Movimiento 26: 18993 --- 19864
+Movimiento 27: 19025 --- 19483
+Movimiento 28: 19035 --- 21258
+Movimiento 29: 19039 --- 21649
+Movimiento 30: 19046 --- 21338
+Movimiento 31: 19091 --- 20983
+Movimiento 32: 19096 --- 21827
+Movimiento 33: 19101 --- 20802
+Movimiento 34: 19182 --- 19914
+Movimiento 35: 19239 --- 20542
+Movimiento 36: 19274 --- 20911
+Movimiento 37: 19406 --- 20992
+Movimiento 38: 19424 --- 21412
+Movimiento 39: 20051 --- 22172
+### :DD ###
+Generacion 69: 18330
+
+Movimiento 1: 18354 --- 21594
+Movimiento 2: 18441 --- 20985
+Movimiento 3: 18522 --- 22063
+Movimiento 4: 18538 --- 21287
+Movimiento 5: 18565 --- 21603
+Movimiento 6: 18595 --- 19933
+Movimiento 7: 18609 --- 19396
+Movimiento 8: 18657 --- 21588
+Movimiento 9: 18660 --- 20981
+Movimiento 10: 18707 --- 21009
+Movimiento 11: 18725 --- 22052
+Movimiento 12: 18740 --- 20205
+Movimiento 13: 18745 --- 21671
+Movimiento 14: 18757 --- 22134
+Movimiento 15: 18759 --- 21305
+Movimiento 16: 18759 --- 20533
+Movimiento 17: 18760 --- 21829
+Movimiento 18: 18824 --- 21496
+Movimiento 19: 18844 --- 22257
+Movimiento 20: 18848 --- 20741
+Movimiento 21: 18856 --- 22796
+Movimiento 22: 18863 --- 21534
+Movimiento 23: 18874 --- 21415
+Movimiento 24: 18899 --- 22300
+Movimiento 25: 18993 --- 21138
+Movimiento 26: 19025 :DD 18961
+Movimiento 27: 19035 --- 20861
+Movimiento 28: 19039 --- 20552
+Movimiento 29: 19046 --- 19607
+Movimiento 30: 19091 :DD 18853
+Movimiento 31: 19096 --- 20840
+Movimiento 32: 19101 --- 21604
+Movimiento 33: 19182 --- 21412
+Movimiento 34: 19239 --- 21376
+Movimiento 35: 19274 --- 21755
+Movimiento 36: 19406 --- 19669
+Movimiento 37: 19424 --- 21937
+Movimiento 38: 20051 --- 20830
+Movimiento 39: 23669 :DD 19031
+Generacion 70: 18330
+
+Movimiento 1: 18354 --- 21805
+Movimiento 2: 18441 --- 20437
+Movimiento 3: 18522 --- 21389
+Movimiento 4: 18538 --- 20123
+Movimiento 5: 18565 --- 21386
+Movimiento 6: 18595 --- 21177
+Movimiento 7: 18609 --- 21830
+Movimiento 8: 18657 --- 20831
+Movimiento 9: 18660 --- 20553
+Movimiento 10: 18707 --- 21223
+Movimiento 11: 18725 --- 20865
+Movimiento 12: 18740 --- 19037
+Movimiento 13: 18745 --- 20692
+Movimiento 14: 18757 --- 21358
+Movimiento 15: 18759 --- 20308
+Movimiento 16: 18759 --- 19796
+Movimiento 17: 18760 --- 20944
+Movimiento 18: 18824 --- 19757
+Movimiento 19: 18844 --- 21197
+Movimiento 20: 18848 --- 19103
+Movimiento 21: 18853 --- 19913
+Movimiento 22: 18856 --- 20878
+Movimiento 23: 18863 --- 20597
+Movimiento 24: 18874 --- 21083
+Movimiento 25: 18899 --- 20985
+Movimiento 26: 18961 --- 20071
+Movimiento 27: 18993 --- 22696
+Movimiento 28: 19031 --- 20226
+Movimiento 29: 19035 --- 20255
+Movimiento 30: 19039 --- 21393
+Movimiento 31: 19046 --- 22050
+Movimiento 32: 19096 --- 20239
+Movimiento 33: 19101 --- 19635
+Movimiento 34: 19182 --- 21668
+Movimiento 35: 19239 --- 20894
+Movimiento 36: 19274 --- 21043
+Movimiento 37: 19406 --- 20938
+Movimiento 38: 19424 --- 20752
+Movimiento 39: 20051 --- 21211
+Generacion 71: 18330
+
+Movimiento 1: 18354 --- 20621
+Movimiento 2: 18441 --- 20623
+Movimiento 3: 18522 --- 20289
+Movimiento 4: 18538 --- 19544
+Movimiento 5: 18565 --- 19783
+Movimiento 6: 18595 --- 21067
+Movimiento 7: 18609 --- 21313
+Movimiento 8: 18657 --- 20950
+Movimiento 9: 18660 --- 22213
+Movimiento 10: 18707 --- 20468
+Movimiento 11: 18725 --- 21480
+Movimiento 12: 18740 --- 20053
+Movimiento 13: 18745 --- 21224
+Movimiento 14: 18757 --- 21688
+Movimiento 15: 18759 --- 19023
+Movimiento 16: 18759 --- 21897
+Movimiento 17: 18760 --- 21793
+Movimiento 18: 18824 --- 19668
+Movimiento 19: 18844 --- 19795
+Movimiento 20: 18848 --- 21213
+Movimiento 21: 18853 --- 19734
+Movimiento 22: 18856 --- 20226
+Movimiento 23: 18863 --- 22324
+Movimiento 24: 18874 --- 20997
+Movimiento 25: 18899 --- 19659
+Movimiento 26: 18961 --- 21494
+Movimiento 27: 18993 --- 21131
+Movimiento 28: 19031 --- 19922
+Movimiento 29: 19035 --- 20294
+Movimiento 30: 19039 --- 20694
+Movimiento 31: 19046 --- 20255
+Movimiento 32: 19096 --- 21777
+Movimiento 33: 19101 --- 21268
+Movimiento 34: 19182 --- 22134
+Movimiento 35: 19239 --- 20957
+Movimiento 36: 19274 --- 20967
+Movimiento 37: 19406 --- 19770
+Movimiento 38: 19424 --- 20011
+Movimiento 39: 20051 :DD 19223
+Generacion 72: 18330
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 23364
+
+Movimiento 1: 18354 --- 21705
+Movimiento 2: 18441 --- 20200
+Movimiento 3: 18522 --- 20447
+Movimiento 4: 18538 --- 19369
+Movimiento 5: 18565 --- 20491
+Movimiento 6: 18595 --- 20829
+Movimiento 7: 18609 --- 20115
+Movimiento 8: 18657 --- 20550
+Movimiento 9: 18660 --- 19831
+Movimiento 10: 18707 --- 22374
+Movimiento 11: 18725 --- 20098
+Movimiento 12: 18740 --- 20677
+Movimiento 13: 18745 --- 20486
+Movimiento 14: 18757 --- 21582
+Movimiento 15: 18759 --- 20598
+Movimiento 16: 18759 --- 20888
+Movimiento 17: 18760 --- 21915
+Movimiento 18: 18824 --- 21213
+Movimiento 19: 18844 --- 20904
+Movimiento 20: 18848 --- 20650
+Movimiento 21: 18853 --- 21304
+Movimiento 22: 18856 --- 20117
+Movimiento 23: 18863 --- 19862
+Movimiento 24: 18874 --- 19994
+Movimiento 25: 18899 --- 20547
+Movimiento 26: 18961 --- 20362
+Movimiento 27: 18993 --- 20664
+Movimiento 28: 19031 --- 21829
+Movimiento 29: 19035 --- 21502
+Movimiento 30: 19039 --- 21970
+Movimiento 31: 19046 --- 20791
+Movimiento 32: 19096 --- 20159
+Movimiento 33: 19101 --- 20770
+Movimiento 34: 19182 --- 19608
+Movimiento 35: 19223 --- 20146
+Movimiento 36: 19239 --- 21066
+Movimiento 37: 19274 --- 20342
+Movimiento 38: 19406 --- 21537
+Movimiento 39: 19424 :DD 19326
+### :DD ###
+Generacion 73: 18354
+
+Movimiento 1: 18441 --- 20935
+Movimiento 2: 18522 --- 21543
+Movimiento 3: 18538 --- 19960
+Movimiento 4: 18565 --- 20966
+Movimiento 5: 18595 --- 19871
+Movimiento 6: 18609 --- 21821
+Movimiento 7: 18657 --- 19979
+Movimiento 8: 18660 --- 21155
+Movimiento 9: 18707 --- 21257
+Movimiento 10: 18725 --- 21848
+Movimiento 11: 18740 --- 22553
+Movimiento 12: 18745 --- 21615
+Movimiento 13: 18757 --- 20483
+Movimiento 14: 18759 --- 21259
+Movimiento 15: 18759 --- 21744
+Movimiento 16: 18760 --- 20581
+Movimiento 17: 18824 --- 20998
+Movimiento 18: 18844 --- 19665
+Movimiento 19: 18848 --- 21683
+Movimiento 20: 18853 --- 20575
+Movimiento 21: 18856 --- 20530
+Movimiento 22: 18863 --- 20323
+Movimiento 23: 18874 --- 21209
+Movimiento 24: 18899 --- 22440
+Movimiento 25: 18961 --- 20876
+Movimiento 26: 18993 --- 21365
+Movimiento 27: 19031 --- 21295
+Movimiento 28: 19035 --- 21883
+Movimiento 29: 19039 :DD 18615
+Movimiento 30: 19046 --- 21066
+Movimiento 31: 19096 --- 21359
+Movimiento 32: 19101 --- 20151
+Movimiento 33: 19182 --- 20541
+Movimiento 34: 19223 --- 20427
+Movimiento 35: 19239 --- 22420
+Movimiento 36: 19274 :DD 19091
+Movimiento 37: 19326 --- 22418
+Movimiento 38: 19406 --- 20981
+Movimiento 39: 23364 :DD 18779
+Generacion 74: 18354
+
+Movimiento 1: 18441 --- 20619
+Movimiento 2: 18522 --- 21878
+Movimiento 3: 18538 --- 22051
+Movimiento 4: 18565 --- 21195
+Movimiento 5: 18595 --- 20333
+Movimiento 6: 18609 --- 21431
+Movimiento 7: 18615 --- 20544
+Movimiento 8: 18657 --- 21269
+Movimiento 9: 18660 --- 21296
+Movimiento 10: 18707 --- 21378
+Movimiento 11: 18725 --- 22080
+Movimiento 12: 18740 --- 21052
+Movimiento 13: 18745 --- 22043
+Movimiento 14: 18757 --- 20075
+Movimiento 15: 18759 --- 20681
+Movimiento 16: 18759 --- 20904
+Movimiento 17: 18760 --- 20611
+Movimiento 18: 18779 --- 21093
+Movimiento 19: 18824 --- 21700
+Movimiento 20: 18844 --- 20130
+Movimiento 21: 18848 --- 21052
+Movimiento 22: 18853 --- 20413
+Movimiento 23: 18856 --- 20661
+Movimiento 24: 18863 --- 19770
+Movimiento 25: 18874 --- 21364
+Movimiento 26: 18899 --- 20543
+Movimiento 27: 18961 --- 21146
+Movimiento 28: 18993 --- 21587
+Movimiento 29: 19031 --- 21546
+Movimiento 30: 19035 --- 21523
+Movimiento 31: 19046 --- 20444
+Movimiento 32: 19091 --- 20950
+Movimiento 33: 19096 --- 20724
+Movimiento 34: 19101 --- 21092
+Movimiento 35: 19182 --- 21319
+Movimiento 36: 19223 --- 21323
+Movimiento 37: 19239 --- 20048
+Movimiento 38: 19326 --- 20455
+Movimiento 39: 19406 --- 20788
+Generacion 75: 18354
+
+Movimiento 1: 18441 --- 21734
+Movimiento 2: 18522 --- 20629
+Movimiento 3: 18538 --- 20346
+Movimiento 4: 18565 --- 21482
+Movimiento 5: 18595 --- 20370
+Movimiento 6: 18609 --- 21041
+Movimiento 7: 18615 --- 21480
+Movimiento 8: 18657 --- 21644
+Movimiento 9: 18660 --- 20803
+Movimiento 10: 18707 --- 20526
+Movimiento 11: 18725 --- 21100
+Movimiento 12: 18740 --- 20895
+Movimiento 13: 18745 --- 22415
+Movimiento 14: 18757 --- 19523
+Movimiento 15: 18759 --- 19889
+Movimiento 16: 18759 --- 19930
+Movimiento 17: 18760 --- 22233
+Movimiento 18: 18779 --- 20140
+Movimiento 19: 18824 --- 19205
+Movimiento 20: 18844 --- 19157
+Movimiento 21: 18848 --- 20203
+Movimiento 22: 18853 --- 21472
+Movimiento 23: 18856 --- 19844
+Movimiento 24: 18863 --- 22434
+Movimiento 25: 18874 --- 21087
+Movimiento 26: 18899 --- 20488
+Movimiento 27: 18961 --- 20376
+Movimiento 28: 18993 --- 19401
+Movimiento 29: 19031 --- 21979
+Movimiento 30: 19035 --- 20886
+Movimiento 31: 19046 --- 21934
+Movimiento 32: 19091 --- 20553
+Movimiento 33: 19096 --- 21399
+Movimiento 34: 19101 --- 20338
+Movimiento 35: 19182 --- 20636
+Movimiento 36: 19223 :DD 19166
+Movimiento 37: 19239 --- 21296
+Movimiento 38: 19326 --- 21084
+Movimiento 39: 19406 --- 21962
+Generacion 76: 18354
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25753
+
+Movimiento 1: 18441 --- 21089
+Movimiento 2: 18522 --- 22314
+Movimiento 3: 18538 --- 21103
+Movimiento 4: 18565 --- 20423
+Movimiento 5: 18595 --- 21427
+Movimiento 6: 18609 --- 22720
+Movimiento 7: 18615 --- 21198
+Movimiento 8: 18657 --- 20837
+Movimiento 9: 18660 --- 22091
+Movimiento 10: 18707 --- 20300
+Movimiento 11: 18725 --- 20407
+Movimiento 12: 18740 --- 20974
+Movimiento 13: 18745 --- 21363
+Movimiento 14: 18757 --- 20851
+Movimiento 15: 18759 --- 19769
+Movimiento 16: 18759 --- 20419
+Movimiento 17: 18760 --- 21117
+Movimiento 18: 18779 --- 21398
+Movimiento 19: 18824 --- 21474
+Movimiento 20: 18844 --- 20538
+Movimiento 21: 18848 --- 21474
+Movimiento 22: 18853 --- 21567
+Movimiento 23: 18856 --- 20165
+Movimiento 24: 18863 --- 20317
+Movimiento 25: 18874 --- 20816
+Movimiento 26: 18899 --- 19880
+Movimiento 27: 18961 --- 19930
+Movimiento 28: 18993 --- 21450
+Movimiento 29: 19031 --- 20123
+Movimiento 30: 19035 --- 21389
+Movimiento 31: 19046 --- 20536
+Movimiento 32: 19091 --- 21236
+Movimiento 33: 19096 --- 20862
+Movimiento 34: 19101 --- 21534
+Movimiento 35: 19166 --- 20512
+Movimiento 36: 19182 --- 21160
+Movimiento 37: 19239 --- 19861
+Movimiento 38: 19326 --- 19941
+Movimiento 39: 19406 --- 20933
+### :DD ###
+Generacion 77: 18441
+
+Movimiento 1: 18522 --- 20535
+Movimiento 2: 18538 --- 20467
+Movimiento 3: 18565 --- 21155
+Movimiento 4: 18595 --- 20905
+Movimiento 5: 18609 --- 21355
+Movimiento 6: 18615 --- 20695
+Movimiento 7: 18657 --- 20229
+Movimiento 8: 18660 --- 20532
+Movimiento 9: 18707 --- 21894
+Movimiento 10: 18725 --- 22133
+Movimiento 11: 18740 --- 19972
+Movimiento 12: 18745 --- 22199
+Movimiento 13: 18757 --- 20124
+Movimiento 14: 18759 --- 21960
+Movimiento 15: 18759 --- 19216
+Movimiento 16: 18760 --- 19738
+Movimiento 17: 18779 --- 20068
+Movimiento 18: 18824 --- 20340
+Movimiento 19: 18844 --- 22809
+Movimiento 20: 18848 --- 22685
+Movimiento 21: 18853 --- 19738
+Movimiento 22: 18856 --- 21575
+Movimiento 23: 18863 --- 19826
+Movimiento 24: 18874 --- 20404
+Movimiento 25: 18899 --- 19635
+Movimiento 26: 18961 --- 20104
+Movimiento 27: 18993 --- 21609
+Movimiento 28: 19031 --- 21330
+Movimiento 29: 19035 --- 19396
+Movimiento 30: 19046 --- 20425
+Movimiento 31: 19091 --- 19675
+Movimiento 32: 19096 --- 19625
+Movimiento 33: 19101 --- 21042
+Movimiento 34: 19166 --- 20284
+Movimiento 35: 19182 --- 21913
+Movimiento 36: 19239 --- 21173
+Movimiento 37: 19326 --- 21195
+Movimiento 38: 19406 --- 21438
+Movimiento 39: 25753 :DD 18879
+Generacion 78: 18441
+
+Movimiento 1: 18522 --- 21892
+Movimiento 2: 18538 --- 21743
+Movimiento 3: 18565 --- 20882
+Movimiento 4: 18595 --- 21814
+Movimiento 5: 18609 --- 20955
+Movimiento 6: 18615 --- 20347
+Movimiento 7: 18657 --- 20802
+Movimiento 8: 18660 --- 18995
+Movimiento 9: 18707 --- 21799
+Movimiento 10: 18725 --- 21918
+Movimiento 11: 18740 --- 20711
+Movimiento 12: 18745 --- 21337
+Movimiento 13: 18757 --- 21873
+Movimiento 14: 18759 --- 19229
+Movimiento 15: 18759 --- 20150
+Movimiento 16: 18760 --- 20845
+Movimiento 17: 18779 --- 20930
+Movimiento 18: 18824 --- 20796
+Movimiento 19: 18844 --- 22296
+Movimiento 20: 18848 --- 20447
+Movimiento 21: 18853 --- 19622
+Movimiento 22: 18856 --- 19458
+Movimiento 23: 18863 --- 21383
+Movimiento 24: 18874 --- 22783
+Movimiento 25: 18879 --- 21618
+Movimiento 26: 18899 --- 21007
+Movimiento 27: 18961 --- 21191
+Movimiento 28: 18993 --- 21233
+Movimiento 29: 19031 --- 21238
+Movimiento 30: 19035 --- 21392
+Movimiento 31: 19046 --- 19647
+Movimiento 32: 19091 --- 20755
+Movimiento 33: 19096 --- 20052
+Movimiento 34: 19101 --- 20097
+Movimiento 35: 19166 --- 20564
+Movimiento 36: 19182 --- 20136
+Movimiento 37: 19239 --- 21204
+Movimiento 38: 19326 --- 22226
+Movimiento 39: 19406 --- 20664
+Generacion 79: 18441
+
+Movimiento 1: 18522 --- 20401
+Movimiento 2: 18538 --- 20161
+Movimiento 3: 18565 --- 21858
+Movimiento 4: 18595 --- 19134
+Movimiento 5: 18609 --- 20239
+Movimiento 6: 18615 --- 21783
+Movimiento 7: 18657 --- 21648
+Movimiento 8: 18660 :DD 18654
+Movimiento 9: 18707 --- 20275
+Movimiento 10: 18725 --- 20064
+Movimiento 11: 18740 --- 20801
+Movimiento 12: 18745 --- 21192
+Movimiento 13: 18757 --- 22103
+Movimiento 14: 18759 --- 19965
+Movimiento 15: 18759 --- 21580
+Movimiento 16: 18760 --- 20106
+Movimiento 17: 18779 --- 21147
+Movimiento 18: 18824 --- 19747
+Movimiento 19: 18844 --- 20645
+Movimiento 20: 18848 --- 20249
+Movimiento 21: 18853 --- 20656
+Movimiento 22: 18856 --- 21798
+Movimiento 23: 18863 --- 21131
+Movimiento 24: 18874 --- 20004
+Movimiento 25: 18879 --- 21576
+Movimiento 26: 18899 --- 20376
+Movimiento 27: 18961 --- 20583
+Movimiento 28: 18993 --- 20963
+Movimiento 29: 19031 --- 21993
+Movimiento 30: 19035 --- 20902
+Movimiento 31: 19046 --- 20636
+Movimiento 32: 19091 --- 21645
+Movimiento 33: 19096 :DD 18975
+Movimiento 34: 19101 --- 20912
+Movimiento 35: 19166 --- 20369
+Movimiento 36: 19182 --- 21366
+Movimiento 37: 19239 :DD 18867
+Movimiento 38: 19326 --- 20456
+Movimiento 39: 19406 :DD 19325
+Generacion 80: 18441
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 26626
+
+Movimiento 1: 18522 --- 22247
+Movimiento 2: 18538 --- 21312
+Movimiento 3: 18565 --- 19173
+Movimiento 4: 18595 --- 21720
+Movimiento 5: 18609 --- 19880
+Movimiento 6: 18615 --- 21952
+Movimiento 7: 18654 --- 20577
+Movimiento 8: 18657 --- 21520
+Movimiento 9: 18707 --- 19751
+Movimiento 10: 18725 --- 20331
+Movimiento 11: 18740 --- 20813
+Movimiento 12: 18745 --- 21512
+Movimiento 13: 18757 --- 21662
+Movimiento 14: 18759 --- 20046
+Movimiento 15: 18759 --- 19544
+Movimiento 16: 18760 --- 20774
+Movimiento 17: 18779 --- 19882
+Movimiento 18: 18824 --- 20616
+Movimiento 19: 18844 --- 21203
+Movimiento 20: 18848 --- 21556
+Movimiento 21: 18853 --- 20884
+Movimiento 22: 18856 --- 22055
+Movimiento 23: 18863 --- 20734
+Movimiento 24: 18867 --- 19973
+Movimiento 25: 18874 --- 19668
+Movimiento 26: 18879 --- 20013
+Movimiento 27: 18899 --- 20477
+Movimiento 28: 18961 --- 20564
+Movimiento 29: 18975 --- 20893
+Movimiento 30: 18993 --- 20834
+Movimiento 31: 19031 --- 20113
+Movimiento 32: 19035 --- 22164
+Movimiento 33: 19046 --- 19286
+Movimiento 34: 19091 --- 20382
+Movimiento 35: 19101 --- 20180
+Movimiento 36: 19166 --- 21548
+Movimiento 37: 19182 --- 22844
+Movimiento 38: 19325 --- 20061
+Movimiento 39: 19326 --- 20216
+### :DD ###
+Generacion 81: 18522
+
+Movimiento 1: 18538 --- 21076
+Movimiento 2: 18565 --- 20275
+Movimiento 3: 18595 --- 20294
+Movimiento 4: 18609 --- 20243
+Movimiento 5: 18615 --- 21426
+Movimiento 6: 18654 --- 20545
+Movimiento 7: 18657 --- 22199
+Movimiento 8: 18707 --- 20006
+Movimiento 9: 18725 --- 20783
+Movimiento 10: 18740 --- 19838
+Movimiento 11: 18745 --- 20706
+Movimiento 12: 18757 --- 21041
+Movimiento 13: 18759 --- 21523
+Movimiento 14: 18759 --- 21172
+Movimiento 15: 18760 --- 19644
+Movimiento 16: 18779 --- 21453
+Movimiento 17: 18824 --- 20798
+Movimiento 18: 18844 --- 20971
+Movimiento 19: 18848 --- 19960
+Movimiento 20: 18853 --- 19724
+Movimiento 21: 18856 :DD 18821
+Movimiento 22: 18863 --- 21323
+Movimiento 23: 18867 --- 20048
+Movimiento 24: 18874 --- 22197
+Movimiento 25: 18879 --- 19834
+Movimiento 26: 18899 --- 18975
+Movimiento 27: 18961 --- 20936
+Movimiento 28: 18975 --- 20103
+Movimiento 29: 18993 --- 21065
+Movimiento 30: 19031 --- 20421
+Movimiento 31: 19035 --- 21049
+Movimiento 32: 19046 --- 19804
+Movimiento 33: 19091 --- 21404
+Movimiento 34: 19101 --- 22077
+Movimiento 35: 19166 --- 20347
+Movimiento 36: 19182 --- 21406
+Movimiento 37: 19325 --- 21472
+Movimiento 38: 19326 --- 21137
+Movimiento 39: 26626 :DD 19195
+Generacion 82: 18522
+
+Movimiento 1: 18538 --- 20996
+Movimiento 2: 18565 --- 21617
+Movimiento 3: 18595 --- 21592
+Movimiento 4: 18609 --- 19413
+Movimiento 5: 18615 --- 20845
+Movimiento 6: 18654 --- 19945
+Movimiento 7: 18657 --- 20588
+Movimiento 8: 18707 --- 22617
+Movimiento 9: 18725 --- 19988
+Movimiento 10: 18740 --- 20620
+Movimiento 11: 18745 --- 20340
+Movimiento 12: 18757 --- 22226
+Movimiento 13: 18759 --- 20852
+Movimiento 14: 18759 --- 19670
+Movimiento 15: 18760 --- 20254
+Movimiento 16: 18779 --- 21853
+Movimiento 17: 18821 --- 21041
+Movimiento 18: 18824 --- 20817
+Movimiento 19: 18844 --- 22108
+Movimiento 20: 18848 --- 20516
+Movimiento 21: 18853 --- 20148
+Movimiento 22: 18863 --- 19820
+Movimiento 23: 18867 --- 21549
+Movimiento 24: 18874 --- 21159
+Movimiento 25: 18879 --- 20089
+Movimiento 26: 18899 --- 20157
+Movimiento 27: 18961 --- 19554
+Movimiento 28: 18975 :DD 18908
+Movimiento 29: 18993 --- 20571
+Movimiento 30: 19031 --- 20871
+Movimiento 31: 19035 :DD 18514
+Movimiento 32: 19046 --- 22648
+Movimiento 33: 19091 --- 20926
+Movimiento 34: 19101 --- 21192
+Movimiento 35: 19166 --- 19503
+Movimiento 36: 19182 --- 21167
+Movimiento 37: 19195 --- 21927
+Movimiento 38: 19325 --- 22063
+Movimiento 39: 19326 --- 20549
+### :DD ###
+Generacion 83: 18514
+
+Movimiento 1: 18522 --- 20971
+Movimiento 2: 18538 --- 19137
+Movimiento 3: 18565 --- 20433
+Movimiento 4: 18595 --- 20406
+Movimiento 5: 18609 --- 21209
+Movimiento 6: 18615 --- 20495
+Movimiento 7: 18654 --- 19708
+Movimiento 8: 18657 --- 20956
+Movimiento 9: 18707 --- 20685
+Movimiento 10: 18725 --- 21414
+Movimiento 11: 18740 --- 20913
+Movimiento 12: 18745 --- 21309
+Movimiento 13: 18757 --- 20911
+Movimiento 14: 18759 --- 21197
+Movimiento 15: 18759 --- 22550
+Movimiento 16: 18760 --- 22230
+Movimiento 17: 18779 --- 22147
+Movimiento 18: 18821 --- 20192
+Movimiento 19: 18824 --- 21609
+Movimiento 20: 18844 --- 19448
+Movimiento 21: 18848 --- 20892
+Movimiento 22: 18853 --- 19835
+Movimiento 23: 18863 --- 20386
+Movimiento 24: 18867 --- 20776
+Movimiento 25: 18874 --- 21370
+Movimiento 26: 18879 --- 21297
+Movimiento 27: 18899 --- 20315
+Movimiento 28: 18908 --- 21032
+Movimiento 29: 18961 --- 20914
+Movimiento 30: 18993 --- 20588
+Movimiento 31: 19031 --- 20276
+Movimiento 32: 19046 --- 20022
+Movimiento 33: 19091 --- 20613
+Movimiento 34: 19101 --- 21047
+Movimiento 35: 19166 :DD 18829
+Movimiento 36: 19182 --- 22581
+Movimiento 37: 19195 --- 20322
+Movimiento 38: 19325 --- 21181
+Movimiento 39: 19326 --- 20815
+Generacion 84: 18514
+
+Movimiento 1: 18522 --- 19398
+Movimiento 2: 18538 --- 20648
+Movimiento 3: 18565 --- 21925
+Movimiento 4: 18595 --- 21767
+Movimiento 5: 18609 --- 21455
+Movimiento 6: 18615 --- 20735
+Movimiento 7: 18654 --- 21596
+Movimiento 8: 18657 --- 20018
+Movimiento 9: 18707 --- 20585
+Movimiento 10: 18725 --- 21009
+Movimiento 11: 18740 --- 21649
+Movimiento 12: 18745 --- 21191
+Movimiento 13: 18757 --- 19947
+Movimiento 14: 18759 --- 19711
+Movimiento 15: 18759 --- 20403
+Movimiento 16: 18760 --- 20473
+Movimiento 17: 18779 --- 21110
+Movimiento 18: 18821 --- 20847
+Movimiento 19: 18824 --- 20245
+Movimiento 20: 18829 --- 22389
+Movimiento 21: 18844 --- 20459
+Movimiento 22: 18848 --- 20735
+Movimiento 23: 18853 --- 20446
+Movimiento 24: 18863 --- 19842
+Movimiento 25: 18867 --- 20173
+Movimiento 26: 18874 --- 21270
+Movimiento 27: 18879 --- 20359
+Movimiento 28: 18899 --- 21111
+Movimiento 29: 18908 --- 21475
+Movimiento 30: 18961 --- 19242
+Movimiento 31: 18993 --- 23084
+Movimiento 32: 19031 --- 20844
+Movimiento 33: 19046 --- 21940
+Movimiento 34: 19091 --- 21574
+Movimiento 35: 19101 --- 20538
+Movimiento 36: 19182 --- 21561
+Movimiento 37: 19195 --- 21542
+Movimiento 38: 19325 --- 20391
+Movimiento 39: 19326 --- 20648
+Generacion 85: 18514
+
+Movimiento 1: 18522 --- 20573
+Movimiento 2: 18538 --- 19623
+Movimiento 3: 18565 --- 22809
+Movimiento 4: 18595 --- 21648
+Movimiento 5: 18609 --- 21438
+Movimiento 6: 18615 --- 21960
+Movimiento 7: 18654 --- 20431
+Movimiento 8: 18657 --- 20159
+Movimiento 9: 18707 --- 19411
+Movimiento 10: 18725 --- 20975
+Movimiento 11: 18740 --- 19886
+Movimiento 12: 18745 --- 20695
+Movimiento 13: 18757 --- 20133
+Movimiento 14: 18759 --- 20289
+Movimiento 15: 18759 --- 22240
+Movimiento 16: 18760 --- 21686
+Movimiento 17: 18779 --- 20599
+Movimiento 18: 18821 --- 20954
+Movimiento 19: 18824 --- 21134
+Movimiento 20: 18829 --- 20981
+Movimiento 21: 18844 --- 22271
+Movimiento 22: 18848 --- 20547
+Movimiento 23: 18853 --- 21111
+Movimiento 24: 18863 --- 22455
+Movimiento 25: 18867 --- 20253
+Movimiento 26: 18874 --- 21315
+Movimiento 27: 18879 --- 21204
+Movimiento 28: 18899 --- 21381
+Movimiento 29: 18908 --- 22270
+Movimiento 30: 18961 --- 19875
+Movimiento 31: 18993 --- 19308
+Movimiento 32: 19031 --- 21853
+Movimiento 33: 19046 --- 21495
+Movimiento 34: 19091 --- 20023
+Movimiento 35: 19101 --- 20385
+Movimiento 36: 19182 --- 21789
+Movimiento 37: 19195 :DD 18940
+Movimiento 38: 19325 --- 20781
+Movimiento 39: 19326 :DD 18854
+Generacion 86: 18514
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24801
+
+Movimiento 1: 18522 --- 19678
+Movimiento 2: 18538 --- 20988
+Movimiento 3: 18565 --- 20759
+Movimiento 4: 18595 --- 22527
+Movimiento 5: 18609 --- 21163
+Movimiento 6: 18615 --- 19736
+Movimiento 7: 18654 --- 21470
+Movimiento 8: 18657 --- 19910
+Movimiento 9: 18707 --- 21987
+Movimiento 10: 18725 --- 20135
+Movimiento 11: 18740 --- 20296
+Movimiento 12: 18745 --- 20434
+Movimiento 13: 18757 --- 20184
+Movimiento 14: 18759 --- 20447
+Movimiento 15: 18759 --- 21515
+Movimiento 16: 18760 --- 21333
+Movimiento 17: 18779 --- 19887
+Movimiento 18: 18821 --- 21862
+Movimiento 19: 18824 --- 21544
+Movimiento 20: 18829 --- 21215
+Movimiento 21: 18844 --- 19979
+Movimiento 22: 18848 --- 22611
+Movimiento 23: 18853 --- 20134
+Movimiento 24: 18854 --- 20758
+Movimiento 25: 18863 --- 20809
+Movimiento 26: 18867 --- 21486
+Movimiento 27: 18874 --- 22180
+Movimiento 28: 18879 --- 20529
+Movimiento 29: 18899 --- 20365
+Movimiento 30: 18908 --- 20494
+Movimiento 31: 18940 --- 20362
+Movimiento 32: 18961 --- 21066
+Movimiento 33: 18993 --- 20428
+Movimiento 34: 19031 --- 20393
+Movimiento 35: 19046 --- 20972
+Movimiento 36: 19091 --- 19725
+Movimiento 37: 19101 --- 19662
+Movimiento 38: 19182 :DD 18897
+Movimiento 39: 19325 --- 20265
+### :DD ###
+Generacion 87: 18522
+
+Movimiento 1: 18538 --- 20439
+Movimiento 2: 18565 --- 21159
+Movimiento 3: 18595 --- 19339
+Movimiento 4: 18609 --- 19762
+Movimiento 5: 18615 --- 20603
+Movimiento 6: 18654 --- 20818
+Movimiento 7: 18657 --- 19853
+Movimiento 8: 18707 --- 21513
+Movimiento 9: 18725 --- 20190
+Movimiento 10: 18740 --- 20458
+Movimiento 11: 18745 --- 21076
+Movimiento 12: 18757 --- 20121
+Movimiento 13: 18759 --- 20801
+Movimiento 14: 18759 --- 21190
+Movimiento 15: 18760 --- 21029
+Movimiento 16: 18779 --- 20341
+Movimiento 17: 18821 --- 20714
+Movimiento 18: 18824 --- 19429
+Movimiento 19: 18829 --- 20013
+Movimiento 20: 18844 --- 20083
+Movimiento 21: 18848 --- 21686
+Movimiento 22: 18853 --- 20479
+Movimiento 23: 18854 --- 20326
+Movimiento 24: 18863 --- 20612
+Movimiento 25: 18867 --- 21001
+Movimiento 26: 18874 --- 22929
+Movimiento 27: 18879 --- 20140
+Movimiento 28: 18897 --- 20891
+Movimiento 29: 18899 --- 19176
+Movimiento 30: 18908 --- 20148
+Movimiento 31: 18940 --- 19908
+Movimiento 32: 18961 --- 20840
+Movimiento 33: 18993 --- 20738
+Movimiento 34: 19031 --- 20588
+Movimiento 35: 19046 --- 20393
+Movimiento 36: 19091 --- 19842
+Movimiento 37: 19101 --- 21764
+Movimiento 38: 19325 --- 20830
+Movimiento 39: 24801 :DD 20583
+Generacion 88: 18522
+
+Movimiento 1: 18538 --- 20254
+Movimiento 2: 18565 --- 22762
+Movimiento 3: 18595 --- 20572
+Movimiento 4: 18609 --- 19766
+Movimiento 5: 18615 --- 19177
+Movimiento 6: 18654 --- 20759
+Movimiento 7: 18657 --- 20441
+Movimiento 8: 18707 --- 21434
+Movimiento 9: 18725 --- 21305
+Movimiento 10: 18740 --- 20604
+Movimiento 11: 18745 --- 21139
+Movimiento 12: 18757 --- 20557
+Movimiento 13: 18759 --- 21972
+Movimiento 14: 18759 --- 19781
+Movimiento 15: 18760 --- 19572
+Movimiento 16: 18779 --- 20533
+Movimiento 17: 18821 --- 21883
+Movimiento 18: 18824 --- 21894
+Movimiento 19: 18829 --- 20677
+Movimiento 20: 18844 --- 20523
+Movimiento 21: 18848 --- 20319
+Movimiento 22: 18853 --- 20887
+Movimiento 23: 18854 --- 20162
+Movimiento 24: 18863 --- 20288
+Movimiento 25: 18867 --- 20262
+Movimiento 26: 18874 --- 20571
+Movimiento 27: 18879 --- 20620
+Movimiento 28: 18897 --- 19367
+Movimiento 29: 18899 --- 22512
+Movimiento 30: 18908 --- 20253
+Movimiento 31: 18940 --- 20211
+Movimiento 32: 18961 --- 21987
+Movimiento 33: 18993 --- 21562
+Movimiento 34: 19031 --- 21930
+Movimiento 35: 19046 --- 19840
+Movimiento 36: 19091 --- 20096
+Movimiento 37: 19101 --- 21858
+Movimiento 38: 19325 --- 21745
+Movimiento 39: 20583 :DD 19868
+Generacion 89: 18522
+
+Movimiento 1: 18538 --- 21436
+Movimiento 2: 18565 --- 20607
+Movimiento 3: 18595 --- 21936
+Movimiento 4: 18609 --- 20477
+Movimiento 5: 18615 --- 20558
+Movimiento 6: 18654 --- 21202
+Movimiento 7: 18657 --- 20365
+Movimiento 8: 18707 --- 19773
+Movimiento 9: 18725 --- 20507
+Movimiento 10: 18740 --- 21003
+Movimiento 11: 18745 --- 20864
+Movimiento 12: 18757 --- 22115
+Movimiento 13: 18759 --- 21426
+Movimiento 14: 18759 --- 20586
+Movimiento 15: 18760 --- 21490
+Movimiento 16: 18779 --- 21125
+Movimiento 17: 18821 --- 20253
+Movimiento 18: 18824 --- 21055
+Movimiento 19: 18829 --- 21197
+Movimiento 20: 18844 :DD 18706
+Movimiento 21: 18848 --- 22024
+Movimiento 22: 18853 --- 20795
+Movimiento 23: 18854 --- 21450
+Movimiento 24: 18863 --- 19767
+Movimiento 25: 18867 --- 20083
+Movimiento 26: 18874 --- 22721
+Movimiento 27: 18879 --- 21636
+Movimiento 28: 18897 --- 22086
+Movimiento 29: 18899 --- 19798
+Movimiento 30: 18908 --- 22411
+Movimiento 31: 18940 --- 22078
+Movimiento 32: 18961 --- 22182
+Movimiento 33: 18993 --- 21473
+Movimiento 34: 19031 --- 20547
+Movimiento 35: 19046 --- 19671
+Movimiento 36: 19091 --- 19764
+Movimiento 37: 19101 --- 20709
+Movimiento 38: 19325 --- 21445
+Movimiento 39: 19868 :DD 19483
+Generacion 90: 18522
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24495
+
+Movimiento 1: 18538 --- 21279
+Movimiento 2: 18565 --- 19246
+Movimiento 3: 18595 --- 19494
+Movimiento 4: 18609 --- 21767
+Movimiento 5: 18615 --- 20465
+Movimiento 6: 18654 --- 21079
+Movimiento 7: 18657 --- 22557
+Movimiento 8: 18706 --- 21174
+Movimiento 9: 18707 :DD 18622
+Movimiento 10: 18725 --- 22705
+Movimiento 11: 18740 --- 21231
+Movimiento 12: 18745 --- 21280
+Movimiento 13: 18757 --- 19624
+Movimiento 14: 18759 --- 20275
+Movimiento 15: 18759 --- 21323
+Movimiento 16: 18760 --- 22953
+Movimiento 17: 18779 --- 21472
+Movimiento 18: 18821 --- 19796
+Movimiento 19: 18824 --- 21375
+Movimiento 20: 18829 --- 20133
+Movimiento 21: 18848 --- 20818
+Movimiento 22: 18853 --- 19897
+Movimiento 23: 18854 --- 19541
+Movimiento 24: 18863 --- 21257
+Movimiento 25: 18867 --- 21775
+Movimiento 26: 18874 --- 20204
+Movimiento 27: 18879 --- 21006
+Movimiento 28: 18897 --- 20470
+Movimiento 29: 18899 --- 21413
+Movimiento 30: 18908 --- 21326
+Movimiento 31: 18940 --- 20113
+Movimiento 32: 18961 --- 20827
+Movimiento 33: 18993 --- 19760
+Movimiento 34: 19031 --- 19958
+Movimiento 35: 19046 --- 20378
+Movimiento 36: 19091 --- 19780
+Movimiento 37: 19101 --- 19804
+Movimiento 38: 19325 --- 21178
+Movimiento 39: 19483 --- 21805
+### :DD ###
+Generacion 91: 18538
+
+Movimiento 1: 18565 --- 21355
+Movimiento 2: 18595 --- 21572
+Movimiento 3: 18609 --- 22119
+Movimiento 4: 18615 --- 19594
+Movimiento 5: 18622 --- 20073
+Movimiento 6: 18654 --- 21526
+Movimiento 7: 18657 --- 18941
+Movimiento 8: 18706 --- 19105
+Movimiento 9: 18725 --- 20880
+Movimiento 10: 18740 --- 21192
+Movimiento 11: 18745 --- 19774
+Movimiento 12: 18757 --- 20328
+Movimiento 13: 18759 --- 21718
+Movimiento 14: 18759 --- 20947
+Movimiento 15: 18760 --- 20519
+Movimiento 16: 18779 --- 20134
+Movimiento 17: 18821 --- 21319
+Movimiento 18: 18824 --- 21829
+Movimiento 19: 18829 --- 21650
+Movimiento 20: 18848 --- 20762
+Movimiento 21: 18853 --- 21037
+Movimiento 22: 18854 --- 21217
+Movimiento 23: 18863 --- 21153
+Movimiento 24: 18867 --- 20574
+Movimiento 25: 18874 --- 22756
+Movimiento 26: 18879 --- 20069
+Movimiento 27: 18897 --- 20218
+Movimiento 28: 18899 :DD 18570
+Movimiento 29: 18908 --- 20798
+Movimiento 30: 18940 --- 22044
+Movimiento 31: 18961 --- 19500
+Movimiento 32: 18993 --- 20284
+Movimiento 33: 19031 --- 21073
+Movimiento 34: 19046 --- 21586
+Movimiento 35: 19091 --- 21339
+Movimiento 36: 19101 --- 21846
+Movimiento 37: 19325 --- 22079
+Movimiento 38: 19483 --- 20216
+Movimiento 39: 24495 :DD 18094
+### :DD ###
+Generacion 92: 18094
+
+Movimiento 1: 18538 :DD 18145
+Movimiento 2: 18565 --- 20853
+Movimiento 3: 18570 --- 21293
+Movimiento 4: 18595 --- 20566
+Movimiento 5: 18609 --- 21498
+Movimiento 6: 18615 --- 21153
+Movimiento 7: 18622 --- 20000
+Movimiento 8: 18654 --- 21279
+Movimiento 9: 18657 --- 21135
+Movimiento 10: 18706 --- 20331
+Movimiento 11: 18725 --- 22130
+Movimiento 12: 18740 --- 20263
+Movimiento 13: 18745 --- 21541
+Movimiento 14: 18757 --- 19745
+Movimiento 15: 18759 --- 21391
+Movimiento 16: 18759 --- 19849
+Movimiento 17: 18760 --- 22647
+Movimiento 18: 18779 :DD 18073
+Movimiento 19: 18821 --- 19492
+Movimiento 20: 18824 --- 20989
+Movimiento 21: 18829 --- 20441
+Movimiento 22: 18848 --- 21847
+Movimiento 23: 18853 --- 19834
+Movimiento 24: 18854 --- 21935
+Movimiento 25: 18863 --- 20076
+Movimiento 26: 18867 --- 21087
+Movimiento 27: 18874 --- 20913
+Movimiento 28: 18879 --- 21603
+Movimiento 29: 18897 --- 20400
+Movimiento 30: 18908 --- 20052
+Movimiento 31: 18940 --- 20847
+Movimiento 32: 18961 --- 21568
+Movimiento 33: 18993 --- 20596
+Movimiento 34: 19031 --- 19584
+Movimiento 35: 19046 --- 19705
+Movimiento 36: 19091 --- 21227
+Movimiento 37: 19101 --- 20089
+Movimiento 38: 19325 --- 21257
+Movimiento 39: 19483 --- 19740
+### :DD ###
+Generacion 93: 18073
+
+Movimiento 1: 18094 --- 21173
+Movimiento 2: 18145 --- 22391
+Movimiento 3: 18565 --- 21108
+Movimiento 4: 18570 --- 19645
+Movimiento 5: 18595 --- 20717
+Movimiento 6: 18609 --- 20244
+Movimiento 7: 18615 --- 20305
+Movimiento 8: 18622 :DD 17740
+Movimiento 9: 18654 --- 21796
+Movimiento 10: 18657 --- 20046
+Movimiento 11: 18706 --- 20893
+Movimiento 12: 18725 --- 19425
+Movimiento 13: 18740 --- 19278
+Movimiento 14: 18745 --- 23082
+Movimiento 15: 18757 --- 22518
+Movimiento 16: 18759 --- 20354
+Movimiento 17: 18759 --- 20892
+Movimiento 18: 18760 --- 21954
+Movimiento 19: 18821 --- 22273
+Movimiento 20: 18824 --- 18992
+Movimiento 21: 18829 --- 20459
+Movimiento 22: 18848 --- 20711
+Movimiento 23: 18853 --- 20727
+Movimiento 24: 18854 --- 19591
+Movimiento 25: 18863 --- 21805
+Movimiento 26: 18867 --- 21681
+Movimiento 27: 18874 --- 20117
+Movimiento 28: 18879 --- 21089
+Movimiento 29: 18897 --- 20124
+Movimiento 30: 18908 --- 21636
+Movimiento 31: 18940 --- 20060
+Movimiento 32: 18961 --- 21445
+Movimiento 33: 18993 --- 21094
+Movimiento 34: 19031 --- 19452
+Movimiento 35: 19046 --- 20142
+Movimiento 36: 19091 --- 22313
+Movimiento 37: 19101 --- 20242
+Movimiento 38: 19325 --- 20892
+Movimiento 39: 19483 --- 20523
+### :DD ###
+Generacion 94: 17740
+
+Movimiento 1: 18073 --- 20929
+Movimiento 2: 18094 --- 21135
+Movimiento 3: 18145 --- 21489
+Movimiento 4: 18565 --- 20104
+Movimiento 5: 18570 --- 21623
+Movimiento 6: 18595 --- 18824
+Movimiento 7: 18609 --- 20506
+Movimiento 8: 18615 --- 22228
+Movimiento 9: 18654 --- 21229
+Movimiento 10: 18657 --- 21712
+Movimiento 11: 18706 --- 20411
+Movimiento 12: 18725 --- 22269
+Movimiento 13: 18740 --- 21193
+Movimiento 14: 18745 --- 19156
+Movimiento 15: 18757 --- 19927
+Movimiento 16: 18759 --- 20475
+Movimiento 17: 18759 --- 20753
+Movimiento 18: 18760 --- 20706
+Movimiento 19: 18821 --- 19392
+Movimiento 20: 18824 --- 21040
+Movimiento 21: 18829 --- 20953
+Movimiento 22: 18848 --- 20104
+Movimiento 23: 18853 --- 20177
+Movimiento 24: 18854 --- 20818
+Movimiento 25: 18863 --- 21340
+Movimiento 26: 18867 --- 20978
+Movimiento 27: 18874 --- 20723
+Movimiento 28: 18879 --- 19253
+Movimiento 29: 18897 --- 20534
+Movimiento 30: 18908 --- 20019
+Movimiento 31: 18940 --- 20579
+Movimiento 32: 18961 --- 20513
+Movimiento 33: 18993 --- 21481
+Movimiento 34: 19031 --- 20430
+Movimiento 35: 19046 --- 19905
+Movimiento 36: 19091 :DD 18490
+Movimiento 37: 19101 --- 19233
+Movimiento 38: 19325 --- 20424
+Movimiento 39: 19483 --- 21397
+Generacion 95: 17740
+
+Movimiento 1: 18073 --- 20422
+Movimiento 2: 18094 --- 20301
+Movimiento 3: 18145 --- 19387
+Movimiento 4: 18490 --- 19882
+Movimiento 5: 18565 --- 20047
+Movimiento 6: 18570 --- 22095
+Movimiento 7: 18595 --- 19955
+Movimiento 8: 18609 --- 20352
+Movimiento 9: 18615 --- 20937
+Movimiento 10: 18654 --- 21859
+Movimiento 11: 18657 --- 21044
+Movimiento 12: 18706 --- 20538
+Movimiento 13: 18725 --- 20065
+Movimiento 14: 18740 --- 20936
+Movimiento 15: 18745 --- 22006
+Movimiento 16: 18757 --- 20048
+Movimiento 17: 18759 --- 20599
+Movimiento 18: 18759 --- 21355
+Movimiento 19: 18760 --- 19688
+Movimiento 20: 18821 --- 22200
+Movimiento 21: 18824 --- 21640
+Movimiento 22: 18829 --- 19506
+Movimiento 23: 18848 --- 20185
+Movimiento 24: 18853 --- 21471
+Movimiento 25: 18854 --- 20236
+Movimiento 26: 18863 --- 21549
+Movimiento 27: 18867 --- 20136
+Movimiento 28: 18874 --- 19434
+Movimiento 29: 18879 --- 20877
+Movimiento 30: 18897 --- 21409
+Movimiento 31: 18908 --- 21044
+Movimiento 32: 18940 :DD 18275
+Movimiento 33: 18961 --- 19579
+Movimiento 34: 18993 --- 22109
+Movimiento 35: 19031 --- 21114
+Movimiento 36: 19046 --- 19654
+Movimiento 37: 19101 --- 21552
+Movimiento 38: 19325 --- 21530
+Movimiento 39: 19483 --- 22447
+Generacion 96: 17740
+
+Movimiento 1: 18073 --- 19690
+Movimiento 2: 18094 --- 19729
+Movimiento 3: 18145 --- 21489
+Movimiento 4: 18275 --- 20313
+Movimiento 5: 18490 --- 21348
+Movimiento 6: 18565 --- 20208
+Movimiento 7: 18570 --- 20625
+Movimiento 8: 18595 --- 20326
+Movimiento 9: 18609 --- 20760
+Movimiento 10: 18615 --- 21044
+Movimiento 11: 18654 --- 21815
+Movimiento 12: 18657 --- 20496
+Movimiento 13: 18706 --- 20785
+Movimiento 14: 18725 --- 19486
+Movimiento 15: 18740 --- 20770
+Movimiento 16: 18745 --- 20459
+Movimiento 17: 18757 --- 20203
+Movimiento 18: 18759 --- 20621
+Movimiento 19: 18759 --- 19029
+Movimiento 20: 18760 --- 20097
+Movimiento 21: 18821 --- 21086
+Movimiento 22: 18824 --- 19504
+Movimiento 23: 18829 --- 21897
+Movimiento 24: 18848 --- 22712
+Movimiento 25: 18853 --- 20846
+Movimiento 26: 18854 --- 20317
+Movimiento 27: 18863 --- 19513
+Movimiento 28: 18867 --- 20292
+Movimiento 29: 18874 --- 19952
+Movimiento 30: 18879 --- 21872
+Movimiento 31: 18897 --- 19956
+Movimiento 32: 18908 --- 20852
+Movimiento 33: 18961 --- 20284
+Movimiento 34: 18993 --- 20325
+Movimiento 35: 19031 --- 21592
+Movimiento 36: 19046 :DD 18094
+Movimiento 37: 19101 --- 21068
+Movimiento 38: 19325 --- 21052
+Movimiento 39: 19483 --- 20811
+Generacion 97: 17740
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 23857
+
+Movimiento 1: 18073 --- 19370
+Movimiento 2: 18094 --- 20861
+Movimiento 3: 18094 --- 21290
+Movimiento 4: 18145 --- 20645
+Movimiento 5: 18275 --- 22426
+Movimiento 6: 18490 --- 21319
+Movimiento 7: 18565 --- 22061
+Movimiento 8: 18570 --- 20274
+Movimiento 9: 18595 --- 20036
+Movimiento 10: 18609 --- 21189
+Movimiento 11: 18615 --- 21696
+Movimiento 12: 18654 --- 20233
+Movimiento 13: 18657 --- 21023
+Movimiento 14: 18706 --- 21769
+Movimiento 15: 18725 --- 20507
+Movimiento 16: 18740 --- 20087
+Movimiento 17: 18745 --- 20282
+Movimiento 18: 18757 --- 19263
+Movimiento 19: 18759 --- 21048
+Movimiento 20: 18759 --- 19884
+Movimiento 21: 18760 --- 20335
+Movimiento 22: 18821 --- 20775
+Movimiento 23: 18824 --- 20754
+Movimiento 24: 18829 --- 22290
+Movimiento 25: 18848 --- 20796
+Movimiento 26: 18853 --- 22637
+Movimiento 27: 18854 --- 20967
+Movimiento 28: 18863 --- 21376
+Movimiento 29: 18867 --- 19999
+Movimiento 30: 18874 --- 21260
+Movimiento 31: 18879 --- 20030
+Movimiento 32: 18897 --- 20107
+Movimiento 33: 18908 --- 20463
+Movimiento 34: 18961 --- 21524
+Movimiento 35: 18993 --- 21561
+Movimiento 36: 19031 --- 20163
+Movimiento 37: 19101 --- 19953
+Movimiento 38: 19325 --- 21258
+Movimiento 39: 19483 --- 21987
+### :DD ###
+Generacion 98: 18073
+
+Movimiento 1: 18094 --- 21312
+Movimiento 2: 18094 --- 21439
+Movimiento 3: 18145 --- 22199
+Movimiento 4: 18275 --- 20575
+Movimiento 5: 18490 --- 21578
+Movimiento 6: 18565 --- 22085
+Movimiento 7: 18570 --- 21533
+Movimiento 8: 18595 --- 21210
+Movimiento 9: 18609 --- 22265
+Movimiento 10: 18615 --- 21417
+Movimiento 11: 18654 --- 20818
+Movimiento 12: 18657 --- 20056
+Movimiento 13: 18706 --- 19758
+Movimiento 14: 18725 --- 22519
+Movimiento 15: 18740 --- 19948
+Movimiento 16: 18745 --- 21079
+Movimiento 17: 18757 --- 20773
+Movimiento 18: 18759 --- 21899
+Movimiento 19: 18759 --- 22003
+Movimiento 20: 18760 --- 20039
+Movimiento 21: 18821 --- 20506
+Movimiento 22: 18824 --- 21238
+Movimiento 23: 18829 --- 21508
+Movimiento 24: 18848 --- 19914
+Movimiento 25: 18853 --- 20267
+Movimiento 26: 18854 --- 19683
+Movimiento 27: 18863 --- 20110
+Movimiento 28: 18867 --- 22137
+Movimiento 29: 18874 --- 19634
+Movimiento 30: 18879 --- 19981
+Movimiento 31: 18897 --- 19960
+Movimiento 32: 18908 --- 20118
+Movimiento 33: 18961 --- 19172
+Movimiento 34: 18993 --- 20074
+Movimiento 35: 19031 --- 22294
+Movimiento 36: 19101 --- 19842
+Movimiento 37: 19325 --- 20492
+Movimiento 38: 19483 --- 20037
+Movimiento 39: 23857 :DD 20248
+Generacion 99: 18073
+
+Movimiento 1: 18094 --- 21516
+Movimiento 2: 18094 --- 20914
+Movimiento 3: 18145 --- 22028
+Movimiento 4: 18275 --- 22023
+Movimiento 5: 18490 --- 22261
+Movimiento 6: 18565 --- 21955
+Movimiento 7: 18570 --- 21554
+Movimiento 8: 18595 --- 20907
+Movimiento 9: 18609 --- 21613
+Movimiento 10: 18615 --- 21120
+Movimiento 11: 18654 --- 20446
+Movimiento 12: 18657 --- 20930
+Movimiento 13: 18706 --- 21239
+Movimiento 14: 18725 --- 20166
+Movimiento 15: 18740 --- 20318
+Movimiento 16: 18745 --- 20970
+Movimiento 17: 18757 --- 20261
+Movimiento 18: 18759 --- 21174
+Movimiento 19: 18759 --- 22453
+Movimiento 20: 18760 --- 22608
+Movimiento 21: 18821 --- 20070
+Movimiento 22: 18824 --- 21354
+Movimiento 23: 18829 --- 20592
+Movimiento 24: 18848 --- 19693
+Movimiento 25: 18853 --- 21335
+Movimiento 26: 18854 --- 21910
+Movimiento 27: 18863 --- 22406
+Movimiento 28: 18867 --- 22307
+Movimiento 29: 18874 --- 22041
+Movimiento 30: 18879 --- 20001
+Movimiento 31: 18897 --- 19769
+Movimiento 32: 18908 --- 21467
+Movimiento 33: 18961 --- 20203
+Movimiento 34: 18993 --- 20278
+Movimiento 35: 19031 --- 20240
+Movimiento 36: 19101 --- 21103
+Movimiento 37: 19325 --- 20649
+Movimiento 38: 19483 --- 22269
+Movimiento 39: 20248 --- 21530
+Generacion 100: 18073
+
+----------------------------------------------------------
+
+Mejor Solucion: 18073
+

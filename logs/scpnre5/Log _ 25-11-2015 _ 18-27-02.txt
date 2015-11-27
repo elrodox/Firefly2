@@ -1,0 +1,178 @@
+----------------------------------------------------------
+---- INSTANCIA 'scpnre5' ----
+---- CONFIGURACION INICIAL ---
+25-11-2015 _ 18-27-02
+
+Semilla: 1448486803105
+Cantidad de luciernagas: 25
+Numero de iteraciones: 5
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 3
+Logs normales: true
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Leyendo instancia: scpnre5
+Se ha leido una Matriz de: 500x5000
+Generando luciernagas
+Generacion 0: 121599
+
+Comenzando iteraciones...
+Movimiento 1: 121714 :DD 97151
+Movimiento 2: 122159 :DD 100534
+Movimiento 3: 122762 :DD 96468
+Movimiento 4: 122870 :DD 96111
+Movimiento 5: 123379 :DD 96227
+Movimiento 6: 124327 :DD 95763
+Movimiento 7: 124426 :DD 95670
+Movimiento 8: 124611 :DD 96736
+Movimiento 9: 124682 :DD 93721
+Movimiento 10: 124966 :DD 95289
+Movimiento 11: 125448 :DD 95458
+Movimiento 12: 125813 :DD 93693
+Movimiento 13: 126062 :DD 93533
+Movimiento 14: 126065 :DD 95576
+Movimiento 15: 126135 :DD 98836
+Movimiento 16: 126198 :DD 98432
+Movimiento 17: 126467 :DD 95252
+Movimiento 18: 126985 :DD 95076
+Movimiento 19: 127373 :DD 96014
+Movimiento 20: 127438 :DD 98191
+Movimiento 21: 127442 :DD 94459
+Movimiento 22: 127458 :DD 97476
+Movimiento 23: 128111 :DD 96936
+Movimiento 24: 128159 :DD 94784
+### :DD ###
+Generacion 1: 93533
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 125019
+
+Movimiento 1: 93693 --- 102777
+Movimiento 2: 93721 --- 105025
+Movimiento 3: 94459 --- 104553
+Movimiento 4: 94784 --- 104845
+Movimiento 5: 95076 --- 104540
+Movimiento 6: 95252 --- 100452
+Movimiento 7: 95289 --- 102298
+Movimiento 8: 95458 --- 103364
+Movimiento 9: 95576 --- 101892
+Movimiento 10: 95670 --- 97815
+Movimiento 11: 95763 --- 98224
+Movimiento 12: 96014 --- 103228
+Movimiento 13: 96111 --- 99431
+Movimiento 14: 96227 --- 103816
+Movimiento 15: 96468 --- 102489
+Movimiento 16: 96736 --- 100841
+Movimiento 17: 96936 --- 98260
+Movimiento 18: 97151 --- 105717
+Movimiento 19: 97476 :DD 96165
+Movimiento 20: 98191 --- 103476
+Movimiento 21: 98432 --- 101510
+Movimiento 22: 98836 --- 103699
+Movimiento 23: 100534 --- 101580
+Movimiento 24: 121599 :DD 95888
+### :DD ###
+Generacion 2: 93693
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 126443
+
+Movimiento 1: 93721 --- 105059
+Movimiento 2: 94459 --- 101905
+Movimiento 3: 94784 --- 100828
+Movimiento 4: 95076 --- 104520
+Movimiento 5: 95252 --- 104949
+Movimiento 6: 95289 --- 103266
+Movimiento 7: 95458 --- 98541
+Movimiento 8: 95576 --- 102741
+Movimiento 9: 95670 --- 101754
+Movimiento 10: 95763 --- 103781
+Movimiento 11: 95888 --- 100878
+Movimiento 12: 96014 --- 100971
+Movimiento 13: 96111 --- 101547
+Movimiento 14: 96165 --- 97423
+Movimiento 15: 96227 --- 103336
+Movimiento 16: 96468 --- 105454
+Movimiento 17: 96736 --- 99791
+Movimiento 18: 96936 --- 101570
+Movimiento 19: 97151 --- 101581
+Movimiento 20: 98191 --- 103159
+Movimiento 21: 98432 --- 99730
+Movimiento 22: 98836 --- 100337
+Movimiento 23: 100534 --- 102890
+Movimiento 24: 125019 :DD 98388
+### :DD ###
+Generacion 3: 93721
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 125959
+
+Movimiento 1: 94459 --- 102421
+Movimiento 2: 94784 --- 101575
+Movimiento 3: 95076 --- 102128
+Movimiento 4: 95252 --- 106255
+Movimiento 5: 95289 --- 103899
+Movimiento 6: 95458 --- 104048
+Movimiento 7: 95576 --- 104833
+Movimiento 8: 95670 --- 103516
+Movimiento 9: 95763 --- 101789
+Movimiento 10: 95888 --- 108361
+Movimiento 11: 96014 --- 104515
+Movimiento 12: 96111 --- 100316
+Movimiento 13: 96165 --- 104102
+Movimiento 14: 96227 --- 106937
+Movimiento 15: 96468 --- 103205
+Movimiento 16: 96736 --- 100742
+Movimiento 17: 96936 --- 102663
+Movimiento 18: 97151 --- 100315
+Movimiento 19: 98191 --- 103647
+Movimiento 20: 98388 --- 102451
+Movimiento 21: 98432 --- 104371
+Movimiento 22: 98836 --- 101726
+Movimiento 23: 100534 --- 102203
+Movimiento 24: 126443 :DD 96197
+### :DD ###
+Generacion 4: 94459
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 126086
+
+Movimiento 1: 94784 --- 104730
+Movimiento 2: 95076 --- 104152
+Movimiento 3: 95252 --- 101637
+Movimiento 4: 95289 --- 101792
+Movimiento 5: 95458 --- 103005
+Movimiento 6: 95576 --- 100884
+Movimiento 7: 95670 --- 103571
+Movimiento 8: 95763 --- 101352
+Movimiento 9: 95888 --- 101853
+Movimiento 10: 96014 --- 105034
+Movimiento 11: 96111 --- 102740
+Movimiento 12: 96165 --- 105217
+Movimiento 13: 96197 --- 103135
+Movimiento 14: 96227 --- 102874
+Movimiento 15: 96468 --- 103475
+Movimiento 16: 96736 --- 99866
+Movimiento 17: 96936 --- 105757
+Movimiento 18: 97151 --- 101594
+Movimiento 19: 98191 --- 102154
+Movimiento 20: 98388 --- 101073
+Movimiento 21: 98432 --- 104061
+Movimiento 22: 98836 --- 101138
+Movimiento 23: 100534 --- 101046
+Movimiento 24: 125959 :DD 94239
+### :DD ###
+Generacion 5: 94239
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 122955
+
+----------------------------------------------------------
+
+Mejor Solucion: 122955
+
