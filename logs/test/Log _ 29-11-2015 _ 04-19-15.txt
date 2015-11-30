@@ -1,0 +1,309 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 04-19-15
+
+Semilla: 1448781555723
+Cantidad de luciernagas: 20
+Numero de iteraciones: 2
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 3
+Logs normales: true
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Leyendo instancia: test
+Se ha leido una Matriz de: 2x7
+Generando luciernagas
+Antes de reparar: 0 0 0 0 0 0 0 
+Despues de reparar: 0 0 0 0 0 0 0 
+Antes de reparar: 1 1 1 0 0 0 0 
+Despues de reparar: 1 1 1 0 0 0 0 
+Antes de reparar: 0 0 0 0 1 0 0 
+Despues de reparar: 0 0 0 0 1 0 0 
+Antes de reparar: 1 0 0 0 0 0 0 
+Despues de reparar: 1 0 0 0 0 0 0 
+Antes de reparar: 1 0 1 0 0 1 0 
+Despues de reparar: 1 0 1 0 0 1 0 
+Antes de reparar: 0 0 0 0 1 0 1 
+Despues de reparar: 0 0 0 0 1 0 1 
+Antes de reparar: 1 0 1 1 0 1 1 
+Despues de reparar: 1 0 1 1 0 1 1 
+Antes de reparar: 0 0 0 0 1 0 1 
+Despues de reparar: 0 0 0 0 1 0 1 
+Antes de reparar: 1 1 1 0 1 0 1 
+Despues de reparar: 1 1 1 0 1 0 1 
+Antes de reparar: 1 1 1 1 1 0 1 
+Despues de reparar: 1 1 1 1 1 0 1 
+Antes de reparar: 1 1 1 0 1 0 0 
+Despues de reparar: 1 1 1 0 1 0 0 
+Antes de reparar: 1 0 1 1 1 0 1 
+Despues de reparar: 1 0 1 1 1 0 1 
+Antes de reparar: 0 1 0 0 1 0 0 
+Despues de reparar: 0 1 0 0 1 0 0 
+Antes de reparar: 1 1 1 1 0 1 1 
+Despues de reparar: 1 1 1 1 0 1 1 
+Antes de reparar: 1 0 0 1 0 0 1 
+Despues de reparar: 1 0 0 1 0 0 1 
+Antes de reparar: 1 0 0 0 1 1 0 
+Despues de reparar: 1 0 0 0 1 1 0 
+Antes de reparar: 0 1 0 1 1 1 1 
+Despues de reparar: 0 1 0 1 1 1 1 
+Antes de reparar: 0 1 1 1 0 0 1 
+Despues de reparar: 0 1 1 1 0 0 1 
+Antes de reparar: 0 0 1 0 0 1 0 
+Despues de reparar: 0 0 1 0 0 1 0 
+Antes de reparar: 0 1 0 1 0 1 1 
+Despues de reparar: 0 1 0 1 0 1 1 
+Generacion 0: 0
+
+Comenzando iteraciones...
+best prev: Movimiento 1: 
+valor previo: 1 0 0 0 0 0 0 
+Antes de reparar: 0 0 0 1 0 1 1 
+Despues de reparar: 0 0 0 1 0 1 1 
+'mismo valor': 1 0 0 0 0 0 0 
+'nuevo valor': 0 0 0 1 0 1 1 
+Movimiento 2: 
+valor previo: 0 0 0 0 1 0 0 
+Antes de reparar: 0 0 0 1 0 1 1 
+Despues de reparar: 0 0 0 1 0 1 1 
+'mismo valor': 0 0 0 0 1 0 0 
+'nuevo valor': 0 0 0 1 0 1 1 
+Movimiento 3: 
+valor previo: 1 1 1 0 0 0 0 
+Antes de reparar: 0 0 1 1 1 1 0 
+Despues de reparar: 0 0 1 1 1 1 0 
+'mismo valor': 1 1 1 0 0 0 0 
+'nuevo valor': 0 0 1 1 1 1 0 
+Movimiento 4: 
+valor previo: 0 1 0 0 1 0 0 
+Antes de reparar: 0 0 1 1 1 1 0 
+Despues de reparar: 0 0 1 1 1 1 0 
+'mismo valor': 0 1 0 0 1 0 0 
+'nuevo valor': 0 0 1 1 1 1 0 
+Movimiento 5: 
+valor previo: 0 0 1 0 0 1 0 
+Antes de reparar: 0 0 1 1 1 0 0 
+Despues de reparar: 0 0 1 1 1 0 0 
+'mismo valor': 0 0 1 0 0 1 0 
+'nuevo valor': 0 0 1 1 1 0 0 
+Movimiento 6: 
+valor previo: 1 0 1 0 0 1 0 
+Antes de reparar: 0 0 1 1 1 1 0 
+Despues de reparar: 0 0 1 1 1 1 0 
+'mismo valor': 1 0 1 0 0 1 0 
+'nuevo valor': 0 0 1 1 1 1 0 
+Movimiento 7: 
+valor previo: 1 1 1 0 1 0 0 
+Antes de reparar: 0 0 0 0 1 1 1 
+Despues de reparar: 0 0 0 0 1 1 1 
+'mismo valor': 1 1 1 0 1 0 0 
+'nuevo valor': 0 0 0 0 1 1 1 
+Movimiento 8: 
+valor previo: 0 0 0 0 1 0 1 
+Antes de reparar: 0 0 0 0 1 1 1 
+Despues de reparar: 0 0 0 0 1 1 1 
+'mismo valor': 0 0 0 0 1 0 1 
+'nuevo valor': 0 0 0 0 1 1 1 
+Movimiento 9: 
+valor previo: 0 0 0 0 1 0 1 
+Antes de reparar: 0 0 0 0 1 1 1 
+Despues de reparar: 0 0 0 0 1 1 1 
+'mismo valor': 0 0 0 0 1 0 1 
+'nuevo valor': 0 0 0 0 1 1 1 
+Movimiento 10: 
+valor previo: 1 0 0 1 0 0 1 
+Antes de reparar: 0 1 1 0 1 1 1 
+Despues de reparar: 0 1 1 0 1 1 1 
+'mismo valor': 1 0 0 1 0 0 1 
+'nuevo valor': 0 1 1 0 1 1 1 
+Movimiento 11: 
+valor previo: 1 0 0 0 1 1 0 
+Antes de reparar: 0 1 1 0 1 0 1 
+Despues de reparar: 0 1 1 0 1 0 1 
+'mismo valor': 1 0 0 0 1 1 0 
+'nuevo valor': 0 1 1 0 1 0 1 
+Movimiento 12: 
+valor previo: 0 1 1 1 0 0 1 
+Antes de reparar: 0 1 0 1 0 0 0 
+Despues de reparar: 0 1 0 1 0 0 0 
+'mismo valor': 0 1 1 1 0 0 1 
+'nuevo valor': 0 1 0 1 0 0 0 
+Movimiento 13: 
+valor previo: 1 1 1 0 1 0 1 
+Antes de reparar: 0 1 0 1 0 0 0 
+Despues de reparar: 0 1 0 1 0 0 0 
+'mismo valor': 1 1 1 0 1 0 1 
+'nuevo valor': 0 1 0 1 0 0 0 
+Movimiento 14: 
+valor previo: 0 1 0 1 0 1 1 
+Antes de reparar: 0 1 0 1 0 0 0 
+Despues de reparar: 0 1 0 1 0 0 0 
+'mismo valor': 0 1 0 1 0 1 1 
+'nuevo valor': 0 1 0 1 0 0 0 
+Movimiento 15: 
+valor previo: 1 0 1 1 1 0 1 
+Antes de reparar: 0 0 0 1 1 0 1 
+Despues de reparar: 0 0 0 1 1 0 1 
+'mismo valor': 1 0 1 1 1 0 1 
+'nuevo valor': 0 0 0 1 1 0 1 
+Movimiento 16: 
+valor previo: 1 0 1 1 0 1 1 
+Antes de reparar: 0 0 0 1 1 0 1 
+Despues de reparar: 0 0 0 1 1 0 1 
+'mismo valor': 1 0 1 1 0 1 1 
+'nuevo valor': 0 0 0 1 1 0 1 
+Movimiento 17: 
+valor previo: 1 1 1 1 1 0 1 
+Antes de reparar: 0 0 0 1 1 0 1 
+Despues de reparar: 0 0 0 1 1 0 1 
+'mismo valor': 1 1 1 1 1 0 1 
+'nuevo valor': 0 0 0 1 1 0 1 
+Movimiento 18: 
+valor previo: 1 1 1 1 0 1 1 
+Antes de reparar: 0 0 1 0 0 1 0 
+Despues de reparar: 0 0 1 0 0 1 0 
+'mismo valor': 1 1 1 1 0 1 1 
+'nuevo valor': 0 0 1 0 0 1 0 
+Movimiento 19: 
+valor previo: 0 1 0 1 1 1 1 
+Antes de reparar: 0 0 1 0 0 1 0 
+Despues de reparar: 0 0 1 0 0 1 0 
+'mismo valor': 0 1 0 1 1 1 1 
+'nuevo valor': 0 0 1 0 0 1 0 
+Generacion 1: 0
+
+Antes de reparar: 1 0 0 0 0 1 0 
+Despues de reparar: 1 0 0 0 0 1 0 
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 70
+best desp: best prev: Movimiento 1: 
+valor previo: 1 0 0 0 0 0 0 
+Antes de reparar: 0 1 0 0 0 1 1 
+Despues de reparar: 0 1 0 0 0 1 1 
+'mismo valor': 1 0 0 0 0 0 0 
+'nuevo valor': 0 1 0 0 0 1 1 
+Movimiento 2: 
+valor previo: 0 0 0 0 1 0 0 
+Antes de reparar: 0 1 0 0 0 1 1 
+Despues de reparar: 0 1 0 0 0 1 1 
+'mismo valor': 0 0 0 0 1 0 0 
+'nuevo valor': 0 1 0 0 0 1 1 
+Movimiento 3: 
+valor previo: 1 1 1 0 0 0 0 
+Antes de reparar: 0 1 0 0 0 1 1 
+Despues de reparar: 0 1 0 0 0 1 1 
+'mismo valor': 1 1 1 0 0 0 0 
+'nuevo valor': 0 1 0 0 0 1 1 
+Movimiento 4: 
+valor previo: 0 1 0 1 0 0 0 
+Antes de reparar: 0 0 1 0 1 0 0 
+Despues de reparar: 0 0 1 0 1 0 0 
+'mismo valor': 0 1 0 1 0 0 0 
+'nuevo valor': 0 0 1 0 1 0 0 
+Movimiento 5: 
+valor previo: 0 1 0 1 0 0 0 
+Antes de reparar: 0 0 1 0 1 0 0 
+Despues de reparar: 0 0 1 0 1 0 0 
+'mismo valor': 0 1 0 1 0 0 0 
+'nuevo valor': 0 0 1 0 1 0 0 
+Movimiento 6: 
+valor previo: 0 1 0 1 0 0 0 
+Antes de reparar: 0 0 1 0 1 0 0 
+Despues de reparar: 0 0 1 0 1 0 0 
+'mismo valor': 0 1 0 1 0 0 0 
+'nuevo valor': 0 0 1 0 1 0 0 
+Movimiento 7: 
+valor previo: 0 1 0 0 1 0 0 
+Antes de reparar: 0 1 1 1 0 1 0 
+Despues de reparar: 0 1 1 1 0 1 0 
+'mismo valor': 0 1 0 0 1 0 0 
+'nuevo valor': 0 1 1 1 0 1 0 
+Movimiento 8: 
+valor previo: 0 0 1 0 0 1 0 
+Antes de reparar: 0 1 0 1 0 1 0 
+Despues de reparar: 0 1 0 1 0 1 0 
+'mismo valor': 0 0 1 0 0 1 0 
+'nuevo valor': 0 1 0 1 0 1 0 
+Movimiento 9: 
+valor previo: 0 0 1 0 0 1 0 
+Antes de reparar: 0 1 0 1 0 1 0 
+Despues de reparar: 0 1 0 1 0 1 0 
+'mismo valor': 0 0 1 0 0 1 0 
+'nuevo valor': 0 1 0 1 0 1 0 
+Movimiento 10: 
+valor previo: 0 0 1 0 0 1 0 
+Antes de reparar: 0 0 0 1 1 0 1 
+Despues de reparar: 0 0 0 1 1 0 1 
+'mismo valor': 0 0 1 0 0 1 0 
+'nuevo valor': 0 0 0 1 1 0 1 
+Movimiento 11: 
+valor previo: 1 0 1 0 0 1 0 
+Antes de reparar: 0 0 0 1 1 0 1 
+Despues de reparar: 0 0 0 1 1 0 1 
+'mismo valor': 1 0 1 0 0 1 0 
+'nuevo valor': 0 0 0 1 1 0 1 
+Movimiento 12: 
+valor previo: 1 1 1 0 1 0 0 
+Antes de reparar: 0 0 0 1 1 0 1 
+Despues de reparar: 0 0 0 1 1 0 1 
+'mismo valor': 1 1 1 0 1 0 0 
+'nuevo valor': 0 0 0 1 1 0 1 
+Movimiento 13: 
+valor previo: 0 0 0 0 1 0 1 
+Antes de reparar: 0 0 0 1 1 0 1 
+Despues de reparar: 0 0 0 1 1 0 1 
+'mismo valor': 0 0 0 0 1 0 1 
+'nuevo valor': 0 0 0 1 1 0 1 
+Movimiento 14: 
+valor previo: 0 0 0 0 1 0 1 
+Antes de reparar: 0 0 0 1 1 0 1 
+Despues de reparar: 0 0 0 1 1 0 1 
+'mismo valor': 0 0 0 0 1 0 1 
+'nuevo valor': 0 0 0 1 1 0 1 
+Movimiento 15: 
+valor previo: 1 0 0 1 0 0 1 
+Antes de reparar: 0 1 0 0 1 0 0 
+Despues de reparar: 0 1 0 0 1 0 0 
+'mismo valor': 1 0 0 1 0 0 1 
+'nuevo valor': 0 1 0 0 1 0 0 
+Movimiento 16: 
+valor previo: 1 0 0 0 1 1 0 
+Antes de reparar: 0 1 0 0 0 0 1 
+Despues de reparar: 0 1 0 0 0 0 1 
+'mismo valor': 1 0 0 0 1 1 0 
+'nuevo valor': 0 1 0 0 0 0 1 
+Movimiento 17: 
+valor previo: 0 0 0 1 1 0 1 
+Antes de reparar: 0 1 0 0 0 0 0 
+Despues de reparar: 0 1 0 0 0 0 0 
+'mismo valor': 0 0 0 1 1 0 1 
+'nuevo valor': 0 1 0 0 0 0 0 
+Movimiento 18: 
+valor previo: 0 0 0 1 1 0 1 
+Antes de reparar: 0 0 1 0 0 0 1 
+Despues de reparar: 0 0 1 0 0 0 1 
+'mismo valor': 0 0 0 1 1 0 1 
+'nuevo valor': 0 0 1 0 0 0 1 
+Movimiento 19: 
+valor previo: 0 0 0 1 1 0 1 
+Antes de reparar: 0 0 1 0 0 0 1 
+Despues de reparar: 0 0 1 0 0 0 1 
+'mismo valor': 0 0 0 1 1 0 1 
+'nuevo valor': 0 0 1 0 0 0 1 
+### :DD ###
+Generacion 2: 10
+
+Antes de reparar: 0 1 1 1 0 1 1 
+Despues de reparar: 0 1 1 1 0 1 1 
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 220
+best desp: ----------------------------------------------------------
+
+Mejor Solucion: 220
+Cambios obligatorios:2/2
+Cambios para mejor:1/2
+

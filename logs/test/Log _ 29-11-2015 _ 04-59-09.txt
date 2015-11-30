@@ -1,0 +1,526 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 04-59-09
+
+Semilla: 1448783949319
+Cantidad de luciernagas: 20
+Numero de iteraciones: 500
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 100
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+0 0 0 0 1 0 0  -- Generacion 0: 50
+0 0 0 0 1 0 0  -- Generacion 1: 50
+0 0 0 0 1 0 0  -- Generacion 2: 50
+0 0 0 0 1 0 0  -- Generacion 3: 50
+0 0 0 0 1 0 0  -- Generacion 4: 50
+0 0 0 0 1 0 0  -- Generacion 5: 50
+0 0 0 0 1 0 0  -- Generacion 6: 50
+0 0 0 0 1 0 0  -- Generacion 7: 50
+0 0 0 0 1 0 0  -- Generacion 8: 50
+0 0 0 0 1 0 0  -- Generacion 9: 50
+0 0 0 0 1 0 0  -- Generacion 10: 50
+0 0 0 0 1 0 0  -- Generacion 11: 50
+0 0 0 0 1 0 0  -- Generacion 12: 50
+0 0 0 0 1 0 0  -- Generacion 13: 50
+0 0 0 0 1 0 0  -- Generacion 14: 50
+0 0 0 0 1 0 0  -- Generacion 15: 50
+0 0 0 0 1 0 0  -- Generacion 16: 50
+0 0 0 0 1 0 0  -- Generacion 17: 50
+0 0 0 0 1 0 0  -- Generacion 18: 50
+0 0 0 0 1 0 0  -- Generacion 19: 50
+0 0 0 0 1 0 0  -- Generacion 20: 50
+0 0 0 0 1 0 0  -- Generacion 21: 50
+0 0 0 0 1 0 0  -- Generacion 22: 50
+0 0 0 0 1 0 0  -- Generacion 23: 50
+0 0 0 0 1 0 0  -- Generacion 24: 50
+0 0 0 0 1 0 0  -- Generacion 25: 50
+0 0 0 0 1 0 0  -- Generacion 26: 50
+0 0 0 0 1 0 0  -- Generacion 27: 50
+0 0 0 0 1 0 0  -- Generacion 28: 50
+0 0 0 0 1 0 0  -- Generacion 29: 50
+0 0 0 0 1 0 0  -- Generacion 30: 50
+0 0 0 0 1 0 0  -- Generacion 31: 50
+0 0 0 0 1 0 0  -- Generacion 32: 50
+0 0 0 0 1 0 0  -- Generacion 33: 50
+0 0 0 0 1 0 0  -- Generacion 34: 50
+0 0 0 0 1 0 0  -- Generacion 35: 50
+0 0 0 0 1 0 0  -- Generacion 36: 50
+0 0 0 0 1 0 0  -- Generacion 37: 50
+0 0 0 0 1 0 0  -- Generacion 38: 50
+0 0 0 0 1 0 0  -- Generacion 39: 50
+0 0 0 0 1 0 0  -- Generacion 40: 50
+0 0 0 0 1 0 0  -- Generacion 41: 50
+0 0 0 0 1 0 0  -- Generacion 42: 50
+0 0 0 0 1 0 0  -- Generacion 43: 50
+0 0 0 0 1 0 0  -- Generacion 44: 50
+0 0 0 0 1 0 0  -- Generacion 45: 50
+0 0 0 0 1 0 0  -- Generacion 46: 50
+0 0 0 0 1 0 0  -- Generacion 47: 50
+0 0 0 0 1 0 0  -- Generacion 48: 50
+0 0 0 0 1 0 0  -- Generacion 49: 50
+0 0 0 0 1 0 0  -- Generacion 50: 50
+0 0 0 0 1 0 0  -- Generacion 51: 50
+0 0 0 0 1 0 0  -- Generacion 52: 50
+0 0 0 0 1 0 0  -- Generacion 53: 50
+0 0 0 0 1 0 0  -- Generacion 54: 50
+0 0 0 0 1 0 0  -- Generacion 55: 50
+0 0 0 0 1 0 0  -- Generacion 56: 50
+0 0 0 0 1 0 0  -- Generacion 57: 50
+0 0 0 0 1 0 0  -- Generacion 58: 50
+0 0 0 0 1 0 0  -- Generacion 59: 50
+0 0 0 0 1 0 0  -- Generacion 60: 50
+0 0 0 0 1 0 0  -- Generacion 61: 50
+0 0 0 0 1 0 0  -- Generacion 62: 50
+0 0 0 0 1 0 0  -- Generacion 63: 50
+0 0 0 0 1 0 0  -- Generacion 64: 50
+0 0 0 0 1 0 0  -- Generacion 65: 50
+0 0 0 0 1 0 0  -- Generacion 66: 50
+0 0 0 0 1 0 0  -- Generacion 67: 50
+0 0 0 0 1 0 0  -- Generacion 68: 50
+0 0 0 0 1 0 0  -- Generacion 69: 50
+0 0 0 0 1 0 0  -- Generacion 70: 50
+0 0 0 0 1 0 0  -- Generacion 71: 50
+0 0 0 0 1 0 0  -- Generacion 72: 50
+0 0 0 0 1 0 0  -- Generacion 73: 50
+0 0 0 0 1 0 0  -- Generacion 74: 50
+0 0 0 0 1 0 0  -- Generacion 75: 50
+0 0 0 0 1 0 0  -- Generacion 76: 50
+0 0 0 0 1 0 0  -- Generacion 77: 50
+0 0 0 0 1 0 0  -- Generacion 78: 50
+0 0 0 0 1 0 0  -- Generacion 79: 50
+0 0 0 0 1 0 0  -- Generacion 80: 50
+0 0 0 0 1 0 0  -- Generacion 81: 50
+0 0 0 0 1 0 0  -- Generacion 82: 50
+0 0 0 0 1 0 0  -- Generacion 83: 50
+0 0 0 0 1 0 0  -- Generacion 84: 50
+0 0 0 0 1 0 0  -- Generacion 85: 50
+0 0 0 0 1 0 0  -- Generacion 86: 50
+0 0 0 0 1 0 0  -- Generacion 87: 50
+0 0 0 0 1 0 0  -- Generacion 88: 50
+0 0 0 0 1 0 0  -- Generacion 89: 50
+0 0 0 0 1 0 0  -- Generacion 90: 50
+0 0 0 0 1 0 0  -- Generacion 91: 50
+0 0 0 0 1 0 0  -- Generacion 92: 50
+0 0 0 0 1 0 0  -- Generacion 93: 50
+0 0 0 0 1 0 0  -- Generacion 94: 50
+0 0 0 0 1 0 0  -- Generacion 95: 50
+0 0 0 0 1 0 0  -- Generacion 96: 50
+0 0 0 0 1 0 0  -- Generacion 97: 50
+0 0 0 0 1 0 0  -- Generacion 98: 50
+0 0 0 0 1 0 0  -- Generacion 99: 50
+0 0 0 0 1 0 0  -- Generacion 100: 50
+0 0 0 0 1 0 0  -- Generacion 101: 50
+0 0 0 0 1 0 0  -- Generacion 102: 50
+0 0 0 0 1 0 0  -- Generacion 103: 50
+0 0 0 0 1 0 0  -- Generacion 104: 50
+0 0 0 0 1 0 0  -- Generacion 105: 50
+0 0 0 0 1 0 0  -- Generacion 106: 50
+0 0 0 0 1 0 0  -- Generacion 107: 50
+0 0 0 0 1 0 0  -- Generacion 108: 50
+0 0 0 0 1 0 0  -- Generacion 109: 50
+0 0 0 0 1 0 0  -- Generacion 110: 50
+0 0 0 0 1 0 0  -- Generacion 111: 50
+0 0 0 0 1 0 0  -- Generacion 112: 50
+0 0 0 0 1 0 0  -- Generacion 113: 50
+0 0 0 0 1 0 0  -- Generacion 114: 50
+0 0 0 0 1 0 0  -- Generacion 115: 50
+0 0 0 0 1 0 0  -- Generacion 116: 50
+0 0 0 0 1 0 0  -- Generacion 117: 50
+0 0 0 0 1 0 0  -- Generacion 118: 50
+0 0 0 0 1 0 0  -- Generacion 119: 50
+0 0 0 0 1 0 0  -- Generacion 120: 50
+0 0 0 0 1 0 0  -- Generacion 121: 50
+0 0 0 0 1 0 0  -- Generacion 122: 50
+0 0 0 0 1 0 0  -- Generacion 123: 50
+0 0 0 0 1 0 0  -- Generacion 124: 50
+0 0 0 0 1 0 0  -- Generacion 125: 50
+0 0 0 0 1 0 0  -- Generacion 126: 50
+0 0 0 0 1 0 0  -- Generacion 127: 50
+0 0 0 0 1 0 0  -- Generacion 128: 50
+0 0 0 0 1 0 0  -- Generacion 129: 50
+0 0 0 0 1 0 0  -- Generacion 130: 50
+0 0 0 0 1 0 0  -- Generacion 131: 50
+0 0 0 0 1 0 0  -- Generacion 132: 50
+0 0 0 0 1 0 0  -- Generacion 133: 50
+0 0 0 0 1 0 0  -- Generacion 134: 50
+0 0 0 0 1 0 0  -- Generacion 135: 50
+0 0 0 0 1 0 0  -- Generacion 136: 50
+0 0 0 0 1 0 0  -- Generacion 137: 50
+0 0 0 0 1 0 0  -- Generacion 138: 50
+0 0 0 0 1 0 0  -- Generacion 139: 50
+0 0 0 0 1 0 0  -- Generacion 140: 50
+0 0 0 0 1 0 0  -- Generacion 141: 50
+0 0 0 0 1 0 0  -- Generacion 142: 50
+0 0 0 0 1 0 0  -- Generacion 143: 50
+0 0 0 0 1 0 0  -- Generacion 144: 50
+0 0 0 0 1 0 0  -- Generacion 145: 50
+0 0 0 0 1 0 0  -- Generacion 146: 50
+0 0 0 0 1 0 0  -- Generacion 147: 50
+0 0 0 0 1 0 0  -- Generacion 148: 50
+0 0 0 0 1 0 0  -- Generacion 149: 50
+0 0 0 0 1 0 0  -- Generacion 150: 50
+0 0 0 0 1 0 0  -- Generacion 151: 50
+0 0 0 0 1 0 0  -- Generacion 152: 50
+0 0 0 0 1 0 0  -- Generacion 153: 50
+0 0 0 0 1 0 0  -- Generacion 154: 50
+0 0 0 0 1 0 0  -- Generacion 155: 50
+0 0 0 0 1 0 0  -- Generacion 156: 50
+0 0 0 0 1 0 0  -- Generacion 157: 50
+0 0 0 0 1 0 0  -- Generacion 158: 50
+0 0 0 0 1 0 0  -- Generacion 159: 50
+0 0 0 0 1 0 0  -- Generacion 160: 50
+0 0 0 0 1 0 0  -- Generacion 161: 50
+0 0 0 0 1 0 0  -- Generacion 162: 50
+0 0 0 0 1 0 0  -- Generacion 163: 50
+0 0 0 0 1 0 0  -- Generacion 164: 50
+0 0 0 0 1 0 0  -- Generacion 165: 50
+0 0 0 0 1 0 0  -- Generacion 166: 50
+0 0 0 0 1 0 0  -- Generacion 167: 50
+0 0 0 0 1 0 0  -- Generacion 168: 50
+0 0 0 0 1 0 0  -- Generacion 169: 50
+0 0 0 0 1 0 0  -- Generacion 170: 50
+0 0 0 0 1 0 0  -- Generacion 171: 50
+0 0 0 0 1 0 0  -- Generacion 172: 50
+0 0 0 0 1 0 0  -- Generacion 173: 50
+0 0 0 0 1 0 0  -- Generacion 174: 50
+0 0 0 0 1 0 0  -- Generacion 175: 50
+0 0 0 0 1 0 0  -- Generacion 176: 50
+0 0 0 0 1 0 0  -- Generacion 177: 50
+0 0 0 0 1 0 0  -- Generacion 178: 50
+0 0 0 0 1 0 0  -- Generacion 179: 50
+0 0 0 0 1 0 0  -- Generacion 180: 50
+0 0 0 0 1 0 0  -- Generacion 181: 50
+0 0 0 0 1 0 0  -- Generacion 182: 50
+0 0 0 0 1 0 0  -- Generacion 183: 50
+0 0 0 0 1 0 0  -- Generacion 184: 50
+0 0 0 0 1 0 0  -- Generacion 185: 50
+0 0 0 0 1 0 0  -- Generacion 186: 50
+0 0 0 0 1 0 0  -- Generacion 187: 50
+0 0 0 0 1 0 0  -- Generacion 188: 50
+0 0 0 0 1 0 0  -- Generacion 189: 50
+0 0 0 0 1 0 0  -- Generacion 190: 50
+0 0 0 0 1 0 0  -- Generacion 191: 50
+0 0 0 0 1 0 0  -- Generacion 192: 50
+0 0 0 0 1 0 0  -- Generacion 193: 50
+0 0 0 0 1 0 0  -- Generacion 194: 50
+0 0 0 0 1 0 0  -- Generacion 195: 50
+0 0 0 0 1 0 0  -- Generacion 196: 50
+0 0 0 0 1 0 0  -- Generacion 197: 50
+0 0 0 0 1 0 0  -- Generacion 198: 50
+0 0 0 0 1 0 0  -- Generacion 199: 50
+0 0 0 0 1 0 0  -- Generacion 200: 50
+0 0 0 0 1 0 0  -- Generacion 201: 50
+0 0 0 0 1 0 0  -- Generacion 202: 50
+0 0 0 0 1 0 0  -- Generacion 203: 50
+0 0 0 0 1 0 0  -- Generacion 204: 50
+0 0 0 0 1 0 0  -- Generacion 205: 50
+0 0 0 0 1 0 0  -- Generacion 206: 50
+0 0 0 0 1 0 0  -- Generacion 207: 50
+0 0 0 0 1 0 0  -- Generacion 208: 50
+0 0 0 0 1 0 0  -- Generacion 209: 50
+0 0 0 0 1 0 0  -- Generacion 210: 50
+0 0 0 0 1 0 0  -- Generacion 211: 50
+0 0 0 0 1 0 0  -- Generacion 212: 50
+0 0 0 0 1 0 0  -- Generacion 213: 50
+0 0 0 0 1 0 0  -- Generacion 214: 50
+0 0 0 0 1 0 0  -- Generacion 215: 50
+0 0 0 0 1 0 0  -- Generacion 216: 50
+0 0 0 0 1 0 0  -- Generacion 217: 50
+0 0 0 0 1 0 0  -- Generacion 218: 50
+0 0 0 0 1 0 0  -- Generacion 219: 50
+0 0 0 0 1 0 0  -- Generacion 220: 50
+0 0 0 0 1 0 0  -- Generacion 221: 50
+0 0 0 0 1 0 0  -- Generacion 222: 50
+0 0 0 0 1 0 0  -- Generacion 223: 50
+0 0 0 0 1 0 0  -- Generacion 224: 50
+0 0 0 0 1 0 0  -- Generacion 225: 50
+0 0 0 0 1 0 0  -- Generacion 226: 50
+0 0 0 0 1 0 0  -- Generacion 227: 50
+0 0 0 0 1 0 0  -- Generacion 228: 50
+0 0 0 0 1 0 0  -- Generacion 229: 50
+0 0 0 0 1 0 0  -- Generacion 230: 50
+0 0 0 0 1 0 0  -- Generacion 231: 50
+0 0 0 0 1 0 0  -- Generacion 232: 50
+0 0 0 0 1 0 0  -- Generacion 233: 50
+0 0 0 0 1 0 0  -- Generacion 234: 50
+0 0 0 0 1 0 0  -- Generacion 235: 50
+0 0 0 0 1 0 0  -- Generacion 236: 50
+0 0 0 0 1 0 0  -- Generacion 237: 50
+0 0 0 0 1 0 0  -- Generacion 238: 50
+0 0 0 0 1 0 0  -- Generacion 239: 50
+0 0 0 0 1 0 0  -- Generacion 240: 50
+0 0 0 0 1 0 0  -- Generacion 241: 50
+0 0 0 0 1 0 0  -- Generacion 242: 50
+0 0 0 0 1 0 0  -- Generacion 243: 50
+0 0 0 0 1 0 0  -- Generacion 244: 50
+0 0 0 0 1 0 0  -- Generacion 245: 50
+0 0 0 0 1 0 0  -- Generacion 246: 50
+0 0 0 0 1 0 0  -- Generacion 247: 50
+0 0 0 0 1 0 0  -- Generacion 248: 50
+0 0 0 0 1 0 0  -- Generacion 249: 50
+0 0 0 0 1 0 0  -- Generacion 250: 50
+0 0 0 0 1 0 0  -- Generacion 251: 50
+0 0 0 0 1 0 0  -- Generacion 252: 50
+0 0 0 0 1 0 0  -- Generacion 253: 50
+0 0 0 0 1 0 0  -- Generacion 254: 50
+0 0 0 0 1 0 0  -- Generacion 255: 50
+0 0 0 0 1 0 0  -- Generacion 256: 50
+0 0 0 0 1 0 0  -- Generacion 257: 50
+0 0 0 0 1 0 0  -- Generacion 258: 50
+0 0 0 0 1 0 0  -- Generacion 259: 50
+0 0 0 0 1 0 0  -- Generacion 260: 50
+0 0 0 0 1 0 0  -- Generacion 261: 50
+0 0 0 0 1 0 0  -- Generacion 262: 50
+0 0 0 0 1 0 0  -- Generacion 263: 50
+0 0 0 0 1 0 0  -- Generacion 264: 50
+0 0 0 0 1 0 0  -- Generacion 265: 50
+0 0 0 0 1 0 0  -- Generacion 266: 50
+0 0 0 0 1 0 0  -- Generacion 267: 50
+0 0 0 0 1 0 0  -- Generacion 268: 50
+0 0 0 0 1 0 0  -- Generacion 269: 50
+0 0 0 0 1 0 0  -- Generacion 270: 50
+0 0 0 0 1 0 0  -- Generacion 271: 50
+0 0 0 0 1 0 0  -- Generacion 272: 50
+0 0 0 0 1 0 0  -- Generacion 273: 50
+0 0 0 0 1 0 0  -- Generacion 274: 50
+0 0 0 0 1 0 0  -- Generacion 275: 50
+0 0 0 0 1 0 0  -- Generacion 276: 50
+0 0 0 0 1 0 0  -- Generacion 277: 50
+0 0 0 0 1 0 0  -- Generacion 278: 50
+0 0 0 0 1 0 0  -- Generacion 279: 50
+0 0 0 0 1 0 0  -- Generacion 280: 50
+0 0 0 0 1 0 0  -- Generacion 281: 50
+0 0 0 0 1 0 0  -- Generacion 282: 50
+0 0 0 0 1 0 0  -- Generacion 283: 50
+0 0 0 0 1 0 0  -- Generacion 284: 50
+0 0 0 0 1 0 0  -- Generacion 285: 50
+0 0 0 0 1 0 0  -- Generacion 286: 50
+0 0 0 0 1 0 0  -- Generacion 287: 50
+0 0 0 0 1 0 0  -- Generacion 288: 50
+0 0 0 0 1 0 0  -- Generacion 289: 50
+0 0 0 0 1 0 0  -- Generacion 290: 50
+0 0 0 0 1 0 0  -- Generacion 291: 50
+0 0 0 0 1 0 0  -- Generacion 292: 50
+0 0 0 0 1 0 0  -- Generacion 293: 50
+0 0 0 0 1 0 0  -- Generacion 294: 50
+0 0 0 0 1 0 0  -- Generacion 295: 50
+0 0 0 0 1 0 0  -- Generacion 296: 50
+0 0 0 0 1 0 0  -- Generacion 297: 50
+0 0 0 0 1 0 0  -- Generacion 298: 50
+0 0 0 0 1 0 0  -- Generacion 299: 50
+0 0 0 0 1 0 0  -- Generacion 300: 50
+0 0 0 0 1 0 0  -- Generacion 301: 50
+0 0 0 0 1 0 0  -- Generacion 302: 50
+0 0 0 0 1 0 0  -- Generacion 303: 50
+0 0 0 0 1 0 0  -- Generacion 304: 50
+0 0 0 0 1 0 0  -- Generacion 305: 50
+0 0 0 0 1 0 0  -- Generacion 306: 50
+0 0 0 0 1 0 0  -- Generacion 307: 50
+0 0 0 0 1 0 0  -- Generacion 308: 50
+0 0 0 0 1 0 0  -- Generacion 309: 50
+0 0 0 0 1 0 0  -- Generacion 310: 50
+0 0 0 0 1 0 0  -- Generacion 311: 50
+0 0 0 0 1 0 0  -- Generacion 312: 50
+0 0 0 0 1 0 0  -- Generacion 313: 50
+0 0 0 0 1 0 0  -- Generacion 314: 50
+0 0 0 0 1 0 0  -- Generacion 315: 50
+0 0 0 0 1 0 0  -- Generacion 316: 50
+0 0 0 0 1 0 0  -- Generacion 317: 50
+0 0 0 0 1 0 0  -- Generacion 318: 50
+0 0 0 0 1 0 0  -- Generacion 319: 50
+0 0 0 0 1 0 0  -- Generacion 320: 50
+0 0 0 0 1 0 0  -- Generacion 321: 50
+0 0 0 0 1 0 0  -- Generacion 322: 50
+0 0 0 0 1 0 0  -- Generacion 323: 50
+0 0 0 0 1 0 0  -- Generacion 324: 50
+0 0 0 0 1 0 0  -- Generacion 325: 50
+0 0 0 0 1 0 0  -- Generacion 326: 50
+0 0 0 0 1 0 0  -- Generacion 327: 50
+0 0 0 0 1 0 0  -- Generacion 328: 50
+0 0 0 0 1 0 0  -- Generacion 329: 50
+0 0 0 0 1 0 0  -- Generacion 330: 50
+0 0 0 0 1 0 0  -- Generacion 331: 50
+0 0 0 0 1 0 0  -- Generacion 332: 50
+0 0 0 0 1 0 0  -- Generacion 333: 50
+0 0 0 0 1 0 0  -- Generacion 334: 50
+0 0 0 0 1 0 0  -- Generacion 335: 50
+0 0 0 0 1 0 0  -- Generacion 336: 50
+0 0 0 0 1 0 0  -- Generacion 337: 50
+0 0 0 0 1 0 0  -- Generacion 338: 50
+0 0 0 0 1 0 0  -- Generacion 339: 50
+0 0 0 0 1 0 0  -- Generacion 340: 50
+0 0 0 0 1 0 0  -- Generacion 341: 50
+0 0 0 0 1 0 0  -- Generacion 342: 50
+0 0 0 0 1 0 0  -- Generacion 343: 50
+0 0 0 0 1 0 0  -- Generacion 344: 50
+0 0 0 0 1 0 0  -- Generacion 345: 50
+0 0 0 0 1 0 0  -- Generacion 346: 50
+0 0 0 0 1 0 0  -- Generacion 347: 50
+0 0 0 0 1 0 0  -- Generacion 348: 50
+0 0 0 0 1 0 0  -- Generacion 349: 50
+0 0 0 0 1 0 0  -- Generacion 350: 50
+0 0 0 0 1 0 0  -- Generacion 351: 50
+0 0 0 0 1 0 0  -- Generacion 352: 50
+0 0 0 0 1 0 0  -- Generacion 353: 50
+0 0 0 0 1 0 0  -- Generacion 354: 50
+0 0 0 0 1 0 0  -- Generacion 355: 50
+0 0 0 0 1 0 0  -- Generacion 356: 50
+0 0 0 0 1 0 0  -- Generacion 357: 50
+0 0 0 0 1 0 0  -- Generacion 358: 50
+0 0 0 0 1 0 0  -- Generacion 359: 50
+0 0 0 0 1 0 0  -- Generacion 360: 50
+0 0 0 0 1 0 0  -- Generacion 361: 50
+0 0 0 0 1 0 0  -- Generacion 362: 50
+0 0 0 0 1 0 0  -- Generacion 363: 50
+0 0 0 0 1 0 0  -- Generacion 364: 50
+0 0 0 0 1 0 0  -- Generacion 365: 50
+0 0 0 0 1 0 0  -- Generacion 366: 50
+0 0 0 0 1 0 0  -- Generacion 367: 50
+0 0 0 0 1 0 0  -- Generacion 368: 50
+0 0 0 0 1 0 0  -- Generacion 369: 50
+0 0 0 0 1 0 0  -- Generacion 370: 50
+0 0 0 0 1 0 0  -- Generacion 371: 50
+0 0 0 0 1 0 0  -- Generacion 372: 50
+0 0 0 0 1 0 0  -- Generacion 373: 50
+0 0 0 0 1 0 0  -- Generacion 374: 50
+0 0 0 0 1 0 0  -- Generacion 375: 50
+0 0 0 0 1 0 0  -- Generacion 376: 50
+0 0 0 0 1 0 0  -- Generacion 377: 50
+0 0 0 0 1 0 0  -- Generacion 378: 50
+0 0 0 0 1 0 0  -- Generacion 379: 50
+0 0 0 0 1 0 0  -- Generacion 380: 50
+0 0 0 0 1 0 0  -- Generacion 381: 50
+0 0 0 0 1 0 0  -- Generacion 382: 50
+0 0 0 0 1 0 0  -- Generacion 383: 50
+0 0 0 0 1 0 0  -- Generacion 384: 50
+0 0 0 0 1 0 0  -- Generacion 385: 50
+0 0 0 0 1 0 0  -- Generacion 386: 50
+0 0 0 0 1 0 0  -- Generacion 387: 50
+0 0 0 0 1 0 0  -- Generacion 388: 50
+0 0 0 0 1 0 0  -- Generacion 389: 50
+0 0 0 0 1 0 0  -- Generacion 390: 50
+0 0 0 0 1 0 0  -- Generacion 391: 50
+0 0 0 0 1 0 0  -- Generacion 392: 50
+0 0 0 0 1 0 0  -- Generacion 393: 50
+0 0 0 0 1 0 0  -- Generacion 394: 50
+0 0 0 0 1 0 0  -- Generacion 395: 50
+0 0 0 0 1 0 0  -- Generacion 396: 50
+0 0 0 0 1 0 0  -- Generacion 397: 50
+0 0 0 0 1 0 0  -- Generacion 398: 50
+0 0 0 0 1 0 0  -- Generacion 399: 50
+0 0 0 0 1 0 0  -- Generacion 400: 50
+0 0 0 0 1 0 0  -- Generacion 401: 50
+0 0 0 0 1 0 0  -- Generacion 402: 50
+0 0 0 0 1 0 0  -- Generacion 403: 50
+0 0 0 0 1 0 0  -- Generacion 404: 50
+0 0 0 0 1 0 0  -- Generacion 405: 50
+0 0 0 0 1 0 0  -- Generacion 406: 50
+0 0 0 0 1 0 0  -- Generacion 407: 50
+0 0 0 0 1 0 0  -- Generacion 408: 50
+0 0 0 0 1 0 0  -- Generacion 409: 50
+0 0 0 0 1 0 0  -- Generacion 410: 50
+0 0 0 0 1 0 0  -- Generacion 411: 50
+0 0 0 0 1 0 0  -- Generacion 412: 50
+0 0 0 0 1 0 0  -- Generacion 413: 50
+0 0 0 0 1 0 0  -- Generacion 414: 50
+0 0 0 0 1 0 0  -- Generacion 415: 50
+0 0 0 0 1 0 0  -- Generacion 416: 50
+0 0 0 0 1 0 0  -- Generacion 417: 50
+0 0 0 0 1 0 0  -- Generacion 418: 50
+0 0 0 0 1 0 0  -- Generacion 419: 50
+0 0 0 0 1 0 0  -- Generacion 420: 50
+0 0 0 0 1 0 0  -- Generacion 421: 50
+0 0 0 0 1 0 0  -- Generacion 422: 50
+0 0 0 0 1 0 0  -- Generacion 423: 50
+0 0 0 0 1 0 0  -- Generacion 424: 50
+0 0 0 0 1 0 0  -- Generacion 425: 50
+0 0 0 0 1 0 0  -- Generacion 426: 50
+0 0 0 0 1 0 0  -- Generacion 427: 50
+0 0 0 0 1 0 0  -- Generacion 428: 50
+0 0 0 0 1 0 0  -- Generacion 429: 50
+0 0 0 0 1 0 0  -- Generacion 430: 50
+0 0 0 0 1 0 0  -- Generacion 431: 50
+0 0 0 0 1 0 0  -- Generacion 432: 50
+0 0 0 0 1 0 0  -- Generacion 433: 50
+0 0 0 0 1 0 0  -- Generacion 434: 50
+0 0 0 0 1 0 0  -- Generacion 435: 50
+0 0 0 0 1 0 0  -- Generacion 436: 50
+0 0 0 0 1 0 0  -- Generacion 437: 50
+0 0 0 0 1 0 0  -- Generacion 438: 50
+0 0 0 0 1 0 0  -- Generacion 439: 50
+0 0 0 0 1 0 0  -- Generacion 440: 50
+0 0 0 0 1 0 0  -- Generacion 441: 50
+0 0 0 0 1 0 0  -- Generacion 442: 50
+0 0 0 0 1 0 0  -- Generacion 443: 50
+0 0 0 0 1 0 0  -- Generacion 444: 50
+0 0 0 0 1 0 0  -- Generacion 445: 50
+0 0 0 0 1 0 0  -- Generacion 446: 50
+0 0 0 0 1 0 0  -- Generacion 447: 50
+0 0 0 0 1 0 0  -- Generacion 448: 50
+0 0 0 0 1 0 0  -- Generacion 449: 50
+0 0 0 0 1 0 0  -- Generacion 450: 50
+0 0 0 0 1 0 0  -- Generacion 451: 50
+0 0 0 0 1 0 0  -- Generacion 452: 50
+0 0 0 0 1 0 0  -- Generacion 453: 50
+0 0 0 0 1 0 0  -- Generacion 454: 50
+0 0 0 0 1 0 0  -- Generacion 455: 50
+0 0 0 0 1 0 0  -- Generacion 456: 50
+0 0 0 0 1 0 0  -- Generacion 457: 50
+0 0 0 0 1 0 0  -- Generacion 458: 50
+0 0 0 0 1 0 0  -- Generacion 459: 50
+0 0 0 0 1 0 0  -- Generacion 460: 50
+0 0 0 0 1 0 0  -- Generacion 461: 50
+0 0 0 0 1 0 0  -- Generacion 462: 50
+0 0 0 0 1 0 0  -- Generacion 463: 50
+0 0 0 0 1 0 0  -- Generacion 464: 50
+0 0 0 0 1 0 0  -- Generacion 465: 50
+0 0 0 0 1 0 0  -- Generacion 466: 50
+0 0 0 0 1 0 0  -- Generacion 467: 50
+0 0 0 0 1 0 0  -- Generacion 468: 50
+0 0 0 0 1 0 0  -- Generacion 469: 50
+0 0 0 0 1 0 0  -- Generacion 470: 50
+0 0 0 0 1 0 0  -- Generacion 471: 50
+0 0 0 0 1 0 0  -- Generacion 472: 50
+0 0 0 0 1 0 0  -- Generacion 473: 50
+0 0 0 0 1 0 0  -- Generacion 474: 50
+0 0 0 0 1 0 0  -- Generacion 475: 50
+0 0 0 0 1 0 0  -- Generacion 476: 50
+0 0 0 0 1 0 0  -- Generacion 477: 50
+0 0 0 0 1 0 0  -- Generacion 478: 50
+0 0 0 0 1 0 0  -- Generacion 479: 50
+0 0 0 0 1 0 0  -- Generacion 480: 50
+0 0 0 0 1 0 0  -- Generacion 481: 50
+0 0 0 0 1 0 0  -- Generacion 482: 50
+0 0 0 0 1 0 0  -- Generacion 483: 50
+0 0 0 0 1 0 0  -- Generacion 484: 50
+0 0 0 0 1 0 0  -- Generacion 485: 50
+0 0 0 0 1 0 0  -- Generacion 486: 50
+0 0 0 0 1 0 0  -- Generacion 487: 50
+0 0 0 0 1 0 0  -- Generacion 488: 50
+0 0 0 0 1 0 0  -- Generacion 489: 50
+0 0 0 0 1 0 0  -- Generacion 490: 50
+0 0 0 0 1 0 0  -- Generacion 491: 50
+0 0 0 0 1 0 0  -- Generacion 492: 50
+0 0 0 0 1 0 0  -- Generacion 493: 50
+0 0 0 0 1 0 0  -- Generacion 494: 50
+0 0 0 0 1 0 0  -- Generacion 495: 50
+0 0 0 0 1 0 0  -- Generacion 496: 50
+0 0 0 0 1 0 0  -- Generacion 497: 50
+0 0 0 0 1 0 0  -- Generacion 498: 50
+0 0 0 0 1 0 0  -- Generacion 499: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 110
+1 1 1 0 1 0 0  -- Generacion 500: 110
+----------------------------------------------------------
+
+Mejor Solucion: 110
+Cambios obligatorios:1/500
+Cambios para mejor:0/500
+

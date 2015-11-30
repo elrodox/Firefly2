@@ -9,31 +9,46 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
  
 public class Output{
-    private static FileWriter fichero = null;
-    private static PrintWriter pw = null;
-    public static void open(String path){
+    private FileWriter fichero = null;
+    private PrintWriter pw = null;
+    private String path;
+    public Output(String path){
         try {
             fichero = new FileWriter(new File(path));
             pw = new PrintWriter(fichero);
+            this.path = path;
         } catch (IOException ex) {
             ex.printStackTrace();
         }
     }
-    public static void close(){
+//    public void open(String path){
+//        try {
+//            fichero = new FileWriter(new File(path));
+//            pw = new PrintWriter(fichero);
+//        } catch (IOException ex) {
+//            ex.printStackTrace();
+//        }
+//    }
+    public void close(){
         try {
             if (null != fichero) fichero.close();
         } catch (IOException ex) {
             ex.printStackTrace();
         }
     }
-    public static void print(String linea) {
+    public void print(String linea) {
         try {
             pw.print(linea);
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
-    public static void println(String linea) {
+    public void println(String linea) {
         print(linea+"\n\r");
     }
+
+    public String getPath() {
+        return path;
+    }
+    
 }

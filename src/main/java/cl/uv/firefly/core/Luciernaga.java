@@ -6,9 +6,11 @@
 package cl.uv.firefly.core;
 
 import cl.uv.firefly.Config;
+import cl.uv.firefly.utils.Logs;
 import cl.uv.firefly.utils.Utils;
 import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.Random;
 
 
 
@@ -47,7 +49,7 @@ public class Luciernaga {
     public int[] generarSolucionAleatoria(){
         int[] nuevaLuciernaga = new int[instancia.getCantCostos()];
         for (int i = 0; i < instancia.getCantCostos(); i++) {
-            nuevaLuciernaga[i] = Utils.random.nextInt(2);
+            nuevaLuciernaga[i] = Utils.getRandom().nextInt(2);
         }
         return nuevaLuciernaga;
     }
@@ -61,23 +63,37 @@ public class Luciernaga {
     
     private void validarYReparar(){
         boolean factible = true;
-//        System.out.println("\nreparando:");
-//        printSolucion();
+        int countVecesReparada = 0;
+//        Logs.normal.println("\nVALIDADNDO--------------");
+//        Utils.printArray(solucion); Logs.normal.println(": [REP] antes de reparar");
         int indiceJPrimerUno = -1;
-        for (int i = 0; i < instancia.getCantRestricciones(); i++) { // recorriendo restricciones
+        for (int i = 0; i < instancia.getMatrix().length; i++) { // recorriendo restricciones
+//            Utils.printArray(instancia.getMatrix()[i]); Logs.normal.println(": [REP] restriccion");
             indiceJPrimerUno = -1;
-            for (int j = 0; j < instancia.getCantCostos(); j++) { // recorriendo componentes de restriccion
+            factible = true;
+            for (int j = 0; j < instancia.getMatrix()[i].length; j++) { // recorriendo componentes de restriccion
                 if( instancia.getMatrix()[i][j]==1 && solucion[j]==0) {
 //                  solucion[j] = 1;
-                    indiceJPrimerUno=j;
-                    factible= false;
-                }else factible=true;
+                    if(factible) indiceJPrimerUno=j;
+                    factible = false;
+                }else if( instancia.getMatrix()[i][j]==1 && solucion[j]==1){
+                    factible = true;
+                    break;
+                }
             }
             if(!factible && indiceJPrimerUno!=-1){
+//                countVecesReparada++;
                 solucion[indiceJPrimerUno] = 1;
             }
         }
+//        if(countVecesReparada>0){
+//            Utils.printArray(solucion); Logs.normal.println(": [REP] despues de reparar");
+//            Logs.normal.println("[REP] Reparada "+countVecesReparada+" veces!");
+//        }else{
+//            Logs.normal.println("[REP] La solucion es factible, no se reparó ninguna vez");
+//        }
         
+//        Logs.normal.println("FIN VALIDADNDO--------------");
         this.calcularFitness();
 //        System.out.println("\nreparada:");
 //        printSolucion();
@@ -90,20 +106,25 @@ public class Luciernaga {
         int[] bestSolucion = bestLuciernaga.getSolucion();
         int r=0;
         double nuevoMvto=0;
+//        Random r1 = new Random(System.currentTimeMillis());
+//        Random r2 = new Random(System.currentTimeMillis());
+        Random r1 = Utils.getRandom();
+        Random r2 = Utils.getRandom();
+       
+        
         for (int i = 0; i < solucion.length; i++) {
             r += Math.pow(solucion[i]-bestSolucion[i],2);
         }
         for (int i = 0; i < solucion.length; i++) {
-            nuevoMvto = solucion[i] + Config.B0*Math.exp((double)(-Config.GAMMA*r))* 
-                    (bestSolucion[i]-solucion[i]) + Config.ALFA*
-                    (Utils.random.nextDouble() - 0.5); 
+            nuevoMvto = solucion[i] + Config.B0*Math.exp((double)(-this.instancia.GAMMA*r))* 
+                    (bestSolucion[i]-solucion[i]) + this.instancia.ALFA*
+                    (r2.nextDouble() - 0.5); 
             double s = 1/(1+Math.exp(-nuevoMvto));
-            nuevaSolucion[i] = s<Utils.random.nextDouble() ? 1:0;
+            nuevaSolucion[i] = s<r1.nextDouble() ? 1:0;
         }
         Luciernaga nuevaLuciernaga = new Luciernaga(nuevaSolucion, this.instancia);
         return nuevaLuciernaga;
     }
-    
 
     public int[] getSolucion() {
         return solucion;
@@ -121,12 +142,19 @@ public class Luciernaga {
         this.solucion = solucion;
     }
     
-    public void printSolucion(){
-        for(int bit: solucion ){
-            System.out.print(bit);
-        }
-        System.out.println("");
-    }
+//    public void printSolucion(){
+//        for(int bit: solucion ){
+//            System.out.print(bit+" ");
+//        }
+//    }
+    
+//    public String solucionString(){
+//        String str ="";
+//        for(int i:solucion){
+//            str+=i+" ";
+//        }
+//        return str;
+//    }
     
     public String toString(){
         return String.valueOf(fitness);

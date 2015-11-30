@@ -1,0 +1,76 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 05-01-03
+
+Semilla: 1448784063899
+Cantidad de luciernagas: 20
+Numero de iteraciones: 50
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 1000
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+0 0 1 0 1 0 0  -- Generacion 0: 80
+0 0 1 0 1 0 0  -- Generacion 1: 80
+0 0 1 0 1 0 0  -- Generacion 2: 80
+0 0 1 0 1 0 0  -- Generacion 3: 80
+0 0 1 0 1 0 0  -- Generacion 4: 80
+0 0 1 0 1 0 0  -- Generacion 5: 80
+0 0 1 0 1 0 0  -- Generacion 6: 80
+0 0 1 0 1 0 0  -- Generacion 7: 80
+0 0 1 0 1 0 0  -- Generacion 8: 80
+0 0 1 0 1 0 0  -- Generacion 9: 80
+0 0 1 0 1 0 0  -- Generacion 10: 80
+0 0 1 0 1 0 0  -- Generacion 11: 80
+0 0 1 0 1 0 0  -- Generacion 12: 80
+0 0 1 0 1 0 0  -- Generacion 13: 80
+### :DD ###
+0 0 0 0 1 0 0  -- Generacion 14: 50
+0 0 0 0 1 0 0  -- Generacion 15: 50
+0 0 0 0 1 0 0  -- Generacion 16: 50
+0 0 0 0 1 0 0  -- Generacion 17: 50
+0 0 0 0 1 0 0  -- Generacion 18: 50
+0 0 0 0 1 0 0  -- Generacion 19: 50
+0 0 0 0 1 0 0  -- Generacion 20: 50
+0 0 0 0 1 0 0  -- Generacion 21: 50
+0 0 0 0 1 0 0  -- Generacion 22: 50
+0 0 0 0 1 0 0  -- Generacion 23: 50
+0 0 0 0 1 0 0  -- Generacion 24: 50
+0 0 0 0 1 0 0  -- Generacion 25: 50
+0 0 0 0 1 0 0  -- Generacion 26: 50
+0 0 0 0 1 0 0  -- Generacion 27: 50
+0 0 0 0 1 0 0  -- Generacion 28: 50
+0 0 0 0 1 0 0  -- Generacion 29: 50
+0 0 0 0 1 0 0  -- Generacion 30: 50
+0 0 0 0 1 0 0  -- Generacion 31: 50
+0 0 0 0 1 0 0  -- Generacion 32: 50
+0 0 0 0 1 0 0  -- Generacion 33: 50
+0 0 0 0 1 0 0  -- Generacion 34: 50
+0 0 0 0 1 0 0  -- Generacion 35: 50
+0 0 0 0 1 0 0  -- Generacion 36: 50
+0 0 0 0 1 0 0  -- Generacion 37: 50
+0 0 0 0 1 0 0  -- Generacion 38: 50
+0 0 0 0 1 0 0  -- Generacion 39: 50
+0 0 0 0 1 0 0  -- Generacion 40: 50
+0 0 0 0 1 0 0  -- Generacion 41: 50
+0 0 0 0 1 0 0  -- Generacion 42: 50
+0 0 0 0 1 0 0  -- Generacion 43: 50
+0 0 0 0 1 0 0  -- Generacion 44: 50
+0 0 0 0 1 0 0  -- Generacion 45: 50
+0 0 0 0 1 0 0  -- Generacion 46: 50
+0 0 0 0 1 0 0  -- Generacion 47: 50
+0 0 0 0 1 0 0  -- Generacion 48: 50
+0 0 0 0 1 0 0  -- Generacion 49: 50
+0 0 0 0 1 0 0  -- Generacion 50: 50
+----------------------------------------------------------
+
+Mejor Solucion: 50
+Cambios obligatorios:0/50
+Cambios para mejor:1/50
+

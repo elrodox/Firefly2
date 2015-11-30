@@ -1,0 +1,605 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 04-45-54
+
+Semilla: 1448783154891
+Cantidad de luciernagas: 20
+Numero de iteraciones: 2
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 3
+Logs normales: true
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Leyendo instancia: test
+Se ha leido una Matriz de: 2x7
+Generando luciernagas
+
+VALIDADNDO--------------
+0 0 1 1 0 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 1 1 0 1 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 0 0 0 1 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 1 0 0 1 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 0 0 1 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 1 0 1 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 1 1 1 1 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 0 0 0 1 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 0 1 1 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+1 0 1 1 0 1 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 0 1 1 0 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 1 1 0 1 1 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 1 1 1 0 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 1 1 0 1 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 1 0 0 0 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+1 1 0 0 1 0 1 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 0 0 1 1 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 1 0 0 1 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 1 1 1 1 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 0 0 1 1 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 0 1 0 0 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 0 0 0 0 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 0 1 1 1 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+0 0 1 1 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 1 1 0 1 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+
+VALIDADNDO--------------
+1 0 1 1 1 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+Generacion 0: 80
+: [MVTO] best desp
+
+===================================================================
+Comenzando iteraciones...
+: [MVTO] best prev
+Movimiento 1:
+0 1 1 0 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 1 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 1 0 1 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 1 1 0 1 0 0 : [MVTO] 'mismo valor'
+0 0 0 1 0 1 0 : [MVTO] 'nuevo valor'
+Movimiento 2:
+0 0 0 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 1 0 0 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 1 0 0 1 1 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 0 0 1 0 1 0 : [MVTO] 'mismo valor'
+0 1 1 0 0 1 1 : [MVTO] 'nuevo valor'
+Movimiento 3:
+1 0 0 1 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 0 0 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+1 0 0 1 1 0 0 : [MVTO] 'mismo valor'
+0 0 0 0 1 1 0 : [MVTO] 'nuevo valor'
+Movimiento 4:
+0 0 0 0 1 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 1 0 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 0 0 1 1 0 : [MVTO] 'mismo valor'
+0 0 0 1 0 1 0 : [MVTO] 'nuevo valor'
+Movimiento 5:
+0 0 1 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 0 1 1 0 1 0 : [MVTO] 'mismo valor'
+0 0 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 6:
+0 0 1 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 1 0 1 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 1 1 0 1 0 : [MVTO] 'mismo valor'
+0 0 1 0 1 0 1 : [MVTO] 'nuevo valor'
+Movimiento 7:
+1 0 1 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+1 0 1 1 0 1 0 : [MVTO] 'mismo valor'
+0 0 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 8:
+1 1 1 1 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+1 1 1 1 1 0 0 : [MVTO] 'mismo valor'
+0 0 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 9:
+0 1 1 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 1 1 0 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 1 1 0 1 1 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 1 1 1 0 1 0 : [MVTO] 'mismo valor'
+0 0 1 1 0 1 1 : [MVTO] 'nuevo valor'
+Movimiento 10:
+1 1 0 0 1 0 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+1 1 0 0 1 0 1 : [MVTO] 'mismo valor'
+0 1 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 11:
+0 0 1 0 0 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 0 1 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 1 0 0 1 1 : [MVTO] 'mismo valor'
+0 0 0 0 1 1 0 : [MVTO] 'nuevo valor'
+Movimiento 12:
+0 0 0 0 1 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 1 0 0 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 0 0 1 1 1 : [MVTO] 'mismo valor'
+0 0 1 0 0 1 0 : [MVTO] 'nuevo valor'
+Movimiento 13:
+0 0 0 0 1 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 1 0 0 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 0 0 1 1 1 : [MVTO] 'mismo valor'
+0 0 1 0 0 1 0 : [MVTO] 'nuevo valor'
+Movimiento 14:
+0 0 1 1 0 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 0 1 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 1 1 0 1 1 : [MVTO] 'mismo valor'
+0 1 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 15:
+1 1 0 0 1 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 1 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 1 0 0 1 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+1 1 0 0 1 1 1 : [MVTO] 'mismo valor'
+0 1 1 0 0 1 0 : [MVTO] 'nuevo valor'
+Movimiento 16:
+0 1 1 1 1 0 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 1 1 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 1 1 1 1 0 1 : [MVTO] 'mismo valor'
+0 0 0 1 1 1 0 : [MVTO] 'nuevo valor'
+Movimiento 17:
+1 0 0 1 1 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 1 1 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+1 0 0 1 1 1 1 : [MVTO] 'mismo valor'
+0 0 0 1 1 1 0 : [MVTO] 'nuevo valor'
+Movimiento 18:
+1 1 1 0 1 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 1 1 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+1 1 1 0 1 1 1 : [MVTO] 'mismo valor'
+0 0 0 1 1 1 0 : [MVTO] 'nuevo valor'
+Movimiento 19:
+1 0 1 1 1 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 1 0 0 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 1 0 0 1 1 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+1 0 1 1 1 1 1 : [MVTO] 'mismo valor'
+0 1 1 0 0 1 1 : [MVTO] 'nuevo valor'
+### :DD ###
+
+VALIDADNDO--------------
+0 0 1 0 0 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 160
+Generacion 1: 160
+: [MVTO] best desp
+
+===================================================================
+: [MVTO] best prev
+Movimiento 1:
+0 0 0 0 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 1 0 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 0 0 1 0 0 : [MVTO] 'mismo valor'
+0 0 0 1 0 1 1 : [MVTO] 'nuevo valor'
+Movimiento 2:
+0 0 0 0 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 1 0 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 0 0 1 0 0 : [MVTO] 'mismo valor'
+0 0 0 1 0 1 1 : [MVTO] 'nuevo valor'
+Movimiento 3:
+0 1 0 0 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 1 0 1 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 1 0 0 1 0 0 : [MVTO] 'mismo valor'
+0 0 0 1 0 1 1 : [MVTO] 'nuevo valor'
+Movimiento 4:
+0 1 0 0 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 1 0 1 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 1 0 0 1 0 0 : [MVTO] 'mismo valor'
+0 1 0 1 0 1 0 : [MVTO] 'nuevo valor'
+Movimiento 5:
+1 1 0 0 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+1 1 0 0 1 0 0 : [MVTO] 'mismo valor'
+0 1 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 6:
+0 0 1 0 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 0 1 0 0 1 0 : [MVTO] 'mismo valor'
+0 1 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 7:
+0 0 1 0 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 0 1 0 0 1 0 : [MVTO] 'mismo valor'
+0 1 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 8:
+0 1 1 0 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 1 1 0 1 0 0 : [MVTO] 'mismo valor'
+0 1 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 9:
+0 0 0 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 0 0 1 0 1 0 : [MVTO] 'mismo valor'
+0 1 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 10:
+1 0 0 1 1 0 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 1 1 1 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+1 0 0 1 1 0 0 : [MVTO] 'mismo valor'
+0 0 1 1 1 0 1 : [MVTO] 'nuevo valor'
+Movimiento 11:
+0 0 0 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 1 1 1 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 0 1 0 1 0 : [MVTO] 'mismo valor'
+0 0 1 1 1 0 1 : [MVTO] 'nuevo valor'
+Movimiento 12:
+0 0 0 0 1 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 1 1 1 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 0 0 1 1 0 : [MVTO] 'mismo valor'
+0 0 1 1 1 0 1 : [MVTO] 'nuevo valor'
+Movimiento 13:
+0 1 1 0 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 1 1 1 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 1 1 0 0 1 0 : [MVTO] 'mismo valor'
+0 0 1 1 1 0 1 : [MVTO] 'nuevo valor'
+Movimiento 14:
+0 0 1 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 1 1 1 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 0 1 1 0 1 0 : [MVTO] 'mismo valor'
+0 1 1 1 1 0 1 : [MVTO] 'nuevo valor'
+Movimiento 15:
+0 1 1 1 0 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 1 1 1 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 1 1 1 0 1 0 : [MVTO] 'mismo valor'
+0 1 1 1 1 0 1 : [MVTO] 'nuevo valor'
+Movimiento 16:
+0 0 0 1 1 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 1 1 0 0 1 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 1 1 1 0 1 1 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 0 0 1 1 1 0 : [MVTO] 'mismo valor'
+0 1 1 1 0 1 1 : [MVTO] 'nuevo valor'
+Movimiento 17:
+0 0 0 1 1 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 0 0 1 1 1 0 : [MVTO] 'mismo valor'
+0 0 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 18:
+0 0 0 1 1 1 0 : [MVTO] valor previo
+VALIDADNDO--------------
+0 0 0 0 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+0 0 0 0 1 0 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+0 0 0 1 1 1 0 : [MVTO] 'mismo valor'
+0 0 0 0 1 0 0 : [MVTO] 'nuevo valor'
+Movimiento 19:
+0 1 1 0 0 1 1 : [MVTO] valor previo
+VALIDADNDO--------------
+0 1 0 1 1 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+[REP] La solucion es factible, no se reparó ninguna vez
+FIN VALIDADNDO--------------
+0 1 1 0 0 1 1 : [MVTO] 'mismo valor'
+0 1 0 1 1 0 0 : [MVTO] 'nuevo valor'
+### :DD ###
+
+VALIDADNDO--------------
+1 1 1 1 0 0 0 : [REP] antes de reparar
+0 0 1 1 1 0 0 : [REP] restriccion
+0 0 0 0 1 1 0 : [REP] restriccion
+1 1 1 1 0 1 0 : [REP] despues de reparar
+[REP] Reparada 1 veces!
+FIN VALIDADNDO--------------
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 160
+Generacion 2: 160
+: [MVTO] best desp
+
+===================================================================
+----------------------------------------------------------
+
+Mejor Solucion: 160
+Cambios obligatorios:2/2
+Cambios para mejor:2/2
+

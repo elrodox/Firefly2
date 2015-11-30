@@ -1,0 +1,29 @@
+----------------------------------------------------------
+---- INSTANCIA 'scp41' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 15-17-13
+
+Semilla: 1448793896422
+Cantidad de luciernagas: 25
+Numero de iteraciones: 10000
+B0: 1
+Gamma: 2.800000000000001
+Alfa: 0.30000000000000004
+
+Porcentaje de no cambio permitido: 101
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 23017
+Generacion 1: 17171
+Generacion 177: 16339
+Generacion 307: 14837
+
+----------------------------------------------------------
+
+Mejor Solucion: 14837
+Cambios obligatorios:0/10000
+Cambios para mejor:3/10000
+

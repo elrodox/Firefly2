@@ -13,5 +13,24 @@ import java.util.Random;
  * @author elrodox
  */
 public class Utils {
-    public final static Random random = new Random(Config.seed);
+    private static Random random;
+    
+    public static Random getRandom(){
+        if(random!=null) return random;
+        else{
+            random = new Random(Config.seed);
+            return random;
+        }
+    }
+    
+//    public static String arrayToString(int[] array){
+//        String str ="";
+//        for(int i:array){
+//            str+=i+" ";
+//        }
+//        return str;
+//    }
+//    public static void printArray(int[] array){
+//        Logs.normal.print(arrayToString(array));
+//    }
 }

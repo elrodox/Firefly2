@@ -1,0 +1,576 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 04-31-24
+
+Semilla: 1448782284405
+Cantidad de luciernagas: 20
+Numero de iteraciones: 2
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 3
+Logs normales: true
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Leyendo instancia: test
+Se ha leido una Matriz de: 2x7
+Generando luciernagas
+
+REPARANDO--------------
+0 0 0 0 1 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 1 0 0 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 1 0 1 1 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 1 0 1 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+0 0 0 1 0 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+0 0 0 1 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+0 1 0 1 0 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 0 0 1 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+0 1 1 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+0 0 1 0 0 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 1 0 0 0 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 0 1 1 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+0 1 0 1 0 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 1 0 1 0 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 1 1 1 1 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+0 0 0 1 1 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+0 1 1 1 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 0 0 0 0 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 1 0 1 1 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+
+REPARANDO--------------
+1 1 1 1 1 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+Generacion 0: 30
+
+Comenzando iteraciones...
+: best prev
+Movimiento 1:
+0 0 0 1 0 0 0 : valor previo
+REPARANDO--------------
+0 1 0 0 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 1 0 0 0 : 'mismo valor'
+0 1 0 0 0 0 0 : 'nuevo valor'
+Movimiento 2:
+0 0 0 0 1 0 0 : valor previo
+REPARANDO--------------
+0 0 1 0 0 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 0 1 0 0 : 'mismo valor'
+0 0 1 0 0 0 1 : 'nuevo valor'
+Movimiento 3:
+1 0 0 0 0 0 1 : valor previo
+REPARANDO--------------
+0 0 1 0 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 0 0 0 0 0 1 : 'mismo valor'
+0 0 1 0 0 0 0 : 'nuevo valor'
+Movimiento 4:
+0 0 0 1 1 0 0 : valor previo
+REPARANDO--------------
+0 1 0 1 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 1 1 0 0 : 'mismo valor'
+0 1 0 1 0 1 0 : 'nuevo valor'
+Movimiento 5:
+0 1 1 1 0 0 0 : valor previo
+REPARANDO--------------
+0 0 0 1 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 1 1 0 0 0 : 'mismo valor'
+0 0 0 1 0 1 0 : 'nuevo valor'
+Movimiento 6:
+0 0 1 0 0 0 1 : valor previo
+REPARANDO--------------
+0 0 0 1 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 1 0 0 0 1 : 'mismo valor'
+0 0 0 1 0 0 0 : 'nuevo valor'
+Movimiento 7:
+1 1 0 0 0 0 1 : valor previo
+REPARANDO--------------
+0 0 0 1 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 0 0 0 0 1 : 'mismo valor'
+0 0 0 1 0 0 0 : 'nuevo valor'
+Movimiento 8:
+0 1 1 0 0 1 0 : valor previo
+REPARANDO--------------
+0 0 1 1 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 1 0 0 1 0 : 'mismo valor'
+0 0 1 1 1 1 1 : 'nuevo valor'
+Movimiento 9:
+1 1 0 1 0 1 0 : valor previo
+REPARANDO--------------
+0 0 1 0 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 0 1 0 1 0 : 'mismo valor'
+0 0 1 0 1 1 1 : 'nuevo valor'
+Movimiento 10:
+0 1 0 1 0 0 1 : valor previo
+REPARANDO--------------
+0 0 0 0 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 0 1 0 0 1 : 'mismo valor'
+0 0 0 0 1 1 1 : 'nuevo valor'
+Movimiento 11:
+1 0 1 1 0 1 0 : valor previo
+REPARANDO--------------
+0 0 0 0 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 0 1 1 0 1 0 : 'mismo valor'
+0 0 0 0 1 1 1 : 'nuevo valor'
+Movimiento 12:
+0 0 0 1 0 1 1 : valor previo
+REPARANDO--------------
+0 0 0 0 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 1 0 1 1 : 'mismo valor'
+0 0 0 0 1 1 1 : 'nuevo valor'
+Movimiento 13:
+1 1 0 1 1 1 0 : valor previo
+REPARANDO--------------
+0 0 1 0 1 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 0 1 1 1 0 : 'mismo valor'
+0 0 1 0 1 0 1 : 'nuevo valor'
+Movimiento 14:
+1 1 0 1 1 0 1 : valor previo
+REPARANDO--------------
+0 0 1 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 0 1 1 0 1 : 'mismo valor'
+0 0 1 0 0 1 0 : 'nuevo valor'
+Movimiento 15:
+0 1 0 1 0 1 1 : valor previo
+REPARANDO--------------
+0 0 0 0 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 0 1 0 1 1 : 'mismo valor'
+0 0 0 0 0 0 0 : 'nuevo valor'
+Movimiento 16:
+1 1 0 1 0 1 1 : valor previo
+REPARANDO--------------
+0 0 1 0 0 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 0 1 0 1 1 : 'mismo valor'
+0 0 1 0 0 0 1 : 'nuevo valor'
+Movimiento 17:
+1 1 1 1 1 0 1 : valor previo
+REPARANDO--------------
+0 1 0 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 1 1 1 0 1 : 'mismo valor'
+0 1 0 0 0 1 0 : 'nuevo valor'
+Movimiento 18:
+1 1 1 1 1 0 1 : valor previo
+REPARANDO--------------
+0 0 1 0 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 1 1 1 0 1 : 'mismo valor'
+0 0 1 0 0 0 0 : 'nuevo valor'
+Movimiento 19:
+1 0 0 1 1 1 1 : valor previo
+REPARANDO--------------
+0 1 1 0 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 0 0 1 1 1 1 : 'mismo valor'
+0 1 1 0 1 1 1 : 'nuevo valor'
+### :DD ###
+
+REPARANDO--------------
+1 0 1 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 100
+Generacion 1: 100
+: best desp
+
+: best prev
+Movimiento 1:
+0 1 0 0 0 0 0 : valor previo
+REPARANDO--------------
+0 0 1 0 0 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 0 0 0 0 0 : 'mismo valor'
+0 0 1 0 0 1 1 : 'nuevo valor'
+Movimiento 2:
+1 1 0 0 0 0 0 : valor previo
+REPARANDO--------------
+0 0 1 1 0 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 0 0 0 0 0 : 'mismo valor'
+0 0 1 1 0 1 1 : 'nuevo valor'
+Movimiento 3:
+0 0 1 0 0 0 0 : valor previo
+REPARANDO--------------
+0 1 0 1 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 1 0 0 0 0 : 'mismo valor'
+0 1 0 1 1 1 1 : 'nuevo valor'
+Movimiento 4:
+0 0 1 0 0 0 0 : valor previo
+REPARANDO--------------
+0 1 0 1 1 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 1 0 0 0 0 : 'mismo valor'
+0 1 0 1 1 0 0 : 'nuevo valor'
+Movimiento 5:
+0 0 0 1 0 0 0 : valor previo
+REPARANDO--------------
+0 1 1 0 1 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 1 0 0 0 : 'mismo valor'
+0 1 1 0 1 1 0 : 'nuevo valor'
+Movimiento 6:
+0 0 0 1 0 0 0 : valor previo
+REPARANDO--------------
+0 0 0 0 1 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 1 0 0 0 : 'mismo valor'
+0 0 0 0 1 1 0 : 'nuevo valor'
+Movimiento 7:
+0 0 0 0 1 0 0 : valor previo
+REPARANDO--------------
+0 0 1 1 1 1 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 0 1 0 0 : 'mismo valor'
+0 0 1 1 1 1 1 : 'nuevo valor'
+Movimiento 8:
+0 1 0 0 0 1 0 : valor previo
+REPARANDO--------------
+0 1 0 0 0 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 0 0 0 1 0 : 'mismo valor'
+0 1 0 0 0 0 1 : 'nuevo valor'
+Movimiento 9:
+0 0 0 1 1 0 0 : valor previo
+REPARANDO--------------
+0 1 0 0 0 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 1 1 0 0 : 'mismo valor'
+0 1 0 0 0 0 1 : 'nuevo valor'
+Movimiento 10:
+0 1 1 1 0 0 0 : valor previo
+REPARANDO--------------
+0 1 1 1 1 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 1 1 0 0 0 : 'mismo valor'
+0 1 1 1 1 0 0 : 'nuevo valor'
+Movimiento 11:
+0 0 1 0 0 1 0 : valor previo
+REPARANDO--------------
+0 1 1 1 1 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 1 0 0 1 0 : 'mismo valor'
+0 1 1 1 1 0 0 : 'nuevo valor'
+Movimiento 12:
+0 0 1 0 0 0 1 : valor previo
+REPARANDO--------------
+0 0 0 1 1 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 1 0 0 0 1 : 'mismo valor'
+0 0 0 1 1 0 0 : 'nuevo valor'
+Movimiento 13:
+0 1 1 0 0 1 0 : valor previo
+REPARANDO--------------
+0 0 0 1 1 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 1 0 0 1 0 : 'mismo valor'
+0 0 0 1 1 0 1 : 'nuevo valor'
+Movimiento 14:
+1 1 0 1 0 1 0 : valor previo
+REPARANDO--------------
+0 0 1 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 1 0 1 0 1 0 : 'mismo valor'
+0 0 1 0 0 1 0 : 'nuevo valor'
+Movimiento 15:
+0 1 0 1 0 0 1 : valor previo
+REPARANDO--------------
+0 0 1 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 1 0 1 0 0 1 : 'mismo valor'
+0 0 1 0 0 1 0 : 'nuevo valor'
+Movimiento 16:
+1 0 1 1 0 1 0 : valor previo
+REPARANDO--------------
+0 1 1 0 0 0 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 0 1 1 0 1 0 : 'mismo valor'
+0 1 1 0 0 0 0 : 'nuevo valor'
+Movimiento 17:
+0 0 1 0 1 0 1 : valor previo
+REPARANDO--------------
+0 0 1 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 1 0 1 0 1 : 'mismo valor'
+0 0 1 0 0 1 0 : 'nuevo valor'
+Movimiento 18:
+0 0 0 1 0 1 1 : valor previo
+REPARANDO--------------
+0 0 1 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+0 0 0 1 0 1 1 : 'mismo valor'
+0 0 1 0 0 1 0 : 'nuevo valor'
+Movimiento 19:
+1 0 0 1 1 1 1 : valor previo
+REPARANDO--------------
+0 0 1 0 0 1 0 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+1 0 0 1 1 1 1 : 'mismo valor'
+0 0 1 0 0 1 0 : 'nuevo valor'
+### :DD ###
+
+REPARANDO--------------
+1 0 0 0 1 0 1 : antes de reparar
+0 0 1 1 1 0 0 : restriccion
+0 0 0 0 1 1 0 : restriccion
+La solucion es factible, no se reparó ninguna vez
+FIN REPARACION--------------
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 130
+Generacion 2: 130
+: best desp
+
+----------------------------------------------------------
+
+Mejor Solucion: 130
+Cambios obligatorios:2/2
+Cambios para mejor:2/2
+

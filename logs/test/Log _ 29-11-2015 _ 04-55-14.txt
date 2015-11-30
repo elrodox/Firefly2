@@ -1,0 +1,525 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 04-55-14
+
+Semilla: 1448783714160
+Cantidad de luciernagas: 20
+Numero de iteraciones: 500
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 100
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+### :DD ###
+Generacion 1: 50
+Generacion 2: 50
+Generacion 3: 50
+Generacion 4: 50
+Generacion 5: 50
+Generacion 6: 50
+Generacion 7: 50
+Generacion 8: 50
+Generacion 9: 50
+Generacion 10: 50
+Generacion 11: 50
+Generacion 12: 50
+Generacion 13: 50
+Generacion 14: 50
+Generacion 15: 50
+Generacion 16: 50
+Generacion 17: 50
+Generacion 18: 50
+Generacion 19: 50
+Generacion 20: 50
+Generacion 21: 50
+Generacion 22: 50
+Generacion 23: 50
+Generacion 24: 50
+Generacion 25: 50
+Generacion 26: 50
+Generacion 27: 50
+Generacion 28: 50
+Generacion 29: 50
+Generacion 30: 50
+Generacion 31: 50
+Generacion 32: 50
+Generacion 33: 50
+Generacion 34: 50
+Generacion 35: 50
+Generacion 36: 50
+Generacion 37: 50
+Generacion 38: 50
+Generacion 39: 50
+Generacion 40: 50
+Generacion 41: 50
+Generacion 42: 50
+Generacion 43: 50
+Generacion 44: 50
+Generacion 45: 50
+Generacion 46: 50
+Generacion 47: 50
+Generacion 48: 50
+Generacion 49: 50
+Generacion 50: 50
+Generacion 51: 50
+Generacion 52: 50
+Generacion 53: 50
+Generacion 54: 50
+Generacion 55: 50
+Generacion 56: 50
+Generacion 57: 50
+Generacion 58: 50
+Generacion 59: 50
+Generacion 60: 50
+Generacion 61: 50
+Generacion 62: 50
+Generacion 63: 50
+Generacion 64: 50
+Generacion 65: 50
+Generacion 66: 50
+Generacion 67: 50
+Generacion 68: 50
+Generacion 69: 50
+Generacion 70: 50
+Generacion 71: 50
+Generacion 72: 50
+Generacion 73: 50
+Generacion 74: 50
+Generacion 75: 50
+Generacion 76: 50
+Generacion 77: 50
+Generacion 78: 50
+Generacion 79: 50
+Generacion 80: 50
+Generacion 81: 50
+Generacion 82: 50
+Generacion 83: 50
+Generacion 84: 50
+Generacion 85: 50
+Generacion 86: 50
+Generacion 87: 50
+Generacion 88: 50
+Generacion 89: 50
+Generacion 90: 50
+Generacion 91: 50
+Generacion 92: 50
+Generacion 93: 50
+Generacion 94: 50
+Generacion 95: 50
+Generacion 96: 50
+Generacion 97: 50
+Generacion 98: 50
+Generacion 99: 50
+Generacion 100: 50
+Generacion 101: 50
+Generacion 102: 50
+Generacion 103: 50
+Generacion 104: 50
+Generacion 105: 50
+Generacion 106: 50
+Generacion 107: 50
+Generacion 108: 50
+Generacion 109: 50
+Generacion 110: 50
+Generacion 111: 50
+Generacion 112: 50
+Generacion 113: 50
+Generacion 114: 50
+Generacion 115: 50
+Generacion 116: 50
+Generacion 117: 50
+Generacion 118: 50
+Generacion 119: 50
+Generacion 120: 50
+Generacion 121: 50
+Generacion 122: 50
+Generacion 123: 50
+Generacion 124: 50
+Generacion 125: 50
+Generacion 126: 50
+Generacion 127: 50
+Generacion 128: 50
+Generacion 129: 50
+Generacion 130: 50
+Generacion 131: 50
+Generacion 132: 50
+Generacion 133: 50
+Generacion 134: 50
+Generacion 135: 50
+Generacion 136: 50
+Generacion 137: 50
+Generacion 138: 50
+Generacion 139: 50
+Generacion 140: 50
+Generacion 141: 50
+Generacion 142: 50
+Generacion 143: 50
+Generacion 144: 50
+Generacion 145: 50
+Generacion 146: 50
+Generacion 147: 50
+Generacion 148: 50
+Generacion 149: 50
+Generacion 150: 50
+Generacion 151: 50
+Generacion 152: 50
+Generacion 153: 50
+Generacion 154: 50
+Generacion 155: 50
+Generacion 156: 50
+Generacion 157: 50
+Generacion 158: 50
+Generacion 159: 50
+Generacion 160: 50
+Generacion 161: 50
+Generacion 162: 50
+Generacion 163: 50
+Generacion 164: 50
+Generacion 165: 50
+Generacion 166: 50
+Generacion 167: 50
+Generacion 168: 50
+Generacion 169: 50
+Generacion 170: 50
+Generacion 171: 50
+Generacion 172: 50
+Generacion 173: 50
+Generacion 174: 50
+Generacion 175: 50
+Generacion 176: 50
+Generacion 177: 50
+Generacion 178: 50
+Generacion 179: 50
+Generacion 180: 50
+Generacion 181: 50
+Generacion 182: 50
+Generacion 183: 50
+Generacion 184: 50
+Generacion 185: 50
+Generacion 186: 50
+Generacion 187: 50
+Generacion 188: 50
+Generacion 189: 50
+Generacion 190: 50
+Generacion 191: 50
+Generacion 192: 50
+Generacion 193: 50
+Generacion 194: 50
+Generacion 195: 50
+Generacion 196: 50
+Generacion 197: 50
+Generacion 198: 50
+Generacion 199: 50
+Generacion 200: 50
+Generacion 201: 50
+Generacion 202: 50
+Generacion 203: 50
+Generacion 204: 50
+Generacion 205: 50
+Generacion 206: 50
+Generacion 207: 50
+Generacion 208: 50
+Generacion 209: 50
+Generacion 210: 50
+Generacion 211: 50
+Generacion 212: 50
+Generacion 213: 50
+Generacion 214: 50
+Generacion 215: 50
+Generacion 216: 50
+Generacion 217: 50
+Generacion 218: 50
+Generacion 219: 50
+Generacion 220: 50
+Generacion 221: 50
+Generacion 222: 50
+Generacion 223: 50
+Generacion 224: 50
+Generacion 225: 50
+Generacion 226: 50
+Generacion 227: 50
+Generacion 228: 50
+Generacion 229: 50
+Generacion 230: 50
+Generacion 231: 50
+Generacion 232: 50
+Generacion 233: 50
+Generacion 234: 50
+Generacion 235: 50
+Generacion 236: 50
+Generacion 237: 50
+Generacion 238: 50
+Generacion 239: 50
+Generacion 240: 50
+Generacion 241: 50
+Generacion 242: 50
+Generacion 243: 50
+Generacion 244: 50
+Generacion 245: 50
+Generacion 246: 50
+Generacion 247: 50
+Generacion 248: 50
+Generacion 249: 50
+Generacion 250: 50
+Generacion 251: 50
+Generacion 252: 50
+Generacion 253: 50
+Generacion 254: 50
+Generacion 255: 50
+Generacion 256: 50
+Generacion 257: 50
+Generacion 258: 50
+Generacion 259: 50
+Generacion 260: 50
+Generacion 261: 50
+Generacion 262: 50
+Generacion 263: 50
+Generacion 264: 50
+Generacion 265: 50
+Generacion 266: 50
+Generacion 267: 50
+Generacion 268: 50
+Generacion 269: 50
+Generacion 270: 50
+Generacion 271: 50
+Generacion 272: 50
+Generacion 273: 50
+Generacion 274: 50
+Generacion 275: 50
+Generacion 276: 50
+Generacion 277: 50
+Generacion 278: 50
+Generacion 279: 50
+Generacion 280: 50
+Generacion 281: 50
+Generacion 282: 50
+Generacion 283: 50
+Generacion 284: 50
+Generacion 285: 50
+Generacion 286: 50
+Generacion 287: 50
+Generacion 288: 50
+Generacion 289: 50
+Generacion 290: 50
+Generacion 291: 50
+Generacion 292: 50
+Generacion 293: 50
+Generacion 294: 50
+Generacion 295: 50
+Generacion 296: 50
+Generacion 297: 50
+Generacion 298: 50
+Generacion 299: 50
+Generacion 300: 50
+Generacion 301: 50
+Generacion 302: 50
+Generacion 303: 50
+Generacion 304: 50
+Generacion 305: 50
+Generacion 306: 50
+Generacion 307: 50
+Generacion 308: 50
+Generacion 309: 50
+Generacion 310: 50
+Generacion 311: 50
+Generacion 312: 50
+Generacion 313: 50
+Generacion 314: 50
+Generacion 315: 50
+Generacion 316: 50
+Generacion 317: 50
+Generacion 318: 50
+Generacion 319: 50
+Generacion 320: 50
+Generacion 321: 50
+Generacion 322: 50
+Generacion 323: 50
+Generacion 324: 50
+Generacion 325: 50
+Generacion 326: 50
+Generacion 327: 50
+Generacion 328: 50
+Generacion 329: 50
+Generacion 330: 50
+Generacion 331: 50
+Generacion 332: 50
+Generacion 333: 50
+Generacion 334: 50
+Generacion 335: 50
+Generacion 336: 50
+Generacion 337: 50
+Generacion 338: 50
+Generacion 339: 50
+Generacion 340: 50
+Generacion 341: 50
+Generacion 342: 50
+Generacion 343: 50
+Generacion 344: 50
+Generacion 345: 50
+Generacion 346: 50
+Generacion 347: 50
+Generacion 348: 50
+Generacion 349: 50
+Generacion 350: 50
+Generacion 351: 50
+Generacion 352: 50
+Generacion 353: 50
+Generacion 354: 50
+Generacion 355: 50
+Generacion 356: 50
+Generacion 357: 50
+Generacion 358: 50
+Generacion 359: 50
+Generacion 360: 50
+Generacion 361: 50
+Generacion 362: 50
+Generacion 363: 50
+Generacion 364: 50
+Generacion 365: 50
+Generacion 366: 50
+Generacion 367: 50
+Generacion 368: 50
+Generacion 369: 50
+Generacion 370: 50
+Generacion 371: 50
+Generacion 372: 50
+Generacion 373: 50
+Generacion 374: 50
+Generacion 375: 50
+Generacion 376: 50
+Generacion 377: 50
+Generacion 378: 50
+Generacion 379: 50
+Generacion 380: 50
+Generacion 381: 50
+Generacion 382: 50
+Generacion 383: 50
+Generacion 384: 50
+Generacion 385: 50
+Generacion 386: 50
+Generacion 387: 50
+Generacion 388: 50
+Generacion 389: 50
+Generacion 390: 50
+Generacion 391: 50
+Generacion 392: 50
+Generacion 393: 50
+Generacion 394: 50
+Generacion 395: 50
+Generacion 396: 50
+Generacion 397: 50
+Generacion 398: 50
+Generacion 399: 50
+Generacion 400: 50
+Generacion 401: 50
+Generacion 402: 50
+Generacion 403: 50
+Generacion 404: 50
+Generacion 405: 50
+Generacion 406: 50
+Generacion 407: 50
+Generacion 408: 50
+Generacion 409: 50
+Generacion 410: 50
+Generacion 411: 50
+Generacion 412: 50
+Generacion 413: 50
+Generacion 414: 50
+Generacion 415: 50
+Generacion 416: 50
+Generacion 417: 50
+Generacion 418: 50
+Generacion 419: 50
+Generacion 420: 50
+Generacion 421: 50
+Generacion 422: 50
+Generacion 423: 50
+Generacion 424: 50
+Generacion 425: 50
+Generacion 426: 50
+Generacion 427: 50
+Generacion 428: 50
+Generacion 429: 50
+Generacion 430: 50
+Generacion 431: 50
+Generacion 432: 50
+Generacion 433: 50
+Generacion 434: 50
+Generacion 435: 50
+Generacion 436: 50
+Generacion 437: 50
+Generacion 438: 50
+Generacion 439: 50
+Generacion 440: 50
+Generacion 441: 50
+Generacion 442: 50
+Generacion 443: 50
+Generacion 444: 50
+Generacion 445: 50
+Generacion 446: 50
+Generacion 447: 50
+Generacion 448: 50
+Generacion 449: 50
+Generacion 450: 50
+Generacion 451: 50
+Generacion 452: 50
+Generacion 453: 50
+Generacion 454: 50
+Generacion 455: 50
+Generacion 456: 50
+Generacion 457: 50
+Generacion 458: 50
+Generacion 459: 50
+Generacion 460: 50
+Generacion 461: 50
+Generacion 462: 50
+Generacion 463: 50
+Generacion 464: 50
+Generacion 465: 50
+Generacion 466: 50
+Generacion 467: 50
+Generacion 468: 50
+Generacion 469: 50
+Generacion 470: 50
+Generacion 471: 50
+Generacion 472: 50
+Generacion 473: 50
+Generacion 474: 50
+Generacion 475: 50
+Generacion 476: 50
+Generacion 477: 50
+Generacion 478: 50
+Generacion 479: 50
+Generacion 480: 50
+Generacion 481: 50
+Generacion 482: 50
+Generacion 483: 50
+Generacion 484: 50
+Generacion 485: 50
+Generacion 486: 50
+Generacion 487: 50
+Generacion 488: 50
+Generacion 489: 50
+Generacion 490: 50
+Generacion 491: 50
+Generacion 492: 50
+Generacion 493: 50
+Generacion 494: 50
+Generacion 495: 50
+Generacion 496: 50
+Generacion 497: 50
+Generacion 498: 50
+Generacion 499: 50
+Generacion 500: 50
+----------------------------------------------------------
+
+Mejor Solucion: 50
+Cambios obligatorios:0/500
+Cambios para mejor:1/500
+

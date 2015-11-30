@@ -1,0 +1,2228 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 03-48-59
+
+Semilla: 1448779739659
+Cantidad de luciernagas: 20
+Numero de iteraciones: 100
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 3
+Logs normales: true
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Leyendo instancia: test
+Se ha leido una Matriz de: 2x7
+Generando luciernagas
+Generacion 0: 60
+
+Comenzando iteraciones...
+Movimiento 1: 70 --- 180
+Movimiento 2: 70 --- 180
+Movimiento 3: 80 --- 180
+Movimiento 4: 80 :DD 40
+Movimiento 5: 100 :DD 40
+Movimiento 6: 110 :DD 90
+Movimiento 7: 110 :DD 90
+Movimiento 8: 110 :DD 40
+Movimiento 9: 120 :DD 100
+Movimiento 10: 120 :DD 40
+Movimiento 11: 120 --- 170
+Movimiento 12: 130 --- 170
+Movimiento 13: 130 --- 180
+Movimiento 14: 160 :DD 120
+Movimiento 15: 160 :DD 120
+Movimiento 16: 160 :DD 120
+Movimiento 17: 190 :DD 120
+Movimiento 18: 230 :DD 120
+Movimiento 19: 240 :DD 120
+### :DD ###
+Generacion 1: 40
+
+Movimiento 1: 40 --- 160
+Movimiento 2: 40 --- 160
+Movimiento 3: 40 --- 160
+Movimiento 4: 60 --- 190
+Movimiento 5: 70 --- 190
+Movimiento 6: 70 --- 140
+Movimiento 7: 80 --- 120
+Movimiento 8: 90 --- 150
+Movimiento 9: 90 --- 150
+Movimiento 10: 100 --- 140
+Movimiento 11: 120 --- 120
+Movimiento 12: 120 --- 130
+Movimiento 13: 120 :DD 60
+Movimiento 14: 120 :DD 60
+Movimiento 15: 120 :DD 60
+Movimiento 16: 120 :DD 60
+Movimiento 17: 120 :DD 60
+Movimiento 18: 130 :DD 60
+Movimiento 19: 130 :DD 60
+Generacion 2: 40
+
+Movimiento 1: 40 --- 150
+Movimiento 2: 40 --- 150
+Movimiento 3: 40 --- 150
+Movimiento 4: 60 --- 140
+Movimiento 5: 60 --- 90
+Movimiento 6: 60 --- 90
+Movimiento 7: 60 --- 90
+Movimiento 8: 60 --- 90
+Movimiento 9: 60 --- 130
+Movimiento 10: 60 --- 130
+Movimiento 11: 60 --- 130
+Movimiento 12: 70 --- 130
+Movimiento 13: 70 --- 130
+Movimiento 14: 80 --- 130
+Movimiento 15: 90 --- 100
+Movimiento 16: 90 --- 100
+Movimiento 17: 100 :DD 0
+Movimiento 18: 120 :DD 0
+Movimiento 19: 120 :DD 10
+### :DD ###
+Generacion 3: 0
+
+Movimiento 1: 0 --- 10
+Movimiento 2: 10 :DD 0
+Movimiento 3: 40 :DD 10
+Movimiento 4: 40 :DD 10
+Movimiento 5: 40 --- 190
+Movimiento 6: 40 --- 190
+Movimiento 7: 60 --- 130
+Movimiento 8: 60 --- 180
+Movimiento 9: 60 --- 180
+Movimiento 10: 60 --- 180
+Movimiento 11: 60 --- 180
+Movimiento 12: 60 --- 180
+Movimiento 13: 60 --- 60
+Movimiento 14: 60 --- 60
+Movimiento 15: 70 :DD 20
+Movimiento 16: 70 :DD 20
+Movimiento 17: 80 :DD 60
+Movimiento 18: 90 --- 160
+Movimiento 19: 90 --- 160
+Generacion 4: 0
+
+Movimiento 1: 0 --- 210
+Movimiento 2: 0 --- 210
+Movimiento 3: 10 --- 210
+Movimiento 4: 10 --- 210
+Movimiento 5: 20 --- 210
+Movimiento 6: 20 --- 210
+Movimiento 7: 40 --- 80
+Movimiento 8: 40 --- 80
+Movimiento 9: 60 --- 70
+Movimiento 10: 60 --- 120
+Movimiento 11: 60 --- 120
+Movimiento 12: 60 --- 120
+Movimiento 13: 60 --- 120
+Movimiento 14: 60 --- 120
+Movimiento 15: 60 --- 120
+Movimiento 16: 60 --- 120
+Movimiento 17: 60 --- 170
+Movimiento 18: 90 --- 170
+Movimiento 19: 90 --- 170
+Generacion 5: 0
+
+Movimiento 1: 0 --- 170
+Movimiento 2: 0 --- 170
+Movimiento 3: 10 --- 170
+Movimiento 4: 10 --- 170
+Movimiento 5: 20 --- 50
+Movimiento 6: 20 --- 50
+Movimiento 7: 40 --- 50
+Movimiento 8: 40 --- 50
+Movimiento 9: 60 :DD 50
+Movimiento 10: 60 :DD 50
+Movimiento 11: 60 :DD 50
+Movimiento 12: 60 :DD 50
+Movimiento 13: 60 :DD 50
+Movimiento 14: 60 :DD 50
+Movimiento 15: 60 :DD 50
+Movimiento 16: 60 :DD 30
+Movimiento 17: 60 :DD 50
+Movimiento 18: 90 :DD 50
+Movimiento 19: 90 :DD 50
+Generacion 6: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 130
+
+Movimiento 1: 0 --- 50
+Movimiento 2: 0 --- 50
+Movimiento 3: 10 --- 40
+Movimiento 4: 10 --- 40
+Movimiento 5: 20 --- 40
+Movimiento 6: 20 --- 40
+Movimiento 7: 30 --- 40
+Movimiento 8: 40 :DD 0
+Movimiento 9: 40 :DD 0
+Movimiento 10: 50 :DD 40
+Movimiento 11: 50 :DD 40
+Movimiento 12: 50 :DD 40
+Movimiento 13: 50 :DD 40
+Movimiento 14: 50 --- 160
+Movimiento 15: 50 --- 160
+Movimiento 16: 50 --- 160
+Movimiento 17: 50 --- 160
+Movimiento 18: 50 --- 160
+Movimiento 19: 50 --- 160
+### :DD ###
+Generacion 7: 0
+
+Movimiento 1: 0 --- 160
+Movimiento 2: 0 --- 160
+Movimiento 3: 0 --- 160
+Movimiento 4: 10 --- 160
+Movimiento 5: 10 --- 100
+Movimiento 6: 20 --- 100
+Movimiento 7: 20 --- 100
+Movimiento 8: 30 --- 100
+Movimiento 9: 40 --- 100
+Movimiento 10: 40 --- 100
+Movimiento 11: 40 --- 100
+Movimiento 12: 40 --- 100
+Movimiento 13: 50 --- 100
+Movimiento 14: 50 --- 100
+Movimiento 15: 50 --- 60
+Movimiento 16: 50 --- 110
+Movimiento 17: 50 --- 110
+Movimiento 18: 50 --- 110
+Movimiento 19: 130 :DD 110
+Generacion 8: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 10 --- 110
+Movimiento 5: 10 --- 110
+Movimiento 6: 20 --- 110
+Movimiento 7: 20 --- 110
+Movimiento 8: 30 --- 240
+Movimiento 9: 40 --- 270
+Movimiento 10: 40 --- 270
+Movimiento 11: 40 --- 270
+Movimiento 12: 40 --- 270
+Movimiento 13: 50 --- 220
+Movimiento 14: 50 --- 220
+Movimiento 15: 50 --- 220
+Movimiento 16: 50 --- 240
+Movimiento 17: 50 --- 240
+Movimiento 18: 50 --- 240
+Movimiento 19: 110 --- 220
+Generacion 9: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 10 --- 110
+Movimiento 5: 10 --- 110
+Movimiento 6: 20 --- 110
+Movimiento 7: 20 --- 110
+Movimiento 8: 30 --- 110
+Movimiento 9: 40 --- 70
+Movimiento 10: 40 --- 70
+Movimiento 11: 40 --- 70
+Movimiento 12: 40 --- 70
+Movimiento 13: 50 --- 110
+Movimiento 14: 50 --- 110
+Movimiento 15: 50 --- 160
+Movimiento 16: 50 --- 160
+Movimiento 17: 50 --- 160
+Movimiento 18: 50 --- 160
+Movimiento 19: 110 --- 120
+Generacion 10: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 100
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 140
+Movimiento 3: 0 --- 140
+Movimiento 4: 10 --- 140
+Movimiento 5: 10 --- 140
+Movimiento 6: 20 --- 140
+Movimiento 7: 20 --- 140
+Movimiento 8: 30 --- 140
+Movimiento 9: 40 --- 140
+Movimiento 10: 40 --- 140
+Movimiento 11: 40 --- 140
+Movimiento 12: 40 --- 140
+Movimiento 13: 50 --- 140
+Movimiento 14: 50 --- 140
+Movimiento 15: 50 --- 130
+Movimiento 16: 50 --- 110
+Movimiento 17: 50 --- 110
+Movimiento 18: 50 --- 110
+Movimiento 19: 110 --- 130
+### :DD ###
+Generacion 11: 0
+
+Movimiento 1: 0 --- 130
+Movimiento 2: 0 --- 130
+Movimiento 3: 10 --- 130
+Movimiento 4: 10 --- 130
+Movimiento 5: 20 --- 110
+Movimiento 6: 20 --- 110
+Movimiento 7: 30 --- 130
+Movimiento 8: 40 --- 130
+Movimiento 9: 40 --- 130
+Movimiento 10: 40 --- 130
+Movimiento 11: 40 --- 160
+Movimiento 12: 50 --- 200
+Movimiento 13: 50 --- 200
+Movimiento 14: 50 --- 200
+Movimiento 15: 50 --- 200
+Movimiento 16: 50 --- 200
+Movimiento 17: 50 --- 200
+Movimiento 18: 100 --- 210
+Movimiento 19: 110 --- 130
+Generacion 12: 0
+
+Movimiento 1: 0 --- 240
+Movimiento 2: 0 --- 240
+Movimiento 3: 10 --- 230
+Movimiento 4: 10 --- 230
+Movimiento 5: 20 --- 220
+Movimiento 6: 20 --- 220
+Movimiento 7: 30 --- 240
+Movimiento 8: 40 --- 240
+Movimiento 9: 40 --- 240
+Movimiento 10: 40 --- 240
+Movimiento 11: 40 --- 240
+Movimiento 12: 50 --- 190
+Movimiento 13: 50 --- 190
+Movimiento 14: 50 --- 190
+Movimiento 15: 50 --- 70
+Movimiento 16: 50 --- 70
+Movimiento 17: 50 --- 70
+Movimiento 18: 100 :DD 60
+Movimiento 19: 110 :DD 70
+Generacion 13: 0
+
+Movimiento 1: 0 --- 70
+Movimiento 2: 0 --- 70
+Movimiento 3: 10 --- 60
+Movimiento 4: 10 --- 60
+Movimiento 5: 20 --- 70
+Movimiento 6: 20 --- 70
+Movimiento 7: 30 --- 70
+Movimiento 8: 40 --- 70
+Movimiento 9: 40 --- 70
+Movimiento 10: 40 --- 70
+Movimiento 11: 40 --- 70
+Movimiento 12: 50 --- 70
+Movimiento 13: 50 --- 70
+Movimiento 14: 50 --- 180
+Movimiento 15: 50 --- 160
+Movimiento 16: 50 --- 160
+Movimiento 17: 50 --- 160
+Movimiento 18: 60 --- 120
+Movimiento 19: 70 --- 110
+Generacion 14: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 170
+
+Movimiento 1: 0 --- 170
+Movimiento 2: 0 --- 170
+Movimiento 3: 10 --- 170
+Movimiento 4: 10 --- 170
+Movimiento 5: 20 --- 150
+Movimiento 6: 20 --- 150
+Movimiento 7: 30 --- 170
+Movimiento 8: 40 --- 130
+Movimiento 9: 40 --- 130
+Movimiento 10: 40 --- 130
+Movimiento 11: 40 --- 120
+Movimiento 12: 50 --- 120
+Movimiento 13: 50 --- 120
+Movimiento 14: 50 --- 120
+Movimiento 15: 50 --- 120
+Movimiento 16: 50 --- 120
+Movimiento 17: 50 --- 120
+Movimiento 18: 60 --- 120
+Movimiento 19: 70 --- 120
+### :DD ###
+Generacion 15: 0
+
+Movimiento 1: 0 --- 130
+Movimiento 2: 10 --- 120
+Movimiento 3: 10 --- 120
+Movimiento 4: 20 --- 130
+Movimiento 5: 20 --- 130
+Movimiento 6: 30 --- 130
+Movimiento 7: 40 --- 130
+Movimiento 8: 40 --- 130
+Movimiento 9: 40 --- 130
+Movimiento 10: 40 --- 130
+Movimiento 11: 50 --- 130
+Movimiento 12: 50 --- 130
+Movimiento 13: 50 --- 130
+Movimiento 14: 50 :DD 10
+Movimiento 15: 50 :DD 10
+Movimiento 16: 50 :DD 10
+Movimiento 17: 60 :DD 10
+Movimiento 18: 70 :DD 0
+Movimiento 19: 170 :DD 0
+Generacion 16: 0
+
+Movimiento 1: 0 --- 10
+Movimiento 2: 0 --- 10
+Movimiento 3: 0 --- 10
+Movimiento 4: 10 :DD 0
+Movimiento 5: 10 :DD 0
+Movimiento 6: 10 :DD 0
+Movimiento 7: 10 :DD 0
+Movimiento 8: 10 :DD 0
+Movimiento 9: 10 :DD 0
+Movimiento 10: 20 :DD 10
+Movimiento 11: 20 :DD 10
+Movimiento 12: 30 :DD 10
+Movimiento 13: 40 :DD 10
+Movimiento 14: 40 :DD 10
+Movimiento 15: 40 :DD 10
+Movimiento 16: 40 --- 260
+Movimiento 17: 50 --- 210
+Movimiento 18: 50 --- 210
+Movimiento 19: 50 --- 210
+Generacion 17: 0
+
+Movimiento 1: 0 --- 260
+Movimiento 2: 0 --- 260
+Movimiento 3: 0 --- 260
+Movimiento 4: 0 --- 260
+Movimiento 5: 0 --- 260
+Movimiento 6: 0 --- 260
+Movimiento 7: 0 --- 260
+Movimiento 8: 0 --- 260
+Movimiento 9: 0 --- 260
+Movimiento 10: 10 --- 250
+Movimiento 11: 10 --- 250
+Movimiento 12: 10 --- 250
+Movimiento 13: 10 --- 250
+Movimiento 14: 10 --- 200
+Movimiento 15: 10 --- 200
+Movimiento 16: 40 --- 160
+Movimiento 17: 50 --- 200
+Movimiento 18: 50 --- 200
+Movimiento 19: 50 --- 200
+Generacion 18: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 130
+
+Movimiento 1: 0 --- 200
+Movimiento 2: 0 --- 200
+Movimiento 3: 0 --- 200
+Movimiento 4: 0 --- 200
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 0
+Movimiento 7: 0 --- 0
+Movimiento 8: 0 --- 0
+Movimiento 9: 0 --- 0
+Movimiento 10: 10 :DD 0
+Movimiento 11: 10 :DD 0
+Movimiento 12: 10 :DD 0
+Movimiento 13: 10 :DD 0
+Movimiento 14: 10 :DD 0
+Movimiento 15: 10 :DD 0
+Movimiento 16: 40 :DD 0
+Movimiento 17: 50 :DD 0
+Movimiento 18: 50 :DD 0
+Movimiento 19: 50 :DD 0
+### :DD ###
+Generacion 19: 0
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 0 --- 120
+Movimiento 11: 0 --- 120
+Movimiento 12: 0 --- 110
+Movimiento 13: 0 --- 110
+Movimiento 14: 0 --- 110
+Movimiento 15: 0 --- 110
+Movimiento 16: 0 --- 110
+Movimiento 17: 0 --- 110
+Movimiento 18: 0 --- 110
+Movimiento 19: 130 :DD 110
+Generacion 20: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 0 --- 110
+Movimiento 5: 0 --- 60
+Movimiento 6: 0 --- 60
+Movimiento 7: 0 --- 60
+Movimiento 8: 0 --- 60
+Movimiento 9: 0 --- 60
+Movimiento 10: 0 --- 60
+Movimiento 11: 0 --- 60
+Movimiento 12: 0 --- 60
+Movimiento 13: 0 --- 60
+Movimiento 14: 0 --- 60
+Movimiento 15: 0 --- 60
+Movimiento 16: 0 --- 60
+Movimiento 17: 0 --- 60
+Movimiento 18: 0 --- 210
+Movimiento 19: 110 --- 170
+Generacion 21: 0
+
+Movimiento 1: 0 --- 210
+Movimiento 2: 0 --- 210
+Movimiento 3: 0 --- 210
+Movimiento 4: 0 --- 210
+Movimiento 5: 0 --- 210
+Movimiento 6: 0 --- 210
+Movimiento 7: 0 --- 210
+Movimiento 8: 0 --- 210
+Movimiento 9: 0 --- 210
+Movimiento 10: 0 --- 50
+Movimiento 11: 0 --- 50
+Movimiento 12: 0 --- 50
+Movimiento 13: 0 --- 50
+Movimiento 14: 0 --- 50
+Movimiento 15: 0 --- 50
+Movimiento 16: 0 --- 50
+Movimiento 17: 0 --- 50
+Movimiento 18: 0 --- 50
+Movimiento 19: 110 :DD 90
+Generacion 22: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 70
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 0 --- 120
+Movimiento 11: 0 --- 150
+Movimiento 12: 0 --- 150
+Movimiento 13: 0 --- 150
+Movimiento 14: 0 --- 150
+Movimiento 15: 0 --- 150
+Movimiento 16: 0 --- 150
+Movimiento 17: 0 --- 150
+Movimiento 18: 0 --- 150
+Movimiento 19: 90 --- 100
+### :DD ###
+Generacion 23: 0
+
+Movimiento 1: 0 --- 150
+Movimiento 2: 0 --- 150
+Movimiento 3: 0 --- 150
+Movimiento 4: 0 --- 150
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 200
+Movimiento 7: 0 --- 200
+Movimiento 8: 0 --- 200
+Movimiento 9: 0 --- 200
+Movimiento 10: 0 --- 200
+Movimiento 11: 0 --- 200
+Movimiento 12: 0 --- 200
+Movimiento 13: 0 --- 200
+Movimiento 14: 0 --- 200
+Movimiento 15: 0 --- 200
+Movimiento 16: 0 --- 200
+Movimiento 17: 0 --- 200
+Movimiento 18: 70 --- 200
+Movimiento 19: 90 --- 200
+Generacion 24: 0
+
+Movimiento 1: 0 --- 90
+Movimiento 2: 0 --- 90
+Movimiento 3: 0 --- 90
+Movimiento 4: 0 --- 90
+Movimiento 5: 0 --- 90
+Movimiento 6: 0 --- 90
+Movimiento 7: 0 --- 90
+Movimiento 8: 0 --- 90
+Movimiento 9: 0 --- 90
+Movimiento 10: 0 --- 90
+Movimiento 11: 0 --- 90
+Movimiento 12: 0 --- 90
+Movimiento 13: 0 --- 90
+Movimiento 14: 0 --- 90
+Movimiento 15: 0 --- 90
+Movimiento 16: 0 --- 90
+Movimiento 17: 0 --- 170
+Movimiento 18: 70 --- 100
+Movimiento 19: 90 --- 170
+Generacion 25: 0
+
+Movimiento 1: 0 --- 170
+Movimiento 2: 0 --- 170
+Movimiento 3: 0 --- 170
+Movimiento 4: 0 --- 170
+Movimiento 5: 0 --- 170
+Movimiento 6: 0 --- 170
+Movimiento 7: 0 --- 170
+Movimiento 8: 0 --- 170
+Movimiento 9: 0 --- 170
+Movimiento 10: 0 --- 170
+Movimiento 11: 0 --- 170
+Movimiento 12: 0 --- 170
+Movimiento 13: 0 --- 20
+Movimiento 14: 0 --- 90
+Movimiento 15: 0 --- 90
+Movimiento 16: 0 --- 90
+Movimiento 17: 0 --- 90
+Movimiento 18: 70 --- 90
+Movimiento 19: 90 --- 90
+Generacion 26: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 180
+
+Movimiento 1: 0 --- 90
+Movimiento 2: 0 --- 90
+Movimiento 3: 0 --- 90
+Movimiento 4: 0 --- 90
+Movimiento 5: 0 --- 90
+Movimiento 6: 0 --- 90
+Movimiento 7: 0 --- 90
+Movimiento 8: 0 --- 90
+Movimiento 9: 0 --- 90
+Movimiento 10: 0 --- 90
+Movimiento 11: 0 --- 200
+Movimiento 12: 0 --- 200
+Movimiento 13: 0 --- 200
+Movimiento 14: 0 --- 200
+Movimiento 15: 0 --- 200
+Movimiento 16: 0 --- 200
+Movimiento 17: 0 --- 200
+Movimiento 18: 70 --- 200
+Movimiento 19: 90 --- 200
+### :DD ###
+Generacion 27: 0
+
+Movimiento 1: 0 --- 200
+Movimiento 2: 0 --- 200
+Movimiento 3: 0 --- 200
+Movimiento 4: 0 --- 200
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 200
+Movimiento 7: 0 --- 200
+Movimiento 8: 0 --- 200
+Movimiento 9: 0 --- 170
+Movimiento 10: 0 --- 170
+Movimiento 11: 0 --- 170
+Movimiento 12: 0 --- 170
+Movimiento 13: 0 --- 170
+Movimiento 14: 0 --- 170
+Movimiento 15: 0 --- 170
+Movimiento 16: 0 --- 170
+Movimiento 17: 70 --- 170
+Movimiento 18: 90 --- 170
+Movimiento 19: 180 :DD 100
+Generacion 28: 0
+
+Movimiento 1: 0 --- 170
+Movimiento 2: 0 --- 170
+Movimiento 3: 0 --- 170
+Movimiento 4: 0 --- 170
+Movimiento 5: 0 --- 170
+Movimiento 6: 0 --- 170
+Movimiento 7: 0 --- 180
+Movimiento 8: 0 --- 180
+Movimiento 9: 0 --- 180
+Movimiento 10: 0 --- 180
+Movimiento 11: 0 --- 180
+Movimiento 12: 0 --- 180
+Movimiento 13: 0 --- 180
+Movimiento 14: 0 --- 180
+Movimiento 15: 0 --- 180
+Movimiento 16: 0 --- 180
+Movimiento 17: 70 --- 180
+Movimiento 18: 90 --- 140
+Movimiento 19: 100 :DD 80
+Generacion 29: 0
+
+Movimiento 1: 0 --- 180
+Movimiento 2: 0 --- 180
+Movimiento 3: 0 --- 180
+Movimiento 4: 0 --- 200
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 200
+Movimiento 7: 0 --- 200
+Movimiento 8: 0 --- 200
+Movimiento 9: 0 --- 200
+Movimiento 10: 0 --- 200
+Movimiento 11: 0 --- 200
+Movimiento 12: 0 --- 200
+Movimiento 13: 0 --- 200
+Movimiento 14: 0 --- 200
+Movimiento 15: 0 --- 200
+Movimiento 16: 0 --- 200
+Movimiento 17: 70 --- 130
+Movimiento 18: 80 --- 150
+Movimiento 19: 90 --- 150
+Generacion 30: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 140
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 0 --- 120
+Movimiento 11: 0 --- 120
+Movimiento 12: 0 --- 120
+Movimiento 13: 0 --- 120
+Movimiento 14: 0 --- 120
+Movimiento 15: 0 --- 120
+Movimiento 16: 0 --- 120
+Movimiento 17: 70 --- 270
+Movimiento 18: 80 --- 240
+Movimiento 19: 90 --- 270
+### :DD ###
+Generacion 31: 0
+
+Movimiento 1: 0 --- 270
+Movimiento 2: 0 --- 270
+Movimiento 3: 0 --- 270
+Movimiento 4: 0 --- 270
+Movimiento 5: 0 --- 270
+Movimiento 6: 0 --- 270
+Movimiento 7: 0 --- 270
+Movimiento 8: 0 --- 270
+Movimiento 9: 0 --- 270
+Movimiento 10: 0 --- 270
+Movimiento 11: 0 --- 270
+Movimiento 12: 0 --- 270
+Movimiento 13: 0 --- 270
+Movimiento 14: 0 --- 110
+Movimiento 15: 0 --- 110
+Movimiento 16: 70 :DD 40
+Movimiento 17: 80 --- 110
+Movimiento 18: 90 :DD 70
+Movimiento 19: 140 :DD 40
+Generacion 32: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 0 --- 110
+Movimiento 5: 0 --- 110
+Movimiento 6: 0 --- 110
+Movimiento 7: 0 --- 110
+Movimiento 8: 0 --- 110
+Movimiento 9: 0 --- 110
+Movimiento 10: 0 --- 110
+Movimiento 11: 0 --- 110
+Movimiento 12: 0 --- 110
+Movimiento 13: 0 --- 110
+Movimiento 14: 0 --- 110
+Movimiento 15: 0 --- 110
+Movimiento 16: 40 --- 110
+Movimiento 17: 40 --- 110
+Movimiento 18: 70 :DD 40
+Movimiento 19: 80 --- 110
+Generacion 33: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 0 --- 110
+Movimiento 5: 0 --- 110
+Movimiento 6: 0 --- 110
+Movimiento 7: 0 --- 110
+Movimiento 8: 0 --- 110
+Movimiento 9: 0 --- 110
+Movimiento 10: 0 --- 120
+Movimiento 11: 0 --- 120
+Movimiento 12: 0 --- 120
+Movimiento 13: 0 --- 120
+Movimiento 14: 0 --- 120
+Movimiento 15: 0 --- 120
+Movimiento 16: 40 --- 120
+Movimiento 17: 40 --- 120
+Movimiento 18: 40 --- 120
+Movimiento 19: 80 --- 90
+Generacion 34: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 210
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 0 --- 120
+Movimiento 11: 0 --- 120
+Movimiento 12: 0 --- 120
+Movimiento 13: 0 --- 120
+Movimiento 14: 0 --- 120
+Movimiento 15: 0 --- 120
+Movimiento 16: 40 --- 120
+Movimiento 17: 40 --- 120
+Movimiento 18: 40 --- 120
+Movimiento 19: 80 --- 80
+### :DD ###
+Generacion 35: 0
+
+Movimiento 1: 0 --- 80
+Movimiento 2: 0 --- 80
+Movimiento 3: 0 --- 80
+Movimiento 4: 0 --- 80
+Movimiento 5: 0 --- 80
+Movimiento 6: 0 --- 80
+Movimiento 7: 0 --- 80
+Movimiento 8: 0 --- 80
+Movimiento 9: 0 --- 80
+Movimiento 10: 0 --- 80
+Movimiento 11: 0 --- 80
+Movimiento 12: 0 --- 80
+Movimiento 13: 0 --- 80
+Movimiento 14: 0 --- 80
+Movimiento 15: 40 --- 80
+Movimiento 16: 40 --- 80
+Movimiento 17: 40 --- 80
+Movimiento 18: 80 --- 80
+Movimiento 19: 210 :DD 60
+Generacion 36: 0
+
+Movimiento 1: 0 --- 80
+Movimiento 2: 0 --- 80
+Movimiento 3: 0 --- 80
+Movimiento 4: 0 --- 80
+Movimiento 5: 0 --- 80
+Movimiento 6: 0 --- 80
+Movimiento 7: 0 --- 80
+Movimiento 8: 0 --- 80
+Movimiento 9: 0 --- 80
+Movimiento 10: 0 --- 80
+Movimiento 11: 0 --- 80
+Movimiento 12: 0 --- 80
+Movimiento 13: 0 --- 80
+Movimiento 14: 0 --- 80
+Movimiento 15: 40 --- 80
+Movimiento 16: 40 --- 80
+Movimiento 17: 40 --- 80
+Movimiento 18: 60 --- 80
+Movimiento 19: 80 --- 80
+Generacion 37: 0
+
+Movimiento 1: 0 --- 80
+Movimiento 2: 0 --- 80
+Movimiento 3: 0 --- 50
+Movimiento 4: 0 --- 50
+Movimiento 5: 0 --- 50
+Movimiento 6: 0 --- 50
+Movimiento 7: 0 --- 50
+Movimiento 8: 0 --- 50
+Movimiento 9: 0 --- 50
+Movimiento 10: 0 --- 50
+Movimiento 11: 0 --- 50
+Movimiento 12: 0 --- 50
+Movimiento 13: 0 --- 50
+Movimiento 14: 0 --- 50
+Movimiento 15: 40 --- 50
+Movimiento 16: 40 --- 50
+Movimiento 17: 40 --- 50
+Movimiento 18: 60 :DD 50
+Movimiento 19: 80 :DD 50
+Generacion 38: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 130
+
+Movimiento 1: 0 --- 50
+Movimiento 2: 0 --- 50
+Movimiento 3: 0 --- 50
+Movimiento 4: 0 --- 50
+Movimiento 5: 0 --- 50
+Movimiento 6: 0 --- 50
+Movimiento 7: 0 --- 50
+Movimiento 8: 0 --- 50
+Movimiento 9: 0 --- 50
+Movimiento 10: 0 --- 50
+Movimiento 11: 0 --- 50
+Movimiento 12: 0 --- 50
+Movimiento 13: 0 --- 50
+Movimiento 14: 0 --- 50
+Movimiento 15: 40 --- 50
+Movimiento 16: 40 --- 50
+Movimiento 17: 40 --- 50
+Movimiento 18: 50 :DD 30
+Movimiento 19: 50 :DD 30
+### :DD ###
+Generacion 39: 0
+
+Movimiento 1: 0 --- 50
+Movimiento 2: 0 --- 50
+Movimiento 3: 0 --- 50
+Movimiento 4: 0 --- 270
+Movimiento 5: 0 --- 270
+Movimiento 6: 0 --- 270
+Movimiento 7: 0 --- 270
+Movimiento 8: 0 --- 270
+Movimiento 9: 0 --- 270
+Movimiento 10: 0 --- 270
+Movimiento 11: 0 --- 270
+Movimiento 12: 0 --- 270
+Movimiento 13: 0 --- 270
+Movimiento 14: 30 --- 240
+Movimiento 15: 30 --- 240
+Movimiento 16: 40 --- 270
+Movimiento 17: 40 --- 270
+Movimiento 18: 40 --- 270
+Movimiento 19: 130 --- 270
+Generacion 40: 0
+
+Movimiento 1: 0 --- 270
+Movimiento 2: 0 --- 270
+Movimiento 3: 0 --- 270
+Movimiento 4: 0 --- 270
+Movimiento 5: 0 --- 270
+Movimiento 6: 0 --- 270
+Movimiento 7: 0 --- 270
+Movimiento 8: 0 --- 270
+Movimiento 9: 0 --- 270
+Movimiento 10: 0 --- 270
+Movimiento 11: 0 --- 270
+Movimiento 12: 0 --- 270
+Movimiento 13: 0 --- 270
+Movimiento 14: 30 --- 240
+Movimiento 15: 30 --- 240
+Movimiento 16: 40 --- 270
+Movimiento 17: 40 --- 270
+Movimiento 18: 40 --- 270
+Movimiento 19: 130 --- 270
+Generacion 41: 0
+
+Movimiento 1: 0 --- 270
+Movimiento 2: 0 --- 270
+Movimiento 3: 0 --- 270
+Movimiento 4: 0 --- 270
+Movimiento 5: 0 --- 140
+Movimiento 6: 0 --- 140
+Movimiento 7: 0 --- 140
+Movimiento 8: 0 --- 140
+Movimiento 9: 0 --- 140
+Movimiento 10: 0 --- 140
+Movimiento 11: 0 --- 140
+Movimiento 12: 0 --- 120
+Movimiento 13: 0 --- 120
+Movimiento 14: 30 --- 120
+Movimiento 15: 30 --- 120
+Movimiento 16: 40 --- 120
+Movimiento 17: 40 --- 120
+Movimiento 18: 40 --- 120
+Movimiento 19: 130 :DD 120
+Generacion 42: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 150
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 240
+Movimiento 6: 0 --- 240
+Movimiento 7: 0 --- 240
+Movimiento 8: 0 --- 240
+Movimiento 9: 0 --- 240
+Movimiento 10: 0 --- 240
+Movimiento 11: 0 --- 240
+Movimiento 12: 0 --- 240
+Movimiento 13: 0 --- 240
+Movimiento 14: 30 --- 240
+Movimiento 15: 30 --- 240
+Movimiento 16: 40 --- 200
+Movimiento 17: 40 --- 200
+Movimiento 18: 40 --- 200
+Movimiento 19: 120 --- 200
+### :DD ###
+Generacion 43: 0
+
+Movimiento 1: 0 --- 240
+Movimiento 2: 0 --- 240
+Movimiento 3: 0 --- 240
+Movimiento 4: 0 --- 240
+Movimiento 5: 0 --- 240
+Movimiento 6: 0 --- 240
+Movimiento 7: 0 --- 240
+Movimiento 8: 0 --- 240
+Movimiento 9: 0 --- 240
+Movimiento 10: 0 --- 240
+Movimiento 11: 0 --- 240
+Movimiento 12: 0 --- 240
+Movimiento 13: 30 --- 240
+Movimiento 14: 30 --- 240
+Movimiento 15: 40 --- 200
+Movimiento 16: 40 --- 200
+Movimiento 17: 40 --- 200
+Movimiento 18: 120 --- 200
+Movimiento 19: 150 --- 190
+Generacion 44: 0
+
+Movimiento 1: 0 --- 240
+Movimiento 2: 0 --- 240
+Movimiento 3: 0 --- 240
+Movimiento 4: 0 --- 240
+Movimiento 5: 0 --- 240
+Movimiento 6: 0 --- 240
+Movimiento 7: 0 --- 240
+Movimiento 8: 0 --- 30
+Movimiento 9: 0 --- 30
+Movimiento 10: 0 --- 30
+Movimiento 11: 0 --- 30
+Movimiento 12: 0 --- 30
+Movimiento 13: 30 --- 30
+Movimiento 14: 30 --- 30
+Movimiento 15: 40 :DD 30
+Movimiento 16: 40 :DD 30
+Movimiento 17: 40 :DD 30
+Movimiento 18: 120 :DD 30
+Movimiento 19: 150 :DD 30
+Generacion 45: 0
+
+Movimiento 1: 0 --- 30
+Movimiento 2: 0 --- 30
+Movimiento 3: 0 --- 30
+Movimiento 4: 0 --- 30
+Movimiento 5: 0 --- 30
+Movimiento 6: 0 --- 30
+Movimiento 7: 0 --- 30
+Movimiento 8: 0 --- 30
+Movimiento 9: 0 --- 30
+Movimiento 10: 0 --- 30
+Movimiento 11: 0 --- 30
+Movimiento 12: 0 --- 30
+Movimiento 13: 30 --- 30
+Movimiento 14: 30 --- 30
+Movimiento 15: 30 --- 30
+Movimiento 16: 30 --- 30
+Movimiento 17: 30 --- 30
+Movimiento 18: 30 --- 30
+Movimiento 19: 30 --- 30
+Generacion 46: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 180
+
+Movimiento 1: 0 --- 30
+Movimiento 2: 0 --- 30
+Movimiento 3: 0 --- 30
+Movimiento 4: 0 --- 140
+Movimiento 5: 0 --- 140
+Movimiento 6: 0 --- 140
+Movimiento 7: 0 --- 140
+Movimiento 8: 0 --- 140
+Movimiento 9: 0 --- 140
+Movimiento 10: 0 --- 140
+Movimiento 11: 0 --- 140
+Movimiento 12: 0 --- 140
+Movimiento 13: 30 --- 140
+Movimiento 14: 30 --- 140
+Movimiento 15: 30 --- 140
+Movimiento 16: 30 --- 140
+Movimiento 17: 30 --- 140
+Movimiento 18: 30 --- 140
+Movimiento 19: 30 --- 140
+### :DD ###
+Generacion 47: 0
+
+Movimiento 1: 0 --- 140
+Movimiento 2: 0 --- 140
+Movimiento 3: 0 --- 140
+Movimiento 4: 0 --- 140
+Movimiento 5: 0 --- 140
+Movimiento 6: 0 --- 140
+Movimiento 7: 0 --- 140
+Movimiento 8: 0 --- 140
+Movimiento 9: 0 --- 140
+Movimiento 10: 0 --- 140
+Movimiento 11: 0 --- 140
+Movimiento 12: 30 --- 140
+Movimiento 13: 30 --- 140
+Movimiento 14: 30 --- 140
+Movimiento 15: 30 --- 140
+Movimiento 16: 30 --- 140
+Movimiento 17: 30 --- 140
+Movimiento 18: 30 --- 140
+Movimiento 19: 180 :DD 50
+Generacion 48: 0
+
+Movimiento 1: 0 --- 140
+Movimiento 2: 0 --- 140
+Movimiento 3: 0 --- 140
+Movimiento 4: 0 --- 140
+Movimiento 5: 0 --- 140
+Movimiento 6: 0 --- 140
+Movimiento 7: 0 --- 140
+Movimiento 8: 0 --- 140
+Movimiento 9: 0 --- 140
+Movimiento 10: 0 --- 140
+Movimiento 11: 0 --- 90
+Movimiento 12: 30 --- 90
+Movimiento 13: 30 --- 90
+Movimiento 14: 30 --- 90
+Movimiento 15: 30 --- 90
+Movimiento 16: 30 --- 90
+Movimiento 17: 30 --- 90
+Movimiento 18: 30 --- 90
+Movimiento 19: 50 --- 90
+Generacion 49: 0
+
+Movimiento 1: 0 --- 90
+Movimiento 2: 0 --- 90
+Movimiento 3: 0 --- 90
+Movimiento 4: 0 --- 90
+Movimiento 5: 0 --- 90
+Movimiento 6: 0 --- 90
+Movimiento 7: 0 --- 90
+Movimiento 8: 0 --- 90
+Movimiento 9: 0 --- 90
+Movimiento 10: 0 --- 130
+Movimiento 11: 0 --- 130
+Movimiento 12: 30 --- 130
+Movimiento 13: 30 --- 130
+Movimiento 14: 30 --- 130
+Movimiento 15: 30 --- 130
+Movimiento 16: 30 --- 130
+Movimiento 17: 30 --- 130
+Movimiento 18: 30 --- 130
+Movimiento 19: 50 --- 130
+Generacion 50: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 70
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 0 --- 120
+Movimiento 11: 0 --- 120
+Movimiento 12: 30 --- 80
+Movimiento 13: 30 --- 80
+Movimiento 14: 30 --- 80
+Movimiento 15: 30 --- 80
+Movimiento 16: 30 --- 80
+Movimiento 17: 30 --- 80
+Movimiento 18: 30 --- 80
+Movimiento 19: 50 --- 120
+### :DD ###
+Generacion 51: 0
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 0 --- 120
+Movimiento 11: 30 --- 120
+Movimiento 12: 30 --- 120
+Movimiento 13: 30 --- 120
+Movimiento 14: 30 --- 120
+Movimiento 15: 30 --- 120
+Movimiento 16: 30 --- 120
+Movimiento 17: 30 --- 120
+Movimiento 18: 50 --- 120
+Movimiento 19: 70 --- 80
+Generacion 52: 0
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 30
+Movimiento 7: 0 --- 30
+Movimiento 8: 0 --- 30
+Movimiento 9: 0 --- 30
+Movimiento 10: 0 --- 30
+Movimiento 11: 30 --- 30
+Movimiento 12: 30 --- 30
+Movimiento 13: 30 --- 30
+Movimiento 14: 30 --- 30
+Movimiento 15: 30 --- 30
+Movimiento 16: 30 --- 30
+Movimiento 17: 30 --- 30
+Movimiento 18: 50 :DD 30
+Movimiento 19: 70 :DD 0
+Generacion 53: 0
+
+Movimiento 1: 0 --- 30
+Movimiento 2: 0 --- 30
+Movimiento 3: 0 --- 30
+Movimiento 4: 0 --- 30
+Movimiento 5: 0 --- 30
+Movimiento 6: 0 --- 30
+Movimiento 7: 0 --- 30
+Movimiento 8: 0 --- 30
+Movimiento 9: 0 --- 30
+Movimiento 10: 0 --- 30
+Movimiento 11: 0 --- 30
+Movimiento 12: 30 --- 30
+Movimiento 13: 30 --- 30
+Movimiento 14: 30 --- 30
+Movimiento 15: 30 --- 30
+Movimiento 16: 30 --- 30
+Movimiento 17: 30 --- 30
+Movimiento 18: 30 --- 30
+Movimiento 19: 30 --- 30
+Generacion 54: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 100
+
+Movimiento 1: 0 --- 30
+Movimiento 2: 0 --- 30
+Movimiento 3: 0 --- 30
+Movimiento 4: 0 --- 30
+Movimiento 5: 0 --- 30
+Movimiento 6: 0 --- 30
+Movimiento 7: 0 --- 30
+Movimiento 8: 0 --- 30
+Movimiento 9: 0 --- 30
+Movimiento 10: 0 --- 30
+Movimiento 11: 0 --- 30
+Movimiento 12: 30 :DD 0
+Movimiento 13: 30 :DD 0
+Movimiento 14: 30 --- 150
+Movimiento 15: 30 --- 150
+Movimiento 16: 30 --- 150
+Movimiento 17: 30 --- 150
+Movimiento 18: 30 --- 150
+Movimiento 19: 30 --- 150
+### :DD ###
+Generacion 55: 0
+
+Movimiento 1: 0 --- 180
+Movimiento 2: 0 --- 180
+Movimiento 3: 0 --- 180
+Movimiento 4: 0 --- 180
+Movimiento 5: 0 --- 180
+Movimiento 6: 0 --- 180
+Movimiento 7: 0 --- 180
+Movimiento 8: 0 --- 180
+Movimiento 9: 0 --- 180
+Movimiento 10: 0 --- 180
+Movimiento 11: 0 --- 180
+Movimiento 12: 0 --- 180
+Movimiento 13: 30 --- 100
+Movimiento 14: 30 --- 100
+Movimiento 15: 30 --- 100
+Movimiento 16: 30 --- 100
+Movimiento 17: 30 --- 100
+Movimiento 18: 30 --- 100
+Movimiento 19: 100 --- 100
+Generacion 56: 0
+
+Movimiento 1: 0 --- 100
+Movimiento 2: 0 --- 100
+Movimiento 3: 0 --- 100
+Movimiento 4: 0 --- 100
+Movimiento 5: 0 --- 100
+Movimiento 6: 0 --- 100
+Movimiento 7: 0 --- 100
+Movimiento 8: 0 --- 100
+Movimiento 9: 0 --- 100
+Movimiento 10: 0 --- 100
+Movimiento 11: 0 --- 100
+Movimiento 12: 0 --- 100
+Movimiento 13: 30 --- 100
+Movimiento 14: 30 --- 100
+Movimiento 15: 30 --- 100
+Movimiento 16: 30 --- 100
+Movimiento 17: 30 --- 100
+Movimiento 18: 30 --- 100
+Movimiento 19: 100 --- 100
+Generacion 57: 0
+
+Movimiento 1: 0 --- 100
+Movimiento 2: 0 --- 100
+Movimiento 3: 0 --- 100
+Movimiento 4: 0 --- 100
+Movimiento 5: 0 --- 100
+Movimiento 6: 0 --- 100
+Movimiento 7: 0 --- 100
+Movimiento 8: 0 --- 170
+Movimiento 9: 0 --- 170
+Movimiento 10: 0 --- 170
+Movimiento 11: 0 --- 170
+Movimiento 12: 0 --- 170
+Movimiento 13: 30 --- 170
+Movimiento 14: 30 --- 170
+Movimiento 15: 30 --- 170
+Movimiento 16: 30 --- 170
+Movimiento 17: 30 --- 110
+Movimiento 18: 30 --- 110
+Movimiento 19: 100 :DD 40
+Generacion 58: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 230
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 0 --- 110
+Movimiento 5: 0 --- 110
+Movimiento 6: 0 --- 110
+Movimiento 7: 0 --- 110
+Movimiento 8: 0 --- 110
+Movimiento 9: 0 --- 110
+Movimiento 10: 0 --- 110
+Movimiento 11: 0 --- 110
+Movimiento 12: 0 --- 110
+Movimiento 13: 30 --- 110
+Movimiento 14: 30 --- 110
+Movimiento 15: 30 --- 110
+Movimiento 16: 30 --- 110
+Movimiento 17: 30 --- 110
+Movimiento 18: 30 --- 110
+Movimiento 19: 40 --- 70
+### :DD ###
+Generacion 59: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 0 --- 110
+Movimiento 5: 0 --- 110
+Movimiento 6: 0 --- 110
+Movimiento 7: 0 --- 110
+Movimiento 8: 0 --- 110
+Movimiento 9: 0 --- 110
+Movimiento 10: 0 --- 110
+Movimiento 11: 0 --- 110
+Movimiento 12: 30 --- 110
+Movimiento 13: 30 --- 110
+Movimiento 14: 30 --- 110
+Movimiento 15: 30 --- 150
+Movimiento 16: 30 --- 150
+Movimiento 17: 30 --- 150
+Movimiento 18: 40 --- 150
+Movimiento 19: 230 :DD 90
+Generacion 60: 0
+
+Movimiento 1: 0 --- 150
+Movimiento 2: 0 --- 150
+Movimiento 3: 0 --- 150
+Movimiento 4: 0 --- 190
+Movimiento 5: 0 --- 190
+Movimiento 6: 0 --- 190
+Movimiento 7: 0 --- 190
+Movimiento 8: 0 --- 190
+Movimiento 9: 0 --- 190
+Movimiento 10: 0 --- 190
+Movimiento 11: 0 --- 190
+Movimiento 12: 30 --- 160
+Movimiento 13: 30 --- 160
+Movimiento 14: 30 --- 160
+Movimiento 15: 30 --- 160
+Movimiento 16: 30 --- 160
+Movimiento 17: 30 --- 160
+Movimiento 18: 40 --- 190
+Movimiento 19: 90 --- 160
+Generacion 61: 0
+
+Movimiento 1: 0 --- 50
+Movimiento 2: 0 --- 50
+Movimiento 3: 0 --- 50
+Movimiento 4: 0 --- 50
+Movimiento 5: 0 --- 50
+Movimiento 6: 0 --- 50
+Movimiento 7: 0 --- 50
+Movimiento 8: 0 --- 50
+Movimiento 9: 0 --- 50
+Movimiento 10: 0 --- 50
+Movimiento 11: 0 --- 50
+Movimiento 12: 30 :DD 20
+Movimiento 13: 30 :DD 20
+Movimiento 14: 30 :DD 20
+Movimiento 15: 30 :DD 20
+Movimiento 16: 30 :DD 20
+Movimiento 17: 30 :DD 20
+Movimiento 18: 40 --- 50
+Movimiento 19: 90 :DD 0
+Generacion 62: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 250
+
+Movimiento 1: 0 --- 130
+Movimiento 2: 0 --- 130
+Movimiento 3: 0 --- 130
+Movimiento 4: 0 --- 130
+Movimiento 5: 0 --- 130
+Movimiento 6: 0 --- 130
+Movimiento 7: 0 --- 130
+Movimiento 8: 0 --- 130
+Movimiento 9: 0 --- 130
+Movimiento 10: 0 --- 130
+Movimiento 11: 0 --- 130
+Movimiento 12: 0 --- 130
+Movimiento 13: 20 --- 110
+Movimiento 14: 20 --- 110
+Movimiento 15: 20 --- 110
+Movimiento 16: 20 --- 110
+Movimiento 17: 20 --- 110
+Movimiento 18: 20 --- 110
+Movimiento 19: 40 --- 130
+### :DD ###
+Generacion 63: 0
+
+Movimiento 1: 0 --- 130
+Movimiento 2: 0 --- 130
+Movimiento 3: 0 --- 130
+Movimiento 4: 0 --- 130
+Movimiento 5: 0 --- 130
+Movimiento 6: 0 --- 130
+Movimiento 7: 0 --- 130
+Movimiento 8: 0 --- 130
+Movimiento 9: 0 --- 130
+Movimiento 10: 0 --- 130
+Movimiento 11: 0 --- 130
+Movimiento 12: 20 --- 110
+Movimiento 13: 20 --- 110
+Movimiento 14: 20 --- 40
+Movimiento 15: 20 --- 40
+Movimiento 16: 20 --- 40
+Movimiento 17: 20 --- 40
+Movimiento 18: 40 :DD 0
+Movimiento 19: 250 :DD 0
+Generacion 64: 0
+
+Movimiento 1: 0 --- 40
+Movimiento 2: 0 --- 40
+Movimiento 3: 0 --- 40
+Movimiento 4: 0 --- 40
+Movimiento 5: 0 --- 40
+Movimiento 6: 0 --- 40
+Movimiento 7: 0 --- 40
+Movimiento 8: 0 --- 40
+Movimiento 9: 0 --- 40
+Movimiento 10: 0 --- 40
+Movimiento 11: 0 --- 40
+Movimiento 12: 0 --- 40
+Movimiento 13: 0 --- 40
+Movimiento 14: 20 --- 40
+Movimiento 15: 20 --- 40
+Movimiento 16: 20 --- 40
+Movimiento 17: 20 --- 40
+Movimiento 18: 20 --- 40
+Movimiento 19: 20 --- 40
+Generacion 65: 0
+
+Movimiento 1: 0 --- 40
+Movimiento 2: 0 --- 40
+Movimiento 3: 0 --- 40
+Movimiento 4: 0 --- 40
+Movimiento 5: 0 --- 40
+Movimiento 6: 0 --- 60
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 0 --- 120
+Movimiento 11: 0 --- 120
+Movimiento 12: 0 --- 120
+Movimiento 13: 0 --- 120
+Movimiento 14: 20 --- 120
+Movimiento 15: 20 --- 120
+Movimiento 16: 20 --- 120
+Movimiento 17: 20 --- 120
+Movimiento 18: 20 --- 120
+Movimiento 19: 20 --- 120
+Generacion 66: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 90
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 0 --- 120
+Movimiento 11: 0 --- 120
+Movimiento 12: 0 --- 120
+Movimiento 13: 0 --- 120
+Movimiento 14: 20 --- 100
+Movimiento 15: 20 --- 100
+Movimiento 16: 20 --- 100
+Movimiento 17: 20 --- 100
+Movimiento 18: 20 --- 100
+Movimiento 19: 20 --- 100
+### :DD ###
+Generacion 67: 0
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 110
+Movimiento 9: 0 --- 110
+Movimiento 10: 0 --- 110
+Movimiento 11: 0 --- 110
+Movimiento 12: 0 --- 110
+Movimiento 13: 20 --- 110
+Movimiento 14: 20 --- 110
+Movimiento 15: 20 --- 110
+Movimiento 16: 20 --- 110
+Movimiento 17: 20 --- 110
+Movimiento 18: 20 --- 110
+Movimiento 19: 90 --- 110
+Generacion 68: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 0 --- 110
+Movimiento 5: 0 --- 110
+Movimiento 6: 0 --- 110
+Movimiento 7: 0 --- 270
+Movimiento 8: 0 --- 270
+Movimiento 9: 0 --- 270
+Movimiento 10: 0 --- 270
+Movimiento 11: 0 --- 270
+Movimiento 12: 0 --- 270
+Movimiento 13: 20 --- 270
+Movimiento 14: 20 --- 270
+Movimiento 15: 20 --- 270
+Movimiento 16: 20 --- 270
+Movimiento 17: 20 --- 270
+Movimiento 18: 20 --- 270
+Movimiento 19: 90 --- 270
+Generacion 69: 0
+
+Movimiento 1: 0 --- 270
+Movimiento 2: 0 --- 270
+Movimiento 3: 0 --- 270
+Movimiento 4: 0 --- 270
+Movimiento 5: 0 --- 270
+Movimiento 6: 0 --- 270
+Movimiento 7: 0 --- 270
+Movimiento 8: 0 --- 270
+Movimiento 9: 0 --- 270
+Movimiento 10: 0 --- 270
+Movimiento 11: 0 --- 270
+Movimiento 12: 0 --- 270
+Movimiento 13: 20 --- 270
+Movimiento 14: 20 --- 270
+Movimiento 15: 20 --- 270
+Movimiento 16: 20 --- 270
+Movimiento 17: 20 --- 270
+Movimiento 18: 20 --- 270
+Movimiento 19: 90 --- 270
+Generacion 70: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 130
+
+Movimiento 1: 0 --- 60
+Movimiento 2: 0 --- 60
+Movimiento 3: 0 --- 60
+Movimiento 4: 0 --- 60
+Movimiento 5: 0 --- 60
+Movimiento 6: 0 --- 60
+Movimiento 7: 0 --- 60
+Movimiento 8: 0 --- 60
+Movimiento 9: 0 --- 60
+Movimiento 10: 0 --- 60
+Movimiento 11: 0 --- 60
+Movimiento 12: 0 --- 60
+Movimiento 13: 20 --- 60
+Movimiento 14: 20 --- 60
+Movimiento 15: 20 --- 60
+Movimiento 16: 20 --- 60
+Movimiento 17: 20 --- 60
+Movimiento 18: 20 --- 60
+Movimiento 19: 90 :DD 60
+### :DD ###
+Generacion 71: 0
+
+Movimiento 1: 0 --- 80
+Movimiento 2: 0 --- 80
+Movimiento 3: 0 --- 80
+Movimiento 4: 0 --- 80
+Movimiento 5: 0 --- 80
+Movimiento 6: 0 --- 80
+Movimiento 7: 0 --- 80
+Movimiento 8: 0 --- 80
+Movimiento 9: 0 --- 80
+Movimiento 10: 0 --- 80
+Movimiento 11: 0 --- 80
+Movimiento 12: 20 --- 80
+Movimiento 13: 20 --- 80
+Movimiento 14: 20 --- 80
+Movimiento 15: 20 --- 80
+Movimiento 16: 20 --- 80
+Movimiento 17: 20 --- 80
+Movimiento 18: 60 --- 80
+Movimiento 19: 130 :DD 80
+Generacion 72: 0
+
+Movimiento 1: 0 --- 80
+Movimiento 2: 0 --- 80
+Movimiento 3: 0 --- 80
+Movimiento 4: 0 --- 80
+Movimiento 5: 0 --- 80
+Movimiento 6: 0 --- 80
+Movimiento 7: 0 --- 80
+Movimiento 8: 0 --- 80
+Movimiento 9: 0 --- 80
+Movimiento 10: 0 --- 80
+Movimiento 11: 0 --- 80
+Movimiento 12: 20 --- 80
+Movimiento 13: 20 --- 80
+Movimiento 14: 20 --- 80
+Movimiento 15: 20 --- 80
+Movimiento 16: 20 --- 80
+Movimiento 17: 20 --- 80
+Movimiento 18: 60 --- 70
+Movimiento 19: 80 :DD 70
+Generacion 73: 0
+
+Movimiento 1: 0 --- 70
+Movimiento 2: 0 --- 70
+Movimiento 3: 0 --- 70
+Movimiento 4: 0 --- 100
+Movimiento 5: 0 --- 100
+Movimiento 6: 0 --- 100
+Movimiento 7: 0 --- 100
+Movimiento 8: 0 --- 100
+Movimiento 9: 0 --- 100
+Movimiento 10: 0 --- 100
+Movimiento 11: 0 --- 100
+Movimiento 12: 20 --- 100
+Movimiento 13: 20 --- 100
+Movimiento 14: 20 --- 100
+Movimiento 15: 20 --- 100
+Movimiento 16: 20 --- 100
+Movimiento 17: 20 --- 100
+Movimiento 18: 60 --- 100
+Movimiento 19: 70 --- 100
+Generacion 74: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 140
+
+Movimiento 1: 0 --- 180
+Movimiento 2: 0 --- 180
+Movimiento 3: 0 --- 180
+Movimiento 4: 0 --- 180
+Movimiento 5: 0 --- 180
+Movimiento 6: 0 --- 180
+Movimiento 7: 0 --- 180
+Movimiento 8: 0 --- 180
+Movimiento 9: 0 --- 180
+Movimiento 10: 0 --- 180
+Movimiento 11: 0 --- 180
+Movimiento 12: 20 --- 160
+Movimiento 13: 20 --- 160
+Movimiento 14: 20 --- 160
+Movimiento 15: 20 --- 160
+Movimiento 16: 20 --- 160
+Movimiento 17: 20 --- 160
+Movimiento 18: 60 --- 120
+Movimiento 19: 70 --- 180
+### :DD ###
+Generacion 75: 0
+
+Movimiento 1: 0 --- 180
+Movimiento 2: 0 --- 180
+Movimiento 3: 0 --- 180
+Movimiento 4: 0 --- 180
+Movimiento 5: 0 --- 180
+Movimiento 6: 0 --- 180
+Movimiento 7: 0 --- 180
+Movimiento 8: 0 --- 180
+Movimiento 9: 0 --- 180
+Movimiento 10: 0 --- 180
+Movimiento 11: 20 --- 160
+Movimiento 12: 20 --- 160
+Movimiento 13: 20 --- 160
+Movimiento 14: 20 --- 160
+Movimiento 15: 20 --- 160
+Movimiento 16: 20 --- 160
+Movimiento 17: 60 --- 120
+Movimiento 18: 70 --- 180
+Movimiento 19: 140 --- 160
+Generacion 76: 0
+
+Movimiento 1: 0 --- 180
+Movimiento 2: 0 --- 180
+Movimiento 3: 0 --- 180
+Movimiento 4: 0 --- 180
+Movimiento 5: 0 --- 180
+Movimiento 6: 0 --- 180
+Movimiento 7: 0 --- 180
+Movimiento 8: 0 --- 180
+Movimiento 9: 0 --- 180
+Movimiento 10: 0 --- 180
+Movimiento 11: 20 --- 160
+Movimiento 12: 20 --- 160
+Movimiento 13: 20 --- 160
+Movimiento 14: 20 --- 160
+Movimiento 15: 20 --- 160
+Movimiento 16: 20 --- 160
+Movimiento 17: 60 --- 120
+Movimiento 18: 70 --- 180
+Movimiento 19: 140 --- 160
+Generacion 77: 0
+
+Movimiento 1: 0 --- 180
+Movimiento 2: 0 --- 20
+Movimiento 3: 0 --- 20
+Movimiento 4: 0 --- 20
+Movimiento 5: 0 --- 20
+Movimiento 6: 0 --- 20
+Movimiento 7: 0 --- 20
+Movimiento 8: 0 --- 20
+Movimiento 9: 0 --- 20
+Movimiento 10: 0 --- 20
+Movimiento 11: 20 --- 20
+Movimiento 12: 20 --- 20
+Movimiento 13: 20 --- 20
+Movimiento 14: 20 --- 20
+Movimiento 15: 20 --- 20
+Movimiento 16: 20 --- 20
+Movimiento 17: 60 :DD 20
+Movimiento 18: 70 :DD 20
+Movimiento 19: 140 :DD 20
+Generacion 78: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 90
+
+Movimiento 1: 0 --- 20
+Movimiento 2: 0 --- 20
+Movimiento 3: 0 --- 20
+Movimiento 4: 0 --- 20
+Movimiento 5: 0 --- 20
+Movimiento 6: 0 --- 20
+Movimiento 7: 0 --- 20
+Movimiento 8: 0 --- 20
+Movimiento 9: 0 --- 20
+Movimiento 10: 0 --- 20
+Movimiento 11: 20 --- 20
+Movimiento 12: 20 --- 20
+Movimiento 13: 20 --- 20
+Movimiento 14: 20 --- 20
+Movimiento 15: 20 --- 20
+Movimiento 16: 20 --- 20
+Movimiento 17: 20 --- 20
+Movimiento 18: 20 --- 20
+Movimiento 19: 20 --- 20
+### :DD ###
+Generacion 79: 0
+
+Movimiento 1: 0 --- 20
+Movimiento 2: 0 --- 20
+Movimiento 3: 0 --- 20
+Movimiento 4: 0 --- 20
+Movimiento 5: 0 --- 20
+Movimiento 6: 0 --- 20
+Movimiento 7: 0 --- 20
+Movimiento 8: 0 --- 20
+Movimiento 9: 0 --- 20
+Movimiento 10: 20 --- 20
+Movimiento 11: 20 --- 20
+Movimiento 12: 20 --- 20
+Movimiento 13: 20 --- 20
+Movimiento 14: 20 --- 20
+Movimiento 15: 20 --- 20
+Movimiento 16: 20 --- 20
+Movimiento 17: 20 --- 20
+Movimiento 18: 20 --- 230
+Movimiento 19: 90 --- 230
+Generacion 80: 0
+
+Movimiento 1: 0 --- 230
+Movimiento 2: 0 --- 230
+Movimiento 3: 0 --- 230
+Movimiento 4: 0 --- 230
+Movimiento 5: 0 --- 230
+Movimiento 6: 0 --- 230
+Movimiento 7: 0 --- 230
+Movimiento 8: 0 --- 230
+Movimiento 9: 0 --- 230
+Movimiento 10: 20 --- 230
+Movimiento 11: 20 --- 230
+Movimiento 12: 20 --- 230
+Movimiento 13: 20 --- 230
+Movimiento 14: 20 --- 230
+Movimiento 15: 20 --- 230
+Movimiento 16: 20 --- 230
+Movimiento 17: 20 --- 230
+Movimiento 18: 20 --- 230
+Movimiento 19: 90 --- 230
+Generacion 81: 0
+
+Movimiento 1: 0 --- 230
+Movimiento 2: 0 --- 160
+Movimiento 3: 0 --- 160
+Movimiento 4: 0 --- 160
+Movimiento 5: 0 --- 160
+Movimiento 6: 0 --- 160
+Movimiento 7: 0 --- 160
+Movimiento 8: 0 --- 160
+Movimiento 9: 0 --- 170
+Movimiento 10: 20 --- 170
+Movimiento 11: 20 --- 170
+Movimiento 12: 20 --- 170
+Movimiento 13: 20 --- 170
+Movimiento 14: 20 --- 170
+Movimiento 15: 20 --- 170
+Movimiento 16: 20 --- 170
+Movimiento 17: 20 --- 170
+Movimiento 18: 20 --- 120
+Movimiento 19: 90 --- 120
+Generacion 82: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 50
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 0 --- 120
+Movimiento 10: 20 --- 120
+Movimiento 11: 20 --- 120
+Movimiento 12: 20 --- 120
+Movimiento 13: 20 --- 120
+Movimiento 14: 20 --- 120
+Movimiento 15: 20 --- 120
+Movimiento 16: 20 --- 120
+Movimiento 17: 20 --- 120
+Movimiento 18: 20 --- 120
+Movimiento 19: 90 --- 120
+### :DD ###
+Generacion 83: 0
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 120
+Movimiento 7: 0 --- 120
+Movimiento 8: 0 --- 120
+Movimiento 9: 20 --- 120
+Movimiento 10: 20 --- 120
+Movimiento 11: 20 --- 120
+Movimiento 12: 20 --- 120
+Movimiento 13: 20 --- 120
+Movimiento 14: 20 --- 120
+Movimiento 15: 20 --- 120
+Movimiento 16: 20 --- 120
+Movimiento 17: 20 --- 120
+Movimiento 18: 50 --- 120
+Movimiento 19: 90 --- 120
+Generacion 84: 0
+
+Movimiento 1: 0 --- 120
+Movimiento 2: 0 --- 120
+Movimiento 3: 0 --- 120
+Movimiento 4: 0 --- 120
+Movimiento 5: 0 --- 120
+Movimiento 6: 0 --- 140
+Movimiento 7: 0 --- 140
+Movimiento 8: 0 --- 140
+Movimiento 9: 20 --- 140
+Movimiento 10: 20 --- 140
+Movimiento 11: 20 --- 140
+Movimiento 12: 20 --- 140
+Movimiento 13: 20 --- 140
+Movimiento 14: 20 --- 140
+Movimiento 15: 20 --- 140
+Movimiento 16: 20 --- 140
+Movimiento 17: 20 --- 140
+Movimiento 18: 50 --- 140
+Movimiento 19: 90 --- 140
+Generacion 85: 0
+
+Movimiento 1: 0 --- 140
+Movimiento 2: 0 --- 140
+Movimiento 3: 0 --- 140
+Movimiento 4: 0 --- 140
+Movimiento 5: 0 --- 140
+Movimiento 6: 0 --- 140
+Movimiento 7: 0 --- 140
+Movimiento 8: 0 --- 140
+Movimiento 9: 20 --- 140
+Movimiento 10: 20 --- 140
+Movimiento 11: 20 --- 140
+Movimiento 12: 20 --- 140
+Movimiento 13: 20 --- 140
+Movimiento 14: 20 --- 140
+Movimiento 15: 20 --- 140
+Movimiento 16: 20 --- 140
+Movimiento 17: 20 --- 140
+Movimiento 18: 50 --- 140
+Movimiento 19: 90 --- 200
+Generacion 86: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 130
+
+Movimiento 1: 0 --- 200
+Movimiento 2: 0 --- 200
+Movimiento 3: 0 --- 200
+Movimiento 4: 0 --- 200
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 200
+Movimiento 7: 0 --- 200
+Movimiento 8: 0 --- 200
+Movimiento 9: 20 --- 200
+Movimiento 10: 20 --- 200
+Movimiento 11: 20 --- 200
+Movimiento 12: 20 --- 200
+Movimiento 13: 20 --- 200
+Movimiento 14: 20 --- 200
+Movimiento 15: 20 --- 200
+Movimiento 16: 20 --- 200
+Movimiento 17: 20 --- 200
+Movimiento 18: 50 --- 170
+Movimiento 19: 90 --- 200
+### :DD ###
+Generacion 87: 0
+
+Movimiento 1: 0 --- 200
+Movimiento 2: 0 --- 200
+Movimiento 3: 0 --- 200
+Movimiento 4: 0 --- 200
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 200
+Movimiento 7: 0 --- 200
+Movimiento 8: 20 --- 90
+Movimiento 9: 20 --- 90
+Movimiento 10: 20 --- 90
+Movimiento 11: 20 --- 90
+Movimiento 12: 20 --- 90
+Movimiento 13: 20 --- 90
+Movimiento 14: 20 --- 90
+Movimiento 15: 20 --- 90
+Movimiento 16: 20 --- 90
+Movimiento 17: 50 --- 90
+Movimiento 18: 90 --- 90
+Movimiento 19: 130 :DD 90
+Generacion 88: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 0 --- 110
+Movimiento 5: 0 --- 110
+Movimiento 6: 0 --- 110
+Movimiento 7: 0 --- 110
+Movimiento 8: 20 --- 90
+Movimiento 9: 20 --- 90
+Movimiento 10: 20 --- 90
+Movimiento 11: 20 --- 90
+Movimiento 12: 20 --- 90
+Movimiento 13: 20 --- 90
+Movimiento 14: 20 --- 90
+Movimiento 15: 20 --- 90
+Movimiento 16: 20 --- 90
+Movimiento 17: 50 --- 90
+Movimiento 18: 90 --- 90
+Movimiento 19: 90 --- 110
+Generacion 89: 0
+
+Movimiento 1: 0 --- 110
+Movimiento 2: 0 --- 110
+Movimiento 3: 0 --- 110
+Movimiento 4: 0 --- 110
+Movimiento 5: 0 --- 110
+Movimiento 6: 0 --- 110
+Movimiento 7: 0 --- 110
+Movimiento 8: 20 --- 90
+Movimiento 9: 20 --- 90
+Movimiento 10: 20 --- 90
+Movimiento 11: 20 --- 90
+Movimiento 12: 20 --- 90
+Movimiento 13: 20 --- 90
+Movimiento 14: 20 --- 90
+Movimiento 15: 20 --- 90
+Movimiento 16: 20 --- 90
+Movimiento 17: 50 --- 90
+Movimiento 18: 90 --- 90
+Movimiento 19: 90 --- 110
+Generacion 90: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 180
+
+Movimiento 1: 0 --- 90
+Movimiento 2: 0 --- 90
+Movimiento 3: 0 --- 90
+Movimiento 4: 0 --- 200
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 200
+Movimiento 7: 0 --- 200
+Movimiento 8: 20 --- 180
+Movimiento 9: 20 --- 180
+Movimiento 10: 20 --- 180
+Movimiento 11: 20 --- 180
+Movimiento 12: 20 --- 180
+Movimiento 13: 20 --- 180
+Movimiento 14: 20 --- 180
+Movimiento 15: 20 --- 180
+Movimiento 16: 20 --- 180
+Movimiento 17: 50 --- 180
+Movimiento 18: 90 --- 120
+Movimiento 19: 90 --- 140
+### :DD ###
+Generacion 91: 0
+
+Movimiento 1: 0 --- 200
+Movimiento 2: 0 --- 200
+Movimiento 3: 0 --- 200
+Movimiento 4: 0 --- 200
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 200
+Movimiento 7: 20 --- 200
+Movimiento 8: 20 --- 200
+Movimiento 9: 20 --- 200
+Movimiento 10: 20 --- 200
+Movimiento 11: 20 --- 200
+Movimiento 12: 20 --- 200
+Movimiento 13: 20 --- 200
+Movimiento 14: 20 --- 200
+Movimiento 15: 20 --- 200
+Movimiento 16: 50 --- 180
+Movimiento 17: 90 --- 120
+Movimiento 18: 90 --- 140
+Movimiento 19: 180 :DD 60
+Generacion 92: 0
+
+Movimiento 1: 0 --- 200
+Movimiento 2: 0 --- 200
+Movimiento 3: 0 --- 200
+Movimiento 4: 0 --- 200
+Movimiento 5: 0 --- 200
+Movimiento 6: 0 --- 200
+Movimiento 7: 20 --- 200
+Movimiento 8: 20 --- 200
+Movimiento 9: 20 --- 200
+Movimiento 10: 20 --- 200
+Movimiento 11: 20 --- 200
+Movimiento 12: 20 --- 200
+Movimiento 13: 20 --- 200
+Movimiento 14: 20 --- 200
+Movimiento 15: 20 --- 200
+Movimiento 16: 50 --- 180
+Movimiento 17: 60 --- 140
+Movimiento 18: 90 --- 120
+Movimiento 19: 90 --- 140
+Generacion 93: 0
+
+Movimiento 1: 0 --- 90
+Movimiento 2: 0 --- 90
+Movimiento 3: 0 --- 90
+Movimiento 4: 0 --- 90
+Movimiento 5: 0 --- 90
+Movimiento 6: 0 --- 90
+Movimiento 7: 20 --- 90
+Movimiento 8: 20 --- 90
+Movimiento 9: 20 --- 90
+Movimiento 10: 20 --- 90
+Movimiento 11: 20 --- 90
+Movimiento 12: 20 --- 90
+Movimiento 13: 20 --- 90
+Movimiento 14: 20 --- 90
+Movimiento 15: 20 --- 90
+Movimiento 16: 50 --- 90
+Movimiento 17: 60 --- 90
+Movimiento 18: 90 --- 90
+Movimiento 19: 90 --- 90
+Generacion 94: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 70
+
+Movimiento 1: 0 --- 90
+Movimiento 2: 0 --- 90
+Movimiento 3: 0 --- 90
+Movimiento 4: 0 --- 90
+Movimiento 5: 0 --- 90
+Movimiento 6: 0 --- 90
+Movimiento 7: 20 --- 90
+Movimiento 8: 20 --- 90
+Movimiento 9: 20 --- 90
+Movimiento 10: 20 --- 90
+Movimiento 11: 20 --- 90
+Movimiento 12: 20 --- 90
+Movimiento 13: 20 --- 90
+Movimiento 14: 20 --- 90
+Movimiento 15: 20 --- 90
+Movimiento 16: 50 --- 90
+Movimiento 17: 60 --- 90
+Movimiento 18: 90 --- 90
+Movimiento 19: 90 --- 90
+### :DD ###
+Generacion 95: 0
+
+Movimiento 1: 0 --- 90
+Movimiento 2: 0 --- 90
+Movimiento 3: 0 --- 90
+Movimiento 4: 0 --- 90
+Movimiento 5: 0 --- 90
+Movimiento 6: 20 --- 90
+Movimiento 7: 20 --- 90
+Movimiento 8: 20 --- 90
+Movimiento 9: 20 --- 90
+Movimiento 10: 20 --- 90
+Movimiento 11: 20 --- 90
+Movimiento 12: 20 --- 90
+Movimiento 13: 20 --- 90
+Movimiento 14: 20 --- 90
+Movimiento 15: 50 --- 90
+Movimiento 16: 60 --- 90
+Movimiento 17: 70 --- 120
+Movimiento 18: 90 --- 190
+Movimiento 19: 90 --- 160
+Generacion 96: 0
+
+Movimiento 1: 0 --- 190
+Movimiento 2: 0 --- 190
+Movimiento 3: 0 --- 190
+Movimiento 4: 0 --- 190
+Movimiento 5: 0 --- 190
+Movimiento 6: 20 --- 190
+Movimiento 7: 20 --- 190
+Movimiento 8: 20 --- 190
+Movimiento 9: 20 --- 190
+Movimiento 10: 20 --- 190
+Movimiento 11: 20 --- 190
+Movimiento 12: 20 --- 190
+Movimiento 13: 20 --- 190
+Movimiento 14: 20 --- 190
+Movimiento 15: 50 --- 160
+Movimiento 16: 60 --- 180
+Movimiento 17: 70 --- 140
+Movimiento 18: 90 --- 140
+Movimiento 19: 90 --- 110
+Generacion 97: 0
+
+Movimiento 1: 0 --- 140
+Movimiento 2: 0 --- 140
+Movimiento 3: 0 --- 140
+Movimiento 4: 0 --- 140
+Movimiento 5: 0 --- 140
+Movimiento 6: 20 --- 140
+Movimiento 7: 20 --- 140
+Movimiento 8: 20 --- 140
+Movimiento 9: 20 --- 140
+Movimiento 10: 20 --- 140
+Movimiento 11: 20 --- 140
+Movimiento 12: 20 --- 140
+Movimiento 13: 20 --- 140
+Movimiento 14: 20 --- 140
+Movimiento 15: 50 --- 110
+Movimiento 16: 60 --- 140
+Movimiento 17: 70 --- 140
+Movimiento 18: 90 --- 140
+Movimiento 19: 90 --- 110
+Generacion 98: 0
+
+
+ !---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 80
+
+Movimiento 1: 0 --- 140
+Movimiento 2: 0 --- 140
+Movimiento 3: 0 --- 140
+Movimiento 4: 0 --- 140
+Movimiento 5: 0 --- 140
+Movimiento 6: 20 --- 140
+Movimiento 7: 20 --- 140
+Movimiento 8: 20 --- 140
+Movimiento 9: 20 --- 140
+Movimiento 10: 20 --- 140
+Movimiento 11: 20 --- 140
+Movimiento 12: 20 --- 140
+Movimiento 13: 20 --- 140
+Movimiento 14: 20 --- 140
+Movimiento 15: 50 --- 110
+Movimiento 16: 60 --- 140
+Movimiento 17: 70 --- 140
+Movimiento 18: 90 --- 140
+Movimiento 19: 90 --- 110
+### :DD ###
+Generacion 99: 0
+
+Movimiento 1: 0 --- 140
+Movimiento 2: 0 --- 140
+Movimiento 3: 0 --- 140
+Movimiento 4: 0 --- 140
+Movimiento 5: 20 --- 140
+Movimiento 6: 20 --- 140
+Movimiento 7: 20 --- 130
+Movimiento 8: 20 --- 130
+Movimiento 9: 20 --- 130
+Movimiento 10: 20 --- 130
+Movimiento 11: 20 --- 130
+Movimiento 12: 20 --- 130
+Movimiento 13: 20 --- 130
+Movimiento 14: 50 --- 130
+Movimiento 15: 60 --- 130
+Movimiento 16: 70 --- 130
+Movimiento 17: 80 --- 130
+Movimiento 18: 90 --- 130
+Movimiento 19: 90 --- 130
+Generacion 100: 0
+
+----------------------------------------------------------
+
+Mejor Solucion: 0
+Cambios obligatorios:24/100
+Cambios para mejor:26/100
+

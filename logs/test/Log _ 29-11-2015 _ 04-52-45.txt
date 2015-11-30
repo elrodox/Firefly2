@@ -1,0 +1,124 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 04-52-45
+
+Semilla: 1448783565232
+Cantidad de luciernagas: 20
+Numero de iteraciones: 50
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 3
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 190
+Generacion 1: 190
+### :DD ###
+Generacion 2: 90
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 260
+Generacion 3: 260
+### :DD ###
+Generacion 4: 90
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 160
+Generacion 5: 160
+### :DD ###
+Generacion 6: 90
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 270
+Generacion 7: 270
+### :DD ###
+Generacion 8: 90
+### :DD ###
+Generacion 9: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 240
+Generacion 10: 240
+### :DD ###
+Generacion 11: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 140
+Generacion 12: 140
+### :DD ###
+Generacion 13: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 90
+Generacion 14: 90
+### :DD ###
+Generacion 15: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 80
+Generacion 16: 80
+### :DD ###
+Generacion 17: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 280
+Generacion 18: 280
+### :DD ###
+Generacion 19: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 250
+Generacion 20: 250
+### :DD ###
+Generacion 21: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 180
+Generacion 22: 180
+### :DD ###
+Generacion 23: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 250
+Generacion 24: 250
+### :DD ###
+Generacion 25: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 180
+Generacion 26: 180
+### :DD ###
+Generacion 27: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 120
+Generacion 28: 120
+### :DD ###
+Generacion 29: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 160
+Generacion 30: 160
+### :DD ###
+Generacion 31: 80
+### :DD ###
+Generacion 32: 50
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 170
+Generacion 33: 170
+### :DD ###
+Generacion 34: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 280
+Generacion 35: 280
+### :DD ###
+Generacion 36: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 90
+Generacion 37: 90
+### :DD ###
+Generacion 38: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 210
+Generacion 39: 210
+### :DD ###
+Generacion 40: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 110
+Generacion 41: 110
+### :DD ###
+Generacion 42: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 140
+Generacion 43: 140
+### :DD ###
+Generacion 44: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 190
+Generacion 45: 190
+### :DD ###
+Generacion 46: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 220
+Generacion 47: 220
+### :DD ###
+Generacion 48: 80
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 100
+Generacion 49: 100
+### :DD ###
+Generacion 50: 80
+----------------------------------------------------------
+
+Mejor Solucion: 80
+Cambios obligatorios:24/50
+Cambios para mejor:26/50
+

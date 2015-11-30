@@ -1,0 +1,75 @@
+----------------------------------------------------------
+---- INSTANCIA 'test' ----
+---- CONFIGURACION INICIAL ---
+29-11-2015 _ 04-53-52
+
+Semilla: 1448783632085
+Cantidad de luciernagas: 20
+Numero de iteraciones: 50
+B0: 1
+Gamma: 1.0
+Alfa: 0.2
+
+Porcentaje de no cambio permitido: 1000
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+### :DD ###
+Generacion 1: 60
+Generacion 2: 60
+Generacion 3: 60
+Generacion 4: 60
+Generacion 5: 60
+Generacion 6: 60
+Generacion 7: 60
+Generacion 8: 60
+Generacion 9: 60
+Generacion 10: 60
+Generacion 11: 60
+Generacion 12: 60
+Generacion 13: 60
+Generacion 14: 60
+Generacion 15: 60
+Generacion 16: 60
+Generacion 17: 60
+Generacion 18: 60
+Generacion 19: 60
+Generacion 20: 60
+Generacion 21: 60
+Generacion 22: 60
+Generacion 23: 60
+Generacion 24: 60
+Generacion 25: 60
+Generacion 26: 60
+Generacion 27: 60
+Generacion 28: 60
+Generacion 29: 60
+Generacion 30: 60
+Generacion 31: 60
+Generacion 32: 60
+Generacion 33: 60
+Generacion 34: 60
+Generacion 35: 60
+Generacion 36: 60
+Generacion 37: 60
+Generacion 38: 60
+Generacion 39: 60
+Generacion 40: 60
+Generacion 41: 60
+Generacion 42: 60
+Generacion 43: 60
+Generacion 44: 60
+Generacion 45: 60
+Generacion 46: 60
+Generacion 47: 60
+Generacion 48: 60
+Generacion 49: 60
+Generacion 50: 60
+----------------------------------------------------------
+
+Mejor Solucion: 60
+Cambios obligatorios:0/50
+Cambios para mejor:1/50
+
