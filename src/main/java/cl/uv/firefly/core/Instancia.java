@@ -12,23 +12,33 @@ package cl.uv.firefly.core;
 
 import cl.uv.firefly.Config;
 import cl.uv.firefly.utils.Logs;
-import cl.uv.firefly.io.Input;
 import cl.uv.firefly.utils.Utils;
+import java.text.DecimalFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Date;
 
 public class Instancia {
    
     public double GAMMA; // [0.1,10]
     public double ALFA;  // [0,1]
     
-    
     private String nombreLog;
     private String nombreArchivo;
     private String nombre;
     private String path;
     private int cambiosParaMejor=0;
-    
+            
+    private int[][] matrix = null;
+    private int cantRestricciones, cantCostos;
+    private ArrayList<Integer> vectorCostos = new ArrayList<Integer>(); //vector de costos
+    private ArrayList<Luciernaga> luciernagas = new ArrayList();
+    private Luciernaga bestLuciernaga;
+
+//    private Logs logNormal = Logs.normal;
+    //private Logs logImportante = Logs.importante;
+    private Logs console = new Logs(true);
 
     public Instancia(String nombreArchivo, double alfa, double gamma) {
         this.nombreArchivo = nombreArchivo;
@@ -37,15 +47,6 @@ public class Instancia {
         this.GAMMA = gamma;
         this.ALFA = alfa;
     }
-    
-    private int[][] matrix = null;
-    private int cantRestricciones, cantCostos;
-    private ArrayList<Integer> vectorCostos = new ArrayList<Integer>(); //vector de costos
-    private ArrayList<Luciernaga> luciernagas = new ArrayList();
-    private Luciernaga bestLuciernaga;
-
-//    private Logs logNormal = Logs.normal;
-    private Logs logImportante = Logs.importante;
     
     private void generarLuciernagas(){
         for (int k = 0; k < Config.CANT_LUCIERNAGAS; k++){
@@ -58,83 +59,87 @@ public class Instancia {
     
     public void ejecutarInstancia() {
         
-//        logNormal.println("Generando luciernagas");
         generarLuciernagas();
-//        logImportante.print( bestLuciernaga.solucionString() );
         Logs.importante.println("Generacion 0: "+bestLuciernaga.getFitness());
-//        logNormal.println(": [MVTO] best desp\n");
-//        logNormal.println("===================================================================");
-        
-//        logNormal.println("Comenzando iteraciones...");
         Luciernaga nuevaLuciernaga;
-//        ArrayList<Luciernaga> luciernagasAux = new ArrayList();
         
         int contadorNoCambioBestLuciernaga=0, numeroCambiosObligatorios=0;
+        Date inicio, fin;
+        long millisPorCienGeneraciones;
+        int generacionesRestantes;
+        inicio = new Date();
+        
         for(int generacion=1; generacion <= Config.NUM_ITERACIONES; generacion++){
-//            luciernagasAux = new ArrayList();
             
-//            logNormal.println(": [MVTO] best prev");
-            for (int i = 1; i < luciernagas.size(); i++) { 
-                
-//                logNormal.println("Movimiento "+i+":");
-                
-//                Utils.printArray(luciernagas.get(i).getSolucion());
-//                logNormal.print(": [MVTO] valor previo");
-                
-                nuevaLuciernaga = luciernagas.get(i).aplicarMovimiento(bestLuciernaga);
-                
-                
-//                Utils.printArray(luciernagas.get(i).getSolucion());
-//                logNormal.println(": [MVTO] 'mismo valor'");
-                
-//                Utils.printArray(nuevaLuciernaga.getSolucion());
-//                logNormal.println(": [MVTO] 'nuevo valor'");
-                
-                if( nuevaLuciernaga.brillaMasQue(luciernagas.get(i)) ){
-//                    luciernagasAux.add(nuevaLuciernaga);
-//                    logNormal.print(" :DD ");
-                    luciernagas.set(i, nuevaLuciernaga);
-                    //luciernagas.get(i) = nuevaLuciernaga;
-                }else{
-//                    luciernagasAux.add(luciernagas.get(i));
-//                    logNormal.print(" --- ");
+            for (int i = 0; i < luciernagas.size(); i++) { 
+                for (int j = 0; j < luciernagas.size(); j++) {
+                    if( luciernagas.get(j).brillaMasQue(luciernagas.get(i)) ){
+                        nuevaLuciernaga = luciernagas.get(i).aplicarMovimiento(luciernagas.get(j));
+                        if( nuevaLuciernaga.brillaMasQue(luciernagas.get(i)) ){
+                            luciernagas.set(i, nuevaLuciernaga);
+                        }
+                    }
+                        
                 }
-                
-//                if( nuevaLuciernaga.brillaMasQue(bestLuciernaga) ){
-//                    bestLuciernaga = nuevaLuciernaga;
+//                nuevaLuciernaga = luciernagas.get(i).aplicarMovimiento(bestLuciernaga);
+//                if( nuevaLuciernaga.brillaMasQue(luciernagas.get(i)) ){
+//                    luciernagas.set(i, nuevaLuciernaga);
 //                }
-                
-//                logNormal.println(nuevaLuciernaga.getFitness());
             }
             
-//            luciernagasAux.add(luciernagas.get(0));
-//            luciernagas = luciernagasAux;
             Collections.sort(luciernagas, new LuciernagaComparator());
             
             if (luciernagas.get(0).brillaMasQue( bestLuciernaga )){
                 bestLuciernaga = luciernagas.get(0);
-                Logs.importante.println("Generacion "+generacion+": "+bestLuciernaga.getFitness());
-//                logImportante.println("### :DD ###");
                 contadorNoCambioBestLuciernaga=0;
                 cambiosParaMejor++;
-            }else contadorNoCambioBestLuciernaga++;
+                Logs.importante.println("Generacion "+generacion+": "+bestLuciernaga.getFitness());
+            }else{
+                contadorNoCambioBestLuciernaga++;
+                if(generacion%100 == 0){
+//                    console.println("Generacion:"+generacion+"/"+Config.NUM_ITERACIONES);
+                    fin = new Date();
+                    millisPorCienGeneraciones = fin.getTime() - inicio.getTime();
+                    generacionesRestantes = Config.NUM_ITERACIONES - generacion;
+                    long millisRestantesEstimados = generacionesRestantes * millisPorCienGeneraciones/100;
+                    String tiempoRestante = Utils.millisToTime(millisRestantesEstimados);
+
+                    double porcentaje = (double)generacion*100/Config.NUM_ITERACIONES;
+                    DecimalFormat formatter = new DecimalFormat("#0.00"); 
+                    SimpleDateFormat sdf = new SimpleDateFormat ("dd/MM/yyyy - HH:mm:ss");
+                    
+                    console.println(
+                            "["+sdf.format(fin)+"]: "
+                            +"Tiempo estimado: "+tiempoRestante
+                            +" --- Gen: "+generacion+"/"+Config.NUM_ITERACIONES
+                            +" --- "+formatter.format(porcentaje)+"%"
+                    );
+                    
+                    inicio = new Date();
+                }
+                    
+                
+            }
+            
             
             if (contadorNoCambioBestLuciernaga >= Config.PORCENTAJE_NO_CAMBIO_PERMITIDO*Config.NUM_ITERACIONES/100){
                 numeroCambiosObligatorios++;
                 contadorNoCambioBestLuciernaga=0;
                 bestLuciernaga = new Luciernaga(this);
                 luciernagas.set(0, bestLuciernaga);
-                logImportante.println("!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: "+bestLuciernaga+"");
+                Logs.importante.println("!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: "+bestLuciernaga+"");
             }
-//            logImportante.print( bestLuciernaga.solucionString() );
             
+//            long seconds = TimeUnit.MILLISECONDS.toSeconds(millisPorUnaGeneracion);
+//            long minutes = TimeUnit.MILLISECONDS.toMinutes(millisPorUnaGeneracion);
             
+//            console.println("Inicio: "+inicio.getTime());
+//            console.println("Fin: "+fin.getTime());
+//            console.println("Generacion Actual: "+generacion);
+//            console.println("Generaciones Total: "+Config.NUM_ITERACIONES);
+//            console.println("Generaciones Restantes: "+generacionesRestantes);
             
-            
-//            logNormal.println(": [MVTO] best desp");
-//            logNormal.println("");
-//            logNormal.println("===================================================================");
-            
+//            console.println("");
             //Grafico.agregarValor(bestLuciernaga.getFitness());
         }
         //Grafico.generarGrafico();

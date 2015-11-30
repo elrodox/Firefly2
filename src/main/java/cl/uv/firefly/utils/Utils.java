@@ -7,6 +7,7 @@ package cl.uv.firefly.utils;
 
 import cl.uv.firefly.Config;
 import java.util.Random;
+import java.util.concurrent.TimeUnit;
 
 /**
  *
@@ -18,9 +19,18 @@ public class Utils {
     public static Random getRandom(){
         if(random!=null) return random;
         else{
-            random = new Random(Config.seed);
+            random = new Random(Config.SEED);
             return random;
         }
+    }
+    public static String millisToTime(long millis){
+        return String.format("%02d hrs %02d mins", 
+            TimeUnit.MILLISECONDS.toHours(millis),
+            TimeUnit.MILLISECONDS.toMinutes(millis) -  
+            TimeUnit.HOURS.toMinutes(TimeUnit.MILLISECONDS.toHours(millis)) );
+        
+//                                        ,TimeUnit.MILLISECONDS.toSeconds(millisRestantesEstimados) - 
+//                                        TimeUnit.MINUTES.toSeconds(TimeUnit.MILLISECONDS.toMinutes(millisRestantesEstimados))
     }
     
 //    public static String arrayToString(int[] array){

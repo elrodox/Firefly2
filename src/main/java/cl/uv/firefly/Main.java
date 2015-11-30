@@ -67,7 +67,7 @@ public class Main {
             for ( double gamma=0.1; gamma <= 10; gamma+=0.1 ) {
                 fecha = sdf.format(new Date());
                 System.out.println(fecha);
-                System.out.println(count+"/1000");
+                System.out.println(count+"/1100");
                 System.out.println("alfa:  "+alfa);
                 System.out.println("gamma: "+gamma);
                 System.out.println("");
@@ -148,7 +148,8 @@ public class Main {
    }
     
     public static void main(String[] args){
-        //todasLasInstancias();
+
+        Config.leerParametros(args);
         unaInstancia("scp41.txt");
         
     }

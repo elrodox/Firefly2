@@ -20,7 +20,7 @@ public class Logs {
     
     public static Logs normal;
     public static Logs importante;
-    
+    private String lastLine;
     private boolean active;
     private Output output;
 
@@ -43,6 +43,10 @@ public class Logs {
         this.active = active;
     }
 
+     public Logs(boolean active) {
+        output = null;
+        this.active = active;
+    }
     
 
     public void setActive(boolean active) {
@@ -50,17 +54,38 @@ public class Logs {
     }
     
     public void println(String text) {
-        if(active){
-            System.out.println(text);
-            output.println(text);
-        }
+        print(text+"\n");
+//        if(active){
+//            System.out.println(text);
+//            output.println(text);
+//        }
     }
+//    public void infoColorLn(String text){
+//        text =(char)27 + "[36m" + text;
+//        print(text+"\n");
+//    }
+    //private void setImportantColor(String text)
     public void print(String text) {
         if(active){
+            lastLine = text;
+            if(output!=null) output.print(text);
+            if(Config.activarColores){
+                if(!this.equals(importante))
+                    text =(char)27 + "[37;40m" + text;
+                else
+                    text =(char)27 + "[30m" + text;
+            }
             System.out.print(text);
-            output.print(text);
         }
     }
+    
+//    public void eraseLastLine(){
+//        String eraseLine="";
+//        for (int i = 0; i < lastLine.length(); i++) {
+//            eraseLine += "\b";
+//        }
+//        System.out.println(eraseLine);
+//    }
     
     public void println(int text) {
         println(""+text);
@@ -88,14 +113,14 @@ public class Logs {
         Output out = new Output(basePathLog+nombreLog);
         normal = new Logs(out);
         importante = new Logs(out, true);
-        Logs out2 = importante;
+        Logs out2 = new Logs(out, true);
         
         out2.println("----------------------------------------------------------");
         out2.println("---- INSTANCIA '"+instancia.getNombre()+"' ----");
         out2.println("---- CONFIGURACION INICIAL ---");
         out2.println(fecha);
         out2.println("");
-        out2.println("Semilla: "+Config.seed);
+        out2.println("Semilla: "+Config.SEED);
         out2.println("Cantidad de luciernagas: "+Config.CANT_LUCIERNAGAS);
         out2.println("Numero de iteraciones: "+Config.NUM_ITERACIONES);
         out2.println("B0: "+Config.B0);
