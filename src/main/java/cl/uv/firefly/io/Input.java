@@ -34,7 +34,7 @@ public class Input {
         
         String delimitadores = "[ .,;?!¡¿\'\"\\[\\]]+";
         try {
-            archivo = new File(instancia.getPath());
+            archivo = new File(instancia.getInputPath());
             fr = new FileReader(archivo);
             br = new BufferedReader(fr);
             String linea;

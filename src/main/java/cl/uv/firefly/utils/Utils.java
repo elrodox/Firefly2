@@ -6,6 +6,8 @@
 package cl.uv.firefly.utils;
 
 import cl.uv.firefly.Config;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
@@ -15,7 +17,15 @@ import java.util.concurrent.TimeUnit;
  */
 public class Utils {
     private static Random random;
+    private static SimpleDateFormat sdf = new SimpleDateFormat ("dd/MM/yyyy - HH:mm:ss");
+    private static SimpleDateFormat sdf_file = new SimpleDateFormat ("dd-MM-yyyy _ HH-mm-ss");
     
+    public static String getStringDate(){
+        return sdf.format(new Date());
+    }
+    public static String getStringDateForFile(){
+        return sdf_file.format(new Date());
+    }
     public static Random getRandom(){
         if(random!=null) return random;
         else{

@@ -1,0 +1,28 @@
+----------------------------------------------------------
+------------01-12-2015 _ 19-38-41------------
+---- INSTANCIA 'scpnrh1' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449008461679
+Cantidad de luciernagas: 25
+Numero de iteraciones: 100
+B0: 1
+Gamma: 5.4999999999999964
+Alfa: 0.9999999999999999
+
+Porcentaje de no cambio permitido: 102
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 248628
+Generacion 1: 190373
+Generacion 2: 189202
+
+----------------------------------------------------------
+
+Mejor Solucion: 189202
+Cambios obligatorios: 0/100
+Cambios para mejor: 2/100
+----------------------------------------------------------

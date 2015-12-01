@@ -18,8 +18,8 @@ import java.util.Date;
  */
 public class Logs {
     
-    public static Logs normal;
-    public static Logs importante;
+//    public static Logs normal;
+//    public static Logs importante;
     private String lastLine;
     private boolean active;
     private Output output;
@@ -34,10 +34,10 @@ public class Logs {
 //    }
     
     
-    public Logs(Output out){
-        output = out;
-        active = Config.activarLogsNormales;
-    }
+//    public Logs(Output out){
+//        output = out;
+//        active = Config.activarLogsNormales;
+//    }
     public Logs(Output out, boolean active) {
         output = out;
         this.active = active;
@@ -66,15 +66,16 @@ public class Logs {
 //    }
     //private void setImportantColor(String text)
     public void print(String text) {
+        if(output!=null) output.print(text);
         if(active){
             lastLine = text;
-            if(output!=null) output.print(text);
-            if(Config.activarColores){
-                if(!this.equals(importante))
-                    text =(char)27 + "[37;40m" + text;
-                else
-                    text =(char)27 + "[30m" + text;
-            }
+            
+//            if(Config.activarColores){
+//                if(!this.equals(importante))
+//                    text =(char)27 + "[37;40m" + text;
+//                else
+//                    text =(char)27 + "[30m" + text;
+//            }
             System.out.print(text);
         }
     }
@@ -99,41 +100,24 @@ public class Logs {
     }
     
     
-    
-    public static void inicializarLog(Instancia instancia){
-        
-        SimpleDateFormat sdf = new SimpleDateFormat ("dd-MM-yyyy _ HH-mm-ss");
-        String fecha = sdf.format(new Date());
-        String nombreLog = "Log _ "+fecha+".txt";
-        String basePathLog = Config.logsPath+instancia.getNombre()+"/";
-        File baseFileLog = new File(basePathLog);
-        if (!baseFileLog.exists()) baseFileLog.mkdirs();
-        
-        
-        Output out = new Output(basePathLog+nombreLog);
-        normal = new Logs(out);
-        importante = new Logs(out, true);
-        Logs out2 = new Logs(out, true);
-        
-        out2.println("----------------------------------------------------------");
-        out2.println("---- INSTANCIA '"+instancia.getNombre()+"' ----");
-        out2.println("---- CONFIGURACION INICIAL ---");
-        out2.println(fecha);
-        out2.println("");
-        out2.println("Semilla: "+Config.SEED);
-        out2.println("Cantidad de luciernagas: "+Config.CANT_LUCIERNAGAS);
-        out2.println("Numero de iteraciones: "+Config.NUM_ITERACIONES);
-        out2.println("B0: "+Config.B0);
-        out2.println("Gamma: "+instancia.GAMMA);
-        out2.println("Alfa: "+instancia.ALFA);
-        out2.println("");
-        out2.println("Porcentaje de no cambio permitido: "+Config.PORCENTAJE_NO_CAMBIO_PERMITIDO);
-        out2.println("Logs normales: "+Config.activarLogsNormales);
-        out2.println("");
-        out2.println("----------------------------------------------------------");
-        out2.println("----------------------------------------------------------");
-        out2.println("");
-    }
+//    
+//    private static void inicializarLog(Instancia instancia){
+//        
+//        SimpleDateFormat sdf = new SimpleDateFormat ("dd-MM-yyyy _ HH-mm-ss");
+//        String fecha = sdf.format(new Date());
+//        String nombreLog = "Log _ "+fecha+".txt";
+//        String basePathLog = Config.logsPath+instancia.getNombre()+"/";
+//        File baseFileLog = new File(basePathLog);
+//        if (!baseFileLog.exists()) baseFileLog.mkdirs();
+//        
+//        
+//        Output out = new Output(basePathLog+nombreLog);
+////        normal = new Logs(out);
+////        importante = new Logs(out, true);
+//        Logs out2 = new Logs(out, true);
+//        
+//        
+//    }
     
     public void cerrarLog(){
         output.close();

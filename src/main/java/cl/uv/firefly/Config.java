@@ -19,8 +19,10 @@ import java.util.Hashtable;
 public class Config {
     private static ArrayList<String> params;
     
-    public static final String instanciasPath="instancias/";
-    public static final String logsPath="logs/";
+    public static String instanciasPath="instancias/";
+//    public static String logsPath="resultados/logs/";
+//    public static String graficosPath="resultados/graficos/";
+    public static String resultadosPath = "resultados/";
     
     public static long SEED = System.currentTimeMillis();
     public static int CANT_LUCIERNAGAS=25;
@@ -28,10 +30,12 @@ public class Config {
     public static int B0 = 1; 
     public static double ALFA = 0.9999999999999999; 
     public static double GAMMA = 5.4999999999999964;
-    public static int PORCENTAJE_NO_CAMBIO_PERMITIDO=12;
+    public static int PORCENTAJE_NO_CAMBIO_PERMITIDO=102;
     
     public static boolean activarLogsNormales = false;
-    public static boolean activarColores = false;
+    public static boolean activarColores = true;
+    
+    public static int ejecucionesPorInstancia = 20;
     
     
 //    private static boolean SOLO_MOSTRAR_CONFIG = false;
@@ -68,10 +72,11 @@ public class Config {
     
     public static void leerParametros(String[] args){
         if (args.length==0){
-//            String defaultConfigArgs = "-seed 1448793896422 -luciernagas 25 -iteraciones 10 -b0 1 -alfa 0.1 -gamma 5.5 -porcentajeNoCambio 12";
-            String lineaParametros = "-colores";
-            args = lineaParametros.split(" ");
-            //activarColores = true;
+//            String lineaParametros = "-seed 1448793896422 -luciernagas 25 -iteraciones 10 -b0 1 -alfa 0.1 -gamma 5.5 -porcentajeNoCambio 12";
+//            String lineaParametros = "-colores";
+//            args = lineaParametros.split(" ");
+//            activarColores = true;
+            return;
         };
         params = new ArrayList<String>(Arrays.asList(args));
         
@@ -102,6 +107,7 @@ public class Config {
         PORCENTAJE_NO_CAMBIO_PERMITIDO = (int)setConfigVariable("-porcentajeNoCambio", PORCENTAJE_NO_CAMBIO_PERMITIDO);
         activarLogsNormales = (boolean)setConfigVariable("-logNormales", activarLogsNormales);
         activarColores = (boolean)setConfigVariable("-colores", activarColores);
+        ejecucionesPorInstancia = (int)setConfigVariable("-ejecuciones", ejecucionesPorInstancia);
         
 
     }

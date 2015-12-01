@@ -11,8 +11,11 @@ package cl.uv.firefly.core;
  */
 
 import cl.uv.firefly.Config;
+import cl.uv.firefly.io.Output;
+import cl.uv.firefly.utils.Grafico;
 import cl.uv.firefly.utils.Logs;
 import cl.uv.firefly.utils.Utils;
+import java.io.File;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -24,28 +27,56 @@ public class Instancia {
     public double GAMMA; // [0.1,10]
     public double ALFA;  // [0,1]
     
-    private String nombreLog;
-    private String nombreArchivo;
+//    private String nombreLog;
+    
+    private Logs logPrincipal;
+    private String nombreInputArchivo;
     private String nombre;
-    private String path;
+    private String inputPath;
     private int cambiosParaMejor=0;
+    
+    private Grafico grafico;
+    private String resultadosInstanciaPath;
+    
+    private String id;
+    private String resultadosEjecucionPath;
+    private int numeroEjecucion;
+    
             
     private int[][] matrix = null;
     private int cantRestricciones, cantCostos;
     private ArrayList<Integer> vectorCostos = new ArrayList<Integer>(); //vector de costos
     private ArrayList<Luciernaga> luciernagas = new ArrayList();
     private Luciernaga bestLuciernaga;
+    
 
 //    private Logs logNormal = Logs.normal;
     //private Logs logImportante = Logs.importante;
-    private Logs console = new Logs(true);
+    private Logs console;
+    
+    
 
-    public Instancia(String nombreArchivo, double alfa, double gamma) {
-        this.nombreArchivo = nombreArchivo;
-        this.path = Config.instanciasPath+nombreArchivo;
+    public Instancia(String nombreArchivo, int numeroEjecucion, double alfa, double gamma) {
+        this.id = Utils.getStringDateForFile();
+        this.nombreInputArchivo = nombreArchivo;
+        this.inputPath = Config.instanciasPath+nombreArchivo;
         this.nombre = nombreArchivo.substring(0, nombreArchivo.lastIndexOf("."));
         this.GAMMA = gamma;
         this.ALFA = alfa;
+        this.numeroEjecucion = numeroEjecucion;
+        
+        resultadosInstanciaPath = Config.resultadosPath+nombre+"/";
+        resultadosEjecucionPath = resultadosInstanciaPath+numeroEjecucion+") "+id+"/";
+        File resultados = new File(resultadosEjecucionPath);
+        if(!resultados.exists()) resultados.mkdirs();
+        
+        this.grafico = new Grafico(resultadosEjecucionPath+"Grafico _ "+this.id+".png", nombre, numeroEjecucion);
+        
+        String nombreLog = "Log _ "+this.id+".txt";
+        Output out = new Output(resultadosEjecucionPath+nombreLog);
+        logPrincipal = new Logs(out, false);
+        console = new Logs(false);
+        imprimirConfiguracionInstancia();
     }
     
     private void generarLuciernagas(){
@@ -60,31 +91,35 @@ public class Instancia {
     public void ejecutarInstancia() {
         
         generarLuciernagas();
-        Logs.importante.println("Generacion 0: "+bestLuciernaga.getFitness());
+        logPrincipal.println("Generacion 0: "+bestLuciernaga.getFitness());
+        grafico.agregarValor(bestLuciernaga.getFitness(), 0);
         Luciernaga nuevaLuciernaga;
         
         int contadorNoCambioBestLuciernaga=0, numeroCambiosObligatorios=0;
         Date inicio, fin;
-        long millisPorCienGeneraciones;
-        int generacionesRestantes;
+        long millisPorXGeneraciones;
+        int generacionesRestantes, xGeneraciones=1;
         inicio = new Date();
         
         for(int generacion=1; generacion <= Config.NUM_ITERACIONES; generacion++){
             
-            for (int i = 0; i < luciernagas.size(); i++) { 
-                for (int j = 0; j < luciernagas.size(); j++) {
-                    if( luciernagas.get(j).brillaMasQue(luciernagas.get(i)) ){
-                        nuevaLuciernaga = luciernagas.get(i).aplicarMovimiento(luciernagas.get(j));
-                        if( nuevaLuciernaga.brillaMasQue(luciernagas.get(i)) ){
-                            luciernagas.set(i, nuevaLuciernaga);
-                        }
-                    }
-                        
-                }
-//                nuevaLuciernaga = luciernagas.get(i).aplicarMovimiento(bestLuciernaga);
-//                if( nuevaLuciernaga.brillaMasQue(luciernagas.get(i)) ){
-//                    luciernagas.set(i, nuevaLuciernaga);
+//            for (int i = 0; i < luciernagas.size(); i++) { 
+//                for (int j = 0; j < luciernagas.size(); j++) {
+//                    if( luciernagas.get(j).brillaMasQue(luciernagas.get(i)) ){
+//                        nuevaLuciernaga = luciernagas.get(i).aplicarMovimiento(luciernagas.get(j));
+//                        if( nuevaLuciernaga.brillaMasQue(luciernagas.get(i)) ){
+//                            luciernagas.set(i, nuevaLuciernaga);
+//                        }
+//                    }
+//                        
 //                }
+//            }
+            
+            for (int i = 1; i < luciernagas.size(); i++) { 
+                nuevaLuciernaga = luciernagas.get(i).aplicarMovimiento(bestLuciernaga);
+                if( nuevaLuciernaga.brillaMasQue(luciernagas.get(i)) ){
+                    luciernagas.set(i, nuevaLuciernaga);
+                }
             }
             
             Collections.sort(luciernagas, new LuciernagaComparator());
@@ -93,32 +128,33 @@ public class Instancia {
                 bestLuciernaga = luciernagas.get(0);
                 contadorNoCambioBestLuciernaga=0;
                 cambiosParaMejor++;
-                Logs.importante.println("Generacion "+generacion+": "+bestLuciernaga.getFitness());
-            }else{
-                contadorNoCambioBestLuciernaga++;
-                if(generacion%100 == 0){
-//                    console.println("Generacion:"+generacion+"/"+Config.NUM_ITERACIONES);
-                    fin = new Date();
-                    millisPorCienGeneraciones = fin.getTime() - inicio.getTime();
-                    generacionesRestantes = Config.NUM_ITERACIONES - generacion;
-                    long millisRestantesEstimados = generacionesRestantes * millisPorCienGeneraciones/100;
-                    String tiempoRestante = Utils.millisToTime(millisRestantesEstimados);
-
-                    double porcentaje = (double)generacion*100/Config.NUM_ITERACIONES;
-                    DecimalFormat formatter = new DecimalFormat("#0.00"); 
-                    SimpleDateFormat sdf = new SimpleDateFormat ("dd/MM/yyyy - HH:mm:ss");
-                    
-                    console.println(
-                            "["+sdf.format(fin)+"]: "
-                            +"Tiempo estimado: "+tiempoRestante
-                            +" --- Gen: "+generacion+"/"+Config.NUM_ITERACIONES
-                            +" --- "+formatter.format(porcentaje)+"%"
-                    );
-                    
-                    inicio = new Date();
-                }
-                    
+                logPrincipal.println("Generacion "+generacion+": "+bestLuciernaga.getFitness());
+                grafico.agregarValor(bestLuciernaga.getFitness(), generacion);
                 
+//                fin = new Date();
+//                millisPorXGeneraciones = fin.getTime() - inicio.getTime();
+//                generacionesRestantes = Config.NUM_ITERACIONES - generacion;
+//                long millisRestantesEstimados = generacionesRestantes * millisPorXGeneraciones/xGeneraciones;
+//                String tiempoRestante = Utils.millisToTime(millisRestantesEstimados);
+//                double porcentaje = (double)generacion*100/Config.NUM_ITERACIONES;
+//                DecimalFormat formatter = new DecimalFormat("#0.00"); 
+//                SimpleDateFormat sdf = new SimpleDateFormat ("dd/MM/yyyy - HH:mm:ss");
+//                console.println(
+//                        "["+sdf.format(fin)+"]: "
+//                        +"Tiempo estimado: "+tiempoRestante
+//                        +" --- Gen: "+generacion+"/"+Config.NUM_ITERACIONES
+//                        +" --- "+formatter.format(porcentaje)+"%"
+//                );
+//                xGeneraciones=0;
+//                inicio = new Date();
+                
+            }else{
+//                if(generacion%100==0){
+//                    
+//                }
+                
+                
+                contadorNoCambioBestLuciernaga++;
             }
             
             
@@ -127,7 +163,7 @@ public class Instancia {
                 contadorNoCambioBestLuciernaga=0;
                 bestLuciernaga = new Luciernaga(this);
                 luciernagas.set(0, bestLuciernaga);
-                Logs.importante.println("!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: "+bestLuciernaga+"");
+                logPrincipal.println("!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: "+bestLuciernaga+"");
             }
             
 //            long seconds = TimeUnit.MILLISECONDS.toSeconds(millisPorUnaGeneracion);
@@ -140,18 +176,42 @@ public class Instancia {
 //            console.println("Generaciones Restantes: "+generacionesRestantes);
             
 //            console.println("");
-            //Grafico.agregarValor(bestLuciernaga.getFitness());
+            
+            xGeneraciones++;
         }
-        //Grafico.generarGrafico();
-        Logs.importante.println("\n----------------------------------------------------------");
-        Logs.importante.println("\nMejor Solucion: "+bestLuciernaga.getFitness() );
-        Logs.importante.println("Cambios obligatorios:"+ numeroCambiosObligatorios+"/"+Config.NUM_ITERACIONES);
-        Logs.importante.println("Cambios para mejor:"+ cambiosParaMejor+"/"+Config.NUM_ITERACIONES);
         
+        logPrincipal.println("\n----------------------------------------------------------");
+        logPrincipal.println("\nMejor Solucion: "+bestLuciernaga.getFitness() );
+        logPrincipal.println("Cambios obligatorios: "+ numeroCambiosObligatorios+"/"+Config.NUM_ITERACIONES);
+        logPrincipal.println("Cambios para mejor: "+ cambiosParaMejor+"/"+Config.NUM_ITERACIONES);
+        logPrincipal.println("----------------------------------------------------------");
+        
+        logPrincipal.cerrarLog();
+        grafico.saveImage();
         
     }
     
-    
+    private void imprimirConfiguracionInstancia(){
+        logPrincipal.println("----------------------------------------------------------");
+        logPrincipal.println("------------"+this.id+"------------");
+        logPrincipal.println("---- INSTANCIA '"+this.nombre+"' ----");
+        logPrincipal.println("---- CONFIGURACION INICIAL ---");
+        logPrincipal.println("");
+        logPrincipal.println("Semilla: "+Config.SEED);
+        logPrincipal.println("Cantidad de luciernagas: "+Config.CANT_LUCIERNAGAS);
+        logPrincipal.println("Numero de iteraciones: "+Config.NUM_ITERACIONES);
+        logPrincipal.println("B0: "+Config.B0);
+        logPrincipal.println("Gamma: "+this.GAMMA);
+        logPrincipal.println("Alfa: "+this.ALFA);
+        logPrincipal.println("");
+        logPrincipal.println("Porcentaje de no cambio permitido: "+Config.PORCENTAJE_NO_CAMBIO_PERMITIDO);
+        logPrincipal.println("Logs normales: "+Config.activarLogsNormales);
+        logPrincipal.println("");
+        logPrincipal.println("----------------------------------------------------------");
+        logPrincipal.println("----------------------------------------------------------");
+        logPrincipal.println("");
+    }
+ 
     
     ///....
 
@@ -163,13 +223,7 @@ public class Instancia {
         this.nombre = nombre;
     }
 
-    public String getPath() {
-        return path;
-    }
 
-    public void setPath(String path) {
-        this.path = path;
-    }
 
     public int[][] getMatrix() {
         return matrix;
@@ -238,15 +292,31 @@ public class Instancia {
     public int getCambiosParaMejor() {
         return cambiosParaMejor;
     }
-
-    public String getNombreLog() {
-        return nombreLog;
-    }
-
-    public void setNombreLog(String nombreLog) {
-        this.nombreLog = nombreLog;
-    }
     
+    
+
+//    public String getNombreLog() {
+//        return nombreLog;
+//    }
+//
+//    public void setNombreLog(String nombreLog) {
+//        this.nombreLog = nombreLog;
+//    }
+
+    public String getResultadosEjecucionPath() {
+        return resultadosEjecucionPath;
+    }
+
+    public String getInputPath() {
+        return inputPath;
+    }
+
+    public String getResultadosInstanciaPath() {
+        return resultadosInstanciaPath;
+    }
+
+    
+
     
     
     
