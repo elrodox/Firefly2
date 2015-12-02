@@ -34,6 +34,7 @@ public class Instancia {
     private String nombre;
     private String inputPath;
     private int cambiosParaMejor=0;
+    private long seed;
     
     private Grafico grafico;
     private String resultadosInstanciaPath;
@@ -64,6 +65,7 @@ public class Instancia {
         this.GAMMA = gamma;
         this.ALFA = alfa;
         this.numeroEjecucion = numeroEjecucion;
+        this.seed = System.currentTimeMillis();
         
         resultadosInstanciaPath = Config.resultadosPath+nombre+"/";
         resultadosEjecucionPath = resultadosInstanciaPath+numeroEjecucion+") "+id+"/";
@@ -197,7 +199,7 @@ public class Instancia {
         logPrincipal.println("---- INSTANCIA '"+this.nombre+"' ----");
         logPrincipal.println("---- CONFIGURACION INICIAL ---");
         logPrincipal.println("");
-        logPrincipal.println("Semilla: "+Config.SEED);
+        logPrincipal.println("Semilla: "+this.seed);
         logPrincipal.println("Cantidad de luciernagas: "+Config.CANT_LUCIERNAGAS);
         logPrincipal.println("Numero de iteraciones: "+Config.NUM_ITERACIONES);
         logPrincipal.println("B0: "+Config.B0);
@@ -313,6 +315,10 @@ public class Instancia {
 
     public String getResultadosInstanciaPath() {
         return resultadosInstanciaPath;
+    }
+
+    public long getSeed() {
+        return seed;
     }
 
     

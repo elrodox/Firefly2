@@ -1,0 +1,31 @@
+----------------------------------------------------------
+------------01-12-2015 _ 22-06-57------------
+---- INSTANCIA 'scp62' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449018417871
+Cantidad de luciernagas: 25
+Numero de iteraciones: 1000
+B0: 1
+Gamma: 5.5
+Alfa: 1.0
+
+Porcentaje de no cambio permitido: 51
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 24825
+Generacion 1: 20150
+Generacion 2: 19200
+Generacion 3: 18361
+Generacion 288: 17622
+Generacion 573: 15852
+
+----------------------------------------------------------
+
+Mejor Solucion: 15852
+Cambios obligatorios: 0/1000
+Cambios para mejor: 5/1000
+----------------------------------------------------------

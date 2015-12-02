@@ -1,0 +1,33 @@
+----------------------------------------------------------
+------------01-12-2015 _ 21-15-05------------
+---- INSTANCIA 'scp46' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449015305187
+Cantidad de luciernagas: 25
+Numero de iteraciones: 1000
+B0: 1
+Gamma: 5.5
+Alfa: 1.0
+
+Porcentaje de no cambio permitido: 51
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 25459
+Generacion 1: 21286
+Generacion 5: 21216
+Generacion 9: 18971
+Generacion 81: 18775
+Generacion 153: 15736
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25459
+Generacion 664: 15736
+
+----------------------------------------------------------
+
+Mejor Solucion: 15736
+Cambios obligatorios: 1/1000
+Cambios para mejor: 6/1000
+----------------------------------------------------------

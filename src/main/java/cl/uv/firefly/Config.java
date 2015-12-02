@@ -5,6 +5,8 @@
  */
 package cl.uv.firefly;
 
+import cl.uv.firefly.utils.Logs;
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Enumeration;
@@ -24,13 +26,13 @@ public class Config {
 //    public static String graficosPath="resultados/graficos/";
     public static String resultadosPath = "resultados/";
     
-    public static long SEED = System.currentTimeMillis();
+//    public static long SEED = System.currentTimeMillis();
     public static int CANT_LUCIERNAGAS=25;
-    public static int NUM_ITERACIONES=500000;
+    public static int NUM_ITERACIONES=1000;
     public static int B0 = 1; 
-    public static double ALFA = 0.9999999999999999; 
-    public static double GAMMA = 5.4999999999999964;
-    public static int PORCENTAJE_NO_CAMBIO_PERMITIDO=102;
+    public static double ALFA = 1.0; 
+    public static double GAMMA = 5.5;
+    public static int PORCENTAJE_NO_CAMBIO_PERMITIDO=51;
     
     public static boolean activarLogsNormales = false;
     public static boolean activarColores = true;
@@ -70,6 +72,7 @@ public class Config {
         return configVariable;
     }
     
+    
     public static void leerParametros(String[] args){
         if (args.length==0){
 //            String lineaParametros = "-seed 1448793896422 -luciernagas 25 -iteraciones 10 -b0 1 -alfa 0.1 -gamma 5.5 -porcentajeNoCambio 12";
@@ -98,7 +101,7 @@ public class Config {
 //            return;
 //        }
         
-        SEED = (long)setConfigVariable("-seed", SEED);
+//        SEED = (long)setConfigVariable("-seed", SEED);
         CANT_LUCIERNAGAS = (int)setConfigVariable("-luciernagas", CANT_LUCIERNAGAS);
         NUM_ITERACIONES = (int)setConfigVariable("-iteraciones", NUM_ITERACIONES);
         B0 = (int)setConfigVariable("-b0", B0);
@@ -108,6 +111,8 @@ public class Config {
         activarLogsNormales = (boolean)setConfigVariable("-logNormales", activarLogsNormales);
         activarColores = (boolean)setConfigVariable("-colores", activarColores);
         ejecucionesPorInstancia = (int)setConfigVariable("-ejecuciones", ejecucionesPorInstancia);
+        File file = new File(Config.resultadosPath);
+        if(!file.exists()) file.mkdirs();
         
 
     }

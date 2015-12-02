@@ -1,0 +1,30 @@
+----------------------------------------------------------
+------------01-12-2015 _ 20-52-20------------
+---- INSTANCIA 'scp44' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449012722443
+Cantidad de luciernagas: 25
+Numero de iteraciones: 1000
+B0: 1
+Gamma: 5.5
+Alfa: 1.0
+
+Porcentaje de no cambio permitido: 51
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 24004
+Generacion 1: 18099
+Generacion 57: 17693
+Generacion 64: 17624
+Generacion 555: 17299
+
+----------------------------------------------------------
+
+Mejor Solucion: 17299
+Cambios obligatorios: 0/1000
+Cambios para mejor: 4/1000
+----------------------------------------------------------

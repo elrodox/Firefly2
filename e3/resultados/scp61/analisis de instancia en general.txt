@@ -1,0 +1,86 @@
+scp61, ejecutada 20 veces
+min: 15866
+max: 18269
+avg: 16975
+Resultados de mejor a peor segun fitness:
+=========================
+fitness: 15866
+seed: 1449018292778
+results path: resultados/scp61/19) 01-12-2015 _ 22-04-52/
+=========================
+fitness: 16018
+seed: 1449018239777
+results path: resultados/scp61/10) 01-12-2015 _ 22-03-59/
+=========================
+fitness: 16188
+seed: 1449018282409
+results path: resultados/scp61/17) 01-12-2015 _ 22-04-42/
+=========================
+fitness: 16448
+seed: 1449018271908
+results path: resultados/scp61/15) 01-12-2015 _ 22-04-31/
+=========================
+fitness: 16468
+seed: 1449018199917
+results path: resultados/scp61/4) 01-12-2015 _ 22-03-19/
+=========================
+fitness: 16555
+seed: 1449018219988
+results path: resultados/scp61/7) 01-12-2015 _ 22-03-39/
+=========================
+fitness: 16612
+seed: 1449018253121
+results path: resultados/scp61/12) 01-12-2015 _ 22-04-13/
+=========================
+fitness: 16644
+seed: 1449018226729
+results path: resultados/scp61/8) 01-12-2015 _ 22-03-46/
+=========================
+fitness: 16858
+seed: 1449018246438
+results path: resultados/scp61/11) 01-12-2015 _ 22-04-06/
+=========================
+fitness: 16886
+seed: 1449018206489
+results path: resultados/scp61/5) 01-12-2015 _ 22-03-26/
+=========================
+fitness: 16995
+seed: 1449018213256
+results path: resultados/scp61/6) 01-12-2015 _ 22-03-33/
+=========================
+fitness: 17115
+seed: 1449018287650
+results path: resultados/scp61/18) 01-12-2015 _ 22-04-47/
+=========================
+fitness: 17166
+seed: 1449018266683
+results path: resultados/scp61/14) 01-12-2015 _ 22-04-26/
+=========================
+fitness: 17269
+seed: 1449018260203
+results path: resultados/scp61/13) 01-12-2015 _ 22-04-20/
+=========================
+fitness: 17390
+seed: 1449018233254
+results path: resultados/scp61/9) 01-12-2015 _ 22-03-53/
+=========================
+fitness: 17633
+seed: 1449018179194
+results path: resultados/scp61/1) 01-12-2015 _ 22-02-59/
+=========================
+fitness: 17639
+seed: 1449018277202
+results path: resultados/scp61/16) 01-12-2015 _ 22-04-37/
+=========================
+fitness: 17730
+seed: 1449018186342
+results path: resultados/scp61/2) 01-12-2015 _ 22-03-06/
+=========================
+fitness: 17758
+seed: 1449018297946
+results path: resultados/scp61/20) 01-12-2015 _ 22-04-57/
+=========================
+fitness: 18269
+seed: 1449018193013
+results path: resultados/scp61/3) 01-12-2015 _ 22-03-13/
+

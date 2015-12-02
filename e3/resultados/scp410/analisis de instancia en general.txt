@@ -1,0 +1,86 @@
+scp410, ejecutada 20 veces
+min: 15818
+max: 18106
+avg: 17072
+Resultados de mejor a peor segun fitness:
+=========================
+fitness: 15818
+seed: 1449014671905
+results path: resultados/scp410/7) 01-12-2015 _ 21-04-31/
+=========================
+fitness: 16056
+seed: 1449014654891
+results path: resultados/scp410/5) 01-12-2015 _ 21-04-14/
+=========================
+fitness: 16550
+seed: 1449014637111
+results path: resultados/scp410/3) 01-12-2015 _ 21-03-57/
+=========================
+fitness: 16675
+seed: 1449014778632
+results path: resultados/scp410/20) 01-12-2015 _ 21-06-18/
+=========================
+fitness: 16729
+seed: 1449014628654
+results path: resultados/scp410/2) 01-12-2015 _ 21-03-48/
+=========================
+fitness: 16752
+seed: 1449014770623
+results path: resultados/scp410/19) 01-12-2015 _ 21-06-10/
+=========================
+fitness: 16796
+seed: 1449014680251
+results path: resultados/scp410/8) 01-12-2015 _ 21-04-40/
+=========================
+fitness: 16842
+seed: 1449014713206
+results path: resultados/scp410/12) 01-12-2015 _ 21-05-13/
+=========================
+fitness: 16858
+seed: 1449014645852
+results path: resultados/scp410/4) 01-12-2015 _ 21-04-05/
+=========================
+fitness: 17139
+seed: 1449014746354
+results path: resultados/scp410/16) 01-12-2015 _ 21-05-46/
+=========================
+fitness: 17190
+seed: 1449014762087
+results path: resultados/scp410/18) 01-12-2015 _ 21-06-02/
+=========================
+fitness: 17217
+seed: 1449014663376
+results path: resultados/scp410/6) 01-12-2015 _ 21-04-23/
+=========================
+fitness: 17246
+seed: 1449014721594
+results path: resultados/scp410/13) 01-12-2015 _ 21-05-21/
+=========================
+fitness: 17266
+seed: 1449014704703
+results path: resultados/scp410/11) 01-12-2015 _ 21-05-04/
+=========================
+fitness: 17344
+seed: 1449014620117
+results path: resultados/scp410/1) 01-12-2015 _ 21-03-40/
+=========================
+fitness: 17631
+seed: 1449014754437
+results path: resultados/scp410/17) 01-12-2015 _ 21-05-54/
+=========================
+fitness: 17667
+seed: 1449014696628
+results path: resultados/scp410/10) 01-12-2015 _ 21-04-56/
+=========================
+fitness: 17671
+seed: 1449014688340
+results path: resultados/scp410/9) 01-12-2015 _ 21-04-48/
+=========================
+fitness: 17906
+seed: 1449014729694
+results path: resultados/scp410/14) 01-12-2015 _ 21-05-29/
+=========================
+fitness: 18106
+seed: 1449014737954
+results path: resultados/scp410/15) 01-12-2015 _ 21-05-37/
+

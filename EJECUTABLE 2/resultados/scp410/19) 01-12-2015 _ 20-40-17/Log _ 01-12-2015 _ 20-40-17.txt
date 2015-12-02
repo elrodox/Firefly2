@@ -1,0 +1,32 @@
+----------------------------------------------------------
+------------01-12-2015 _ 20-40-17------------
+---- INSTANCIA 'scp410' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449012722443
+Cantidad de luciernagas: 25
+Numero de iteraciones: 1000
+B0: 1
+Gamma: 5.5
+Alfa: 1.0
+
+Porcentaje de no cambio permitido: 51
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 22848
+Generacion 1: 17641
+Generacion 257: 17187
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24916
+Generacion 768: 17621
+Generacion 796: 17550
+Generacion 825: 17468
+
+----------------------------------------------------------
+
+Mejor Solucion: 17468
+Cambios obligatorios: 1/1000
+Cambios para mejor: 5/1000
+----------------------------------------------------------

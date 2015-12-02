@@ -1,0 +1,86 @@
+scpb2, ejecutada 20 veces
+min: 50748
+max: 58229
+avg: 55027
+Resultados de mejor a peor segun fitness:
+=========================
+fitness: 50748
+seed: 1449021186468
+results path: resultados/scpb2/20) 01-12-2015 _ 22-53-06/
+=========================
+fitness: 50968
+seed: 1449021089654
+results path: resultados/scpb2/14) 01-12-2015 _ 22-51-29/
+=========================
+fitness: 51250
+seed: 1449021038701
+results path: resultados/scpb2/11) 01-12-2015 _ 22-50-38/
+=========================
+fitness: 51335
+seed: 1449020975027
+results path: resultados/scpb2/7) 01-12-2015 _ 22-49-35/
+=========================
+fitness: 52692
+seed: 1449021024354
+results path: resultados/scpb2/10) 01-12-2015 _ 22-50-24/
+=========================
+fitness: 53293
+seed: 1449021009559
+results path: resultados/scpb2/9) 01-12-2015 _ 22-50-09/
+=========================
+fitness: 53385
+seed: 1449020900990
+results path: resultados/scpb2/2) 01-12-2015 _ 22-48-20/
+=========================
+fitness: 53773
+seed: 1449020930971
+results path: resultados/scpb2/4) 01-12-2015 _ 22-48-50/
+=========================
+fitness: 55728
+seed: 1449020915671
+results path: resultados/scpb2/3) 01-12-2015 _ 22-48-35/
+=========================
+fitness: 56076
+seed: 1449021119324
+results path: resultados/scpb2/16) 01-12-2015 _ 22-51-59/
+=========================
+fitness: 56127
+seed: 1449021059742
+results path: resultados/scpb2/12) 01-12-2015 _ 22-50-59/
+=========================
+fitness: 56254
+seed: 1449021135977
+results path: resultados/scpb2/17) 01-12-2015 _ 22-52-15/
+=========================
+fitness: 56485
+seed: 1449020960528
+results path: resultados/scpb2/6) 01-12-2015 _ 22-49-20/
+=========================
+fitness: 56667
+seed: 1449021150617
+results path: resultados/scpb2/18) 01-12-2015 _ 22-52-30/
+=========================
+fitness: 57113
+seed: 1449021104491
+results path: resultados/scpb2/15) 01-12-2015 _ 22-51-44/
+=========================
+fitness: 57318
+seed: 1449020946142
+results path: resultados/scpb2/5) 01-12-2015 _ 22-49-06/
+=========================
+fitness: 57365
+seed: 1449021166891
+results path: resultados/scpb2/19) 01-12-2015 _ 22-52-46/
+=========================
+fitness: 57785
+seed: 1449020993244
+results path: resultados/scpb2/8) 01-12-2015 _ 22-49-53/
+=========================
+fitness: 57965
+seed: 1449020885856
+results path: resultados/scpb2/1) 01-12-2015 _ 22-48-05/
+=========================
+fitness: 58229
+seed: 1449021075046
+results path: resultados/scpb2/13) 01-12-2015 _ 22-51-15/
+

@@ -15,11 +15,15 @@ public class MiniInstancia {
 //    public String resultadosInstanciaPath;
     public String resultadosEjecucionPath;
     public int fitness;
+    public long seed;
 
-    public MiniInstancia(String resultadosEjecucionPath, int fitness) {
+    public MiniInstancia(String resultadosEjecucionPath, int fitness, long seed) {
         this.resultadosEjecucionPath = resultadosEjecucionPath;
         this.fitness = fitness;
+        this.seed = seed;
     }
+
+    
 
     
 

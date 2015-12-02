@@ -26,13 +26,13 @@ public class Utils {
     public static String getStringDateForFile(){
         return sdf_file.format(new Date());
     }
-    public static Random getRandom(){
-        if(random!=null) return random;
-        else{
-            random = new Random(Config.SEED);
-            return random;
-        }
-    }
+//    public static Random getRandom(){
+//        if(random!=null) return random;
+//        else{
+//            random = new Random(Config.SEED);
+//            return random;
+//        }
+//    }
     public static String millisToTime(long millis){
         return String.format("%02d hrs %02d mins", 
             TimeUnit.MILLISECONDS.toHours(millis),

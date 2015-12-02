@@ -29,17 +29,20 @@ public class Luciernaga {
 //    private int cantRestricciones=-1, cantCostos=-1;
 //    private int[][] matrix = new int[0][0];
 //    private ArrayList<Integer> vectorCostos = new ArrayList<Integer>();
-    
+    private Random random;
     private int[] solucion;
     private int fitness;
     
     public Luciernaga(Instancia instancia) {
+        this.random = new Random(instancia.getSeed());
         this.instancia = instancia;
         this.solucion = generarSolucionAleatoria();
         this.validarYReparar();
         this.calcularFitness();
+        
     }
     public Luciernaga(int[] solucion, Instancia instancia) {
+        this.random = new Random(instancia.getSeed());
         this.instancia = instancia;
         this.solucion = solucion;
         this.validarYReparar();
@@ -49,7 +52,7 @@ public class Luciernaga {
     public int[] generarSolucionAleatoria(){
         int[] nuevaLuciernaga = new int[instancia.getCantCostos()];
         for (int i = 0; i < instancia.getCantCostos(); i++) {
-            nuevaLuciernaga[i] = Utils.getRandom().nextInt(2);
+            nuevaLuciernaga[i] = random.nextInt(2);
         }
         return nuevaLuciernaga;
     }
@@ -108,8 +111,8 @@ public class Luciernaga {
         double nuevoMvto=0;
 //        Random r1 = new Random(System.currentTimeMillis());
 //        Random r2 = new Random(System.currentTimeMillis());
-        Random r1 = Utils.getRandom();
-        Random r2 = Utils.getRandom();
+//        Random r1 = random;
+//        Random r2 = random;
        
         
         for (int i = 0; i < solucion.length; i++) {
@@ -118,9 +121,9 @@ public class Luciernaga {
         for (int i = 0; i < solucion.length; i++) {
             nuevoMvto = solucion[i] + Config.B0*Math.exp((double)(-this.instancia.GAMMA*r))* 
                     (bestSolucion[i]-solucion[i]) + this.instancia.ALFA*
-                    (r2.nextDouble() - 0.5); 
+                    (random.nextDouble() - 0.5); 
             double s = 1/(1+Math.exp(-nuevoMvto));
-            nuevaSolucion[i] = s<r1.nextDouble() ? 1:0;
+            nuevaSolucion[i] = s<random.nextDouble() ? 1:0;
         }
         Luciernaga nuevaLuciernaga = new Luciernaga(nuevaSolucion, this.instancia);
         return nuevaLuciernaga;

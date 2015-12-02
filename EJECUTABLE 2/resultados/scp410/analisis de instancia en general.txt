@@ -1,0 +1,66 @@
+scp410, ejecutada 20 veces
+min: 16541
+max: 17545
+avg: 17197
+Resultados de mejor a peor segun fitness:
+=========================
+fitness: 16541
+results path: resultados/scp410/12) 01-12-2015 _ 20-38-55/
+=========================
+fitness: 16585
+results path: resultados/scp410/16) 01-12-2015 _ 20-39-43/
+=========================
+fitness: 16865
+results path: resultados/scp410/11) 01-12-2015 _ 20-38-41/
+=========================
+fitness: 16926
+results path: resultados/scp410/18) 01-12-2015 _ 20-40-05/
+=========================
+fitness: 17027
+results path: resultados/scp410/2) 01-12-2015 _ 20-36-46/
+=========================
+fitness: 17107
+results path: resultados/scp410/10) 01-12-2015 _ 20-38-27/
+=========================
+fitness: 17110
+results path: resultados/scp410/17) 01-12-2015 _ 20-39-53/
+=========================
+fitness: 17194
+results path: resultados/scp410/4) 01-12-2015 _ 20-37-13/
+=========================
+fitness: 17237
+results path: resultados/scp410/7) 01-12-2015 _ 20-37-53/
+=========================
+fitness: 17247
+results path: resultados/scp410/20) 01-12-2015 _ 20-40-28/
+=========================
+fitness: 17272
+results path: resultados/scp410/14) 01-12-2015 _ 20-39-21/
+=========================
+fitness: 17291
+results path: resultados/scp410/9) 01-12-2015 _ 20-38-16/
+=========================
+fitness: 17346
+results path: resultados/scp410/13) 01-12-2015 _ 20-39-08/
+=========================
+fitness: 17373
+results path: resultados/scp410/8) 01-12-2015 _ 20-38-04/
+=========================
+fitness: 17417
+results path: resultados/scp410/5) 01-12-2015 _ 20-37-27/
+=========================
+fitness: 17419
+results path: resultados/scp410/3) 01-12-2015 _ 20-37-00/
+=========================
+fitness: 17447
+results path: resultados/scp410/6) 01-12-2015 _ 20-37-41/
+=========================
+fitness: 17468
+results path: resultados/scp410/19) 01-12-2015 _ 20-40-17/
+=========================
+fitness: 17541
+results path: resultados/scp410/15) 01-12-2015 _ 20-39-32/
+=========================
+fitness: 17545
+results path: resultados/scp410/1) 01-12-2015 _ 20-36-32/
+

@@ -1,0 +1,31 @@
+----------------------------------------------------------
+------------01-12-2015 _ 21-07-24------------
+---- INSTANCIA 'scp42' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449014844974
+Cantidad de luciernagas: 25
+Numero de iteraciones: 1000
+B0: 1
+Gamma: 5.5
+Alfa: 1.0
+
+Porcentaje de no cambio permitido: 51
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 25952
+Generacion 1: 19906
+Generacion 2: 19739
+Generacion 3: 17244
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25952
+Generacion 514: 17244
+
+----------------------------------------------------------
+
+Mejor Solucion: 17244
+Cambios obligatorios: 1/1000
+Cambios para mejor: 4/1000
+----------------------------------------------------------

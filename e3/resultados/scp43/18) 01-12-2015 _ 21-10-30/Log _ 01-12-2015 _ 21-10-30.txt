@@ -1,0 +1,31 @@
+----------------------------------------------------------
+------------01-12-2015 _ 21-10-30------------
+---- INSTANCIA 'scp43' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449015030643
+Cantidad de luciernagas: 25
+Numero de iteraciones: 1000
+B0: 1
+Gamma: 5.5
+Alfa: 1.0
+
+Porcentaje de no cambio permitido: 51
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 25284
+Generacion 1: 20072
+Generacion 4: 19398
+Generacion 7: 17374
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 25284
+Generacion 518: 17374
+
+----------------------------------------------------------
+
+Mejor Solucion: 17374
+Cambios obligatorios: 1/1000
+Cambios para mejor: 4/1000
+----------------------------------------------------------

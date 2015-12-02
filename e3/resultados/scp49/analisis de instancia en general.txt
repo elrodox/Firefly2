@@ -1,0 +1,86 @@
+scp49, ejecutada 20 veces
+min: 16283
+max: 18873
+avg: 17667
+Resultados de mejor a peor segun fitness:
+=========================
+fitness: 16283
+seed: 1449015772926
+results path: resultados/scp49/13) 01-12-2015 _ 21-22-52/
+=========================
+fitness: 16887
+seed: 1449015717963
+results path: resultados/scp49/7) 01-12-2015 _ 21-21-57/
+=========================
+fitness: 17005
+seed: 1449015676919
+results path: resultados/scp49/1) 01-12-2015 _ 21-21-16/
+=========================
+fitness: 17067
+seed: 1449015825740
+results path: resultados/scp49/19) 01-12-2015 _ 21-23-45/
+=========================
+fitness: 17177
+seed: 1449015711500
+results path: resultados/scp49/6) 01-12-2015 _ 21-21-51/
+=========================
+fitness: 17342
+seed: 1449015808170
+results path: resultados/scp49/17) 01-12-2015 _ 21-23-28/
+=========================
+fitness: 17404
+seed: 1449015747750
+results path: resultados/scp49/10) 01-12-2015 _ 21-22-27/
+=========================
+fitness: 17700
+seed: 1449015689453
+results path: resultados/scp49/3) 01-12-2015 _ 21-21-29/
+=========================
+fitness: 17717
+seed: 1449015756669
+results path: resultados/scp49/11) 01-12-2015 _ 21-22-36/
+=========================
+fitness: 17731
+seed: 1449015764675
+results path: resultados/scp49/12) 01-12-2015 _ 21-22-44/
+=========================
+fitness: 17733
+seed: 1449015683255
+results path: resultados/scp49/2) 01-12-2015 _ 21-21-23/
+=========================
+fitness: 17748
+seed: 1449015799016
+results path: resultados/scp49/16) 01-12-2015 _ 21-23-19/
+=========================
+fitness: 17837
+seed: 1449015780858
+results path: resultados/scp49/14) 01-12-2015 _ 21-23-00/
+=========================
+fitness: 17859
+seed: 1449015734998
+results path: resultados/scp49/9) 01-12-2015 _ 21-22-14/
+=========================
+fitness: 18013
+seed: 1449015726324
+results path: resultados/scp49/8) 01-12-2015 _ 21-22-06/
+=========================
+fitness: 18050
+seed: 1449015696002
+results path: resultados/scp49/4) 01-12-2015 _ 21-21-36/
+=========================
+fitness: 18182
+seed: 1449015703787
+results path: resultados/scp49/5) 01-12-2015 _ 21-21-43/
+=========================
+fitness: 18290
+seed: 1449015789230
+results path: resultados/scp49/15) 01-12-2015 _ 21-23-09/
+=========================
+fitness: 18447
+seed: 1449015834408
+results path: resultados/scp49/20) 01-12-2015 _ 21-23-54/
+=========================
+fitness: 18873
+seed: 1449015817007
+results path: resultados/scp49/18) 01-12-2015 _ 21-23-37/
+

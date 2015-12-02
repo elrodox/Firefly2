@@ -1,0 +1,86 @@
+scpa5, ejecutada 20 veces
+min: 49718
+max: 57538
+avg: 53775
+Resultados de mejor a peor segun fitness:
+=========================
+fitness: 49718
+seed: 1449020328076
+results path: resultados/scpa5/6) 01-12-2015 _ 22-38-48/
+=========================
+fitness: 49753
+seed: 1449020516751
+results path: resultados/scpa5/17) 01-12-2015 _ 22-41-56/
+=========================
+fitness: 50207
+seed: 1449020430059
+results path: resultados/scpa5/12) 01-12-2015 _ 22-40-30/
+=========================
+fitness: 50505
+seed: 1449020532991
+results path: resultados/scpa5/18) 01-12-2015 _ 22-42-12/
+=========================
+fitness: 51792
+seed: 1449020393867
+results path: resultados/scpa5/10) 01-12-2015 _ 22-39-53/
+=========================
+fitness: 51799
+seed: 1449020413908
+results path: resultados/scpa5/11) 01-12-2015 _ 22-40-13/
+=========================
+fitness: 52406
+seed: 1449020248143
+results path: resultados/scpa5/1) 01-12-2015 _ 22-37-28/
+=========================
+fitness: 52986
+seed: 1449020279552
+results path: resultados/scpa5/3) 01-12-2015 _ 22-37-59/
+=========================
+fitness: 53172
+seed: 1449020263964
+results path: resultados/scpa5/2) 01-12-2015 _ 22-37-43/
+=========================
+fitness: 53652
+seed: 1449020344354
+results path: resultados/scpa5/7) 01-12-2015 _ 22-39-04/
+=========================
+fitness: 54077
+seed: 1449020468197
+results path: resultados/scpa5/14) 01-12-2015 _ 22-41-08/
+=========================
+fitness: 54316
+seed: 1449020360088
+results path: resultados/scpa5/8) 01-12-2015 _ 22-39-20/
+=========================
+fitness: 55154
+seed: 1449020565691
+results path: resultados/scpa5/20) 01-12-2015 _ 22-42-45/
+=========================
+fitness: 55215
+seed: 1449020377398
+results path: resultados/scpa5/9) 01-12-2015 _ 22-39-37/
+=========================
+fitness: 56371
+seed: 1449020449778
+results path: resultados/scpa5/13) 01-12-2015 _ 22-40-49/
+=========================
+fitness: 56429
+seed: 1449020500806
+results path: resultados/scpa5/16) 01-12-2015 _ 22-41-40/
+=========================
+fitness: 56493
+seed: 1449020295638
+results path: resultados/scpa5/4) 01-12-2015 _ 22-38-15/
+=========================
+fitness: 56665
+seed: 1449020549439
+results path: resultados/scpa5/19) 01-12-2015 _ 22-42-29/
+=========================
+fitness: 57271
+seed: 1449020311993
+results path: resultados/scpa5/5) 01-12-2015 _ 22-38-31/
+=========================
+fitness: 57538
+seed: 1449020484791
+results path: resultados/scpa5/15) 01-12-2015 _ 22-41-24/
+

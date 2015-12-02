@@ -1,0 +1,86 @@
+scp55, ejecutada 20 veces
+min: 34073
+max: 38581
+avg: 36443
+Resultados de mejor a peor segun fitness:
+=========================
+fitness: 34073
+seed: 1449017065808
+results path: resultados/scp55/12) 01-12-2015 _ 21-44-25/
+=========================
+fitness: 34868
+seed: 1449016986756
+results path: resultados/scp55/5) 01-12-2015 _ 21-43-06/
+=========================
+fitness: 34936
+seed: 1449017043959
+results path: resultados/scp55/10) 01-12-2015 _ 21-44-03/
+=========================
+fitness: 35098
+seed: 1449016964979
+results path: resultados/scp55/3) 01-12-2015 _ 21-42-44/
+=========================
+fitness: 35125
+seed: 1449016943095
+results path: resultados/scp55/1) 01-12-2015 _ 21-42-23/
+=========================
+fitness: 35986
+seed: 1449016997659
+results path: resultados/scp55/6) 01-12-2015 _ 21-43-17/
+=========================
+fitness: 36048
+seed: 1449017031746
+results path: resultados/scp55/9) 01-12-2015 _ 21-43-51/
+=========================
+fitness: 36054
+seed: 1449017019483
+results path: resultados/scp55/8) 01-12-2015 _ 21-43-39/
+=========================
+fitness: 36263
+seed: 1449017160537
+results path: resultados/scp55/20) 01-12-2015 _ 21-46-00/
+=========================
+fitness: 36455
+seed: 1449017054953
+results path: resultados/scp55/11) 01-12-2015 _ 21-44-14/
+=========================
+fitness: 36491
+seed: 1449016953934
+results path: resultados/scp55/2) 01-12-2015 _ 21-42-33/
+=========================
+fitness: 36804
+seed: 1449017077067
+results path: resultados/scp55/13) 01-12-2015 _ 21-44-37/
+=========================
+fitness: 36908
+seed: 1449017109741
+results path: resultados/scp55/16) 01-12-2015 _ 21-45-09/
+=========================
+fitness: 37032
+seed: 1449017087881
+results path: resultados/scp55/14) 01-12-2015 _ 21-44-47/
+=========================
+fitness: 37236
+seed: 1449017123150
+results path: resultados/scp55/17) 01-12-2015 _ 21-45-23/
+=========================
+fitness: 37292
+seed: 1449016975875
+results path: resultados/scp55/4) 01-12-2015 _ 21-42-55/
+=========================
+fitness: 37725
+seed: 1449017135655
+results path: resultados/scp55/18) 01-12-2015 _ 21-45-35/
+=========================
+fitness: 37891
+seed: 1449017098758
+results path: resultados/scp55/15) 01-12-2015 _ 21-44-58/
+=========================
+fitness: 38004
+seed: 1449017008532
+results path: resultados/scp55/7) 01-12-2015 _ 21-43-28/
+=========================
+fitness: 38581
+seed: 1449017148557
+results path: resultados/scp55/19) 01-12-2015 _ 21-45-48/
+

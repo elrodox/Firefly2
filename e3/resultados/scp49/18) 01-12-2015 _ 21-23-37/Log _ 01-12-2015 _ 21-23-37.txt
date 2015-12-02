@@ -1,0 +1,32 @@
+----------------------------------------------------------
+------------01-12-2015 _ 21-23-37------------
+---- INSTANCIA 'scp49' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449015817007
+Cantidad de luciernagas: 25
+Numero de iteraciones: 1000
+B0: 1
+Gamma: 5.5
+Alfa: 1.0
+
+Porcentaje de no cambio permitido: 51
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 24657
+Generacion 1: 20157
+Generacion 7: 19740
+Generacion 12: 19437
+Generacion 17: 18873
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 24657
+Generacion 528: 18873
+
+----------------------------------------------------------
+
+Mejor Solucion: 18873
+Cambios obligatorios: 1/1000
+Cambios para mejor: 5/1000
+----------------------------------------------------------

@@ -1,0 +1,31 @@
+----------------------------------------------------------
+------------01-12-2015 _ 22-37-28------------
+---- INSTANCIA 'scpa5' ----
+---- CONFIGURACION INICIAL ---
+
+Semilla: 1449020248143
+Cantidad de luciernagas: 25
+Numero de iteraciones: 1000
+B0: 1
+Gamma: 5.5
+Alfa: 1.0
+
+Porcentaje de no cambio permitido: 51
+Logs normales: false
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+Generacion 0: 73494
+Generacion 1: 58460
+Generacion 28: 57558
+Generacion 55: 52406
+!---> EXPLORANDO. NUEVA BEST LUCIERNAGA: 73494
+Generacion 566: 52406
+
+----------------------------------------------------------
+
+Mejor Solucion: 52406
+Cambios obligatorios: 1/1000
+Cambios para mejor: 4/1000
+----------------------------------------------------------
