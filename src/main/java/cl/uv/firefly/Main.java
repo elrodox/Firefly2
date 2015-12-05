@@ -29,26 +29,26 @@ public class Main {
 //        String lineaParametros = "-seed 1448793896422 -luciernagas 25 -iteraciones 10 -b0 1 -alfa 0.1 -gamma 5.5 -porcentajeNoCambio 12";
         
         if(args.length==0){
-            String lineaParametros = "-iteraciones 1000 -ejecuciones 20";
-            args = lineaParametros.split(" ");
+            //String lineaParametros = "-iteraciones 5000 -ejecuciones 1";
+            //args = lineaParametros.split(" ");
         }
         
         Config.leerParametros(args);
-        log = new Logs(new Output(Config.resultadosPath+"/analisis general.txt"), true);
-        
-        log.println("\nInicio: "+Utils.getStringDate());
-        log.println("Cantidad de luciernagas: "+Config.CANT_LUCIERNAGAS);
-        log.println("B0: "+Config.B0);
-        log.println("Alfa: "+Config.ALFA);
-        log.println("Gamma: "+Config.GAMMA);
-        log.println("Numero de iteraciones: "+Config.NUM_ITERACIONES);
-        log.println("Numero de ejecuciones: "+Config.ejecucionesPorInstancia);
-        log.println("Porcentaje de cambio no permitido: "+Config.PORCENTAJE_NO_CAMBIO_PERMITIDO);
+//        log = new Logs(new Output(Config.resultadosPath+"/analisis general.txt"), true);
+//        
+//        log.println("\nInicio: "+Utils.getStringDate());
+//        log.println("Cantidad de luciernagas: "+Config.CANT_LUCIERNAGAS);
+//        log.println("B0: "+Config.B0);
+//        log.println("Alfa: "+Config.ALFA);
+//        log.println("Gamma: "+Config.GAMMA);
+//        log.println("Numero de iteraciones: "+Config.NUM_ITERACIONES);
+//        log.println("Numero de ejecuciones: "+Config.ejecucionesPorInstancia);
+//        log.println("Porcentaje de cambio no permitido: "+Config.PORCENTAJE_NO_CAMBIO_PERMITIDO);
+            
+        unaInstanciaVariasVeces("scp41.txt");
         
         //unaInstanciaUnaVez("scp41.txt");
-        //unaInstanciaVariasVeces("scp41.txt");
-        
-        todasLasInstanciasVariasVeces();
+        //todasLasInstanciasVariasVeces();
     }
 
 //    
@@ -59,17 +59,11 @@ public class Main {
 //        }
 //    }
 //    
-//   public static void unaInstanciaUnaVez(String nombreArchivo){
-//        Instancia instancia = new Instancia(nombreArchivo, 1, Config.ALFA, Config.GAMMA);
-////        Logs.inicializarLog(instancia);
-////        Logs.normal.println("Leyendo instancia: "+instancia.getNombre());
-//        instancia = Input.leerInstancia(instancia);
-////        Logs.normal.println("Se ha leido una Matriz de: "
-////                +instancia.getMatrix().length+"x"
-////                +instancia.getMatrix()[0].length);
-//        instancia.ejecutarInstancia();
-////        Logs.importante.cerrarLog();
-//   }
+   public static void unaInstanciaUnaVez(String nombreArchivo){
+        Instancia instancia = new Instancia(nombreArchivo, 1, Config.ALFA, Config.GAMMA);
+        instancia = Input.leerInstancia(instancia);
+        instancia.ejecutarInstancia();
+   }
     
    
     public static void todasLasInstanciasVariasVeces(){

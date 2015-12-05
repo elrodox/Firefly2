@@ -28,16 +28,18 @@ public class Config {
     
 //    public static long SEED = System.currentTimeMillis();
     public static int CANT_LUCIERNAGAS=25;
-    public static int NUM_ITERACIONES=1000;
+    public static int NUM_ITERACIONES=300000;
+    public static int ejecucionesPorInstancia = 1;
+    
     public static int B0 = 1; 
     public static double ALFA = 1.0; 
-    public static double GAMMA = 5.5;
+    public static double GAMMA = 2.5;
     public static int PORCENTAJE_NO_CAMBIO_PERMITIDO=51;
     
     public static boolean activarLogsNormales = false;
     public static boolean activarColores = true;
     
-    public static int ejecucionesPorInstancia = 20;
+    
     
     
 //    private static boolean SOLO_MOSTRAR_CONFIG = false;

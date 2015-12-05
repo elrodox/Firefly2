@@ -21,6 +21,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
+import java.util.Random;
 
 public class Instancia {
    
@@ -42,6 +43,8 @@ public class Instancia {
     private String id;
     private String resultadosEjecucionPath;
     private int numeroEjecucion;
+    
+    private Random random;
     
             
     private int[][] matrix = null;
@@ -66,6 +69,7 @@ public class Instancia {
         this.ALFA = alfa;
         this.numeroEjecucion = numeroEjecucion;
         this.seed = System.currentTimeMillis();
+        this.random = new Random(seed);
         
         resultadosInstanciaPath = Config.resultadosPath+nombre+"/";
         resultadosEjecucionPath = resultadosInstanciaPath+numeroEjecucion+") "+id+"/";
@@ -76,7 +80,7 @@ public class Instancia {
         
         String nombreLog = "Log _ "+this.id+".txt";
         Output out = new Output(resultadosEjecucionPath+nombreLog);
-        logPrincipal = new Logs(out, false);
+        logPrincipal = new Logs(out, true);
         console = new Logs(false);
         imprimirConfiguracionInstancia();
     }
@@ -133,22 +137,22 @@ public class Instancia {
                 logPrincipal.println("Generacion "+generacion+": "+bestLuciernaga.getFitness());
                 grafico.agregarValor(bestLuciernaga.getFitness(), generacion);
                 
-//                fin = new Date();
-//                millisPorXGeneraciones = fin.getTime() - inicio.getTime();
-//                generacionesRestantes = Config.NUM_ITERACIONES - generacion;
-//                long millisRestantesEstimados = generacionesRestantes * millisPorXGeneraciones/xGeneraciones;
-//                String tiempoRestante = Utils.millisToTime(millisRestantesEstimados);
-//                double porcentaje = (double)generacion*100/Config.NUM_ITERACIONES;
-//                DecimalFormat formatter = new DecimalFormat("#0.00"); 
-//                SimpleDateFormat sdf = new SimpleDateFormat ("dd/MM/yyyy - HH:mm:ss");
-//                console.println(
-//                        "["+sdf.format(fin)+"]: "
-//                        +"Tiempo estimado: "+tiempoRestante
-//                        +" --- Gen: "+generacion+"/"+Config.NUM_ITERACIONES
-//                        +" --- "+formatter.format(porcentaje)+"%"
-//                );
-//                xGeneraciones=0;
-//                inicio = new Date();
+                fin = new Date();
+                millisPorXGeneraciones = fin.getTime() - inicio.getTime();
+                generacionesRestantes = Config.NUM_ITERACIONES - generacion;
+                long millisRestantesEstimados = generacionesRestantes * millisPorXGeneraciones/xGeneraciones;
+                String tiempoRestante = Utils.millisToTime(millisRestantesEstimados);
+                double porcentaje = (double)generacion*100/Config.NUM_ITERACIONES;
+                DecimalFormat formatter = new DecimalFormat("#0.00"); 
+                SimpleDateFormat sdf = new SimpleDateFormat ("dd/MM/yyyy - HH:mm:ss");
+                console.println(
+                        "["+sdf.format(fin)+"]: "
+                        +"Tiempo estimado: "+tiempoRestante
+                        +" --- Gen: "+generacion+"/"+Config.NUM_ITERACIONES
+                        +" --- "+formatter.format(porcentaje)+"%"
+                );
+                xGeneraciones=0;
+                inicio = new Date();
                 
             }else{
 //                if(generacion%100==0){
@@ -321,6 +325,10 @@ public class Instancia {
         return seed;
     }
 
+    public Random getRandom() {
+        return random;
+    }
+    
     
 
     

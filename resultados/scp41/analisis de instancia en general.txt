@@ -1,0 +1,10 @@
+scp41, ejecutada 1 veces
+min: 3887
+max: 3887
+avg: 3887
+Resultados de mejor a peor segun fitness:
+=========================
+fitness: 3887
+seed: 1449212533377
+results path: resultados/scp41/1) 04-12-2015 _ 04-02-13/
+
